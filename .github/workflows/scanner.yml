@@ -1,0 +1,61 @@
+# HantaWatch Live Scanner — GitHub Actions
+# Runs every 15 minutes for free. No server needed.
+#
+# Setup:
+#   1. Push this repo to GitHub (public or private)
+#   2. Create a GitHub Gist at gist.github.com — add a file "live-scan.json" with content {}
+#   3. Go to repo Settings → Secrets and variables → Actions → New repository secret:
+#        GIST_ID = <the ID from your Gist URL: gist.github.com/<user>/<THIS_ID>>
+#   4. Done — the scanner runs every 15 min and updates your Gist automatically
+#
+# The public Gist raw URL: https://gist.githubusercontent.com/<user>/<gist_id>/raw/live-scan.json
+# Add this URL to app.js runNewsScan() as an additional source.
+
+name: HantaWatch Live Scanner
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # every 15 minutes
+  workflow_dispatch:           # allow manual trigger from GitHub UI
+
+permissions:
+  contents: write              # needed to commit live-scan.json back to repo
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install feedparser requests beautifulsoup4 lxml
+
+      - name: Run scanner (single pass)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GIST_ID:      ${{ secrets.GIST_ID }}
+          # Optional: uncomment and set if you want Railway push too
+          # RAILWAY_PUSH_URL: ${{ secrets.RAILWAY_PUSH_URL }}
+          # RAILWAY_PUSH_KEY: ${{ secrets.RAILWAY_PUSH_KEY }}
+        run: python scanner.py --once
+
+      - name: Commit scan results to repo
+        run: |
+          git config user.name  "HantaWatch Bot"
+          git config user.email "bot@nexura.health"
+          git add live-scan.json
+          git diff --staged --quiet || git commit -m "scan: $(date -u +'%Y-%m-%dT%H:%M:%SZ') [skip ci]"
+          git push
