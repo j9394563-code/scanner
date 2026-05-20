@@ -1,10 +1,10 @@
 {
-  "scanned_at": "2026-05-20T19:34:36.502782+00:00",
-  "total": 33,
+  "scanned_at": "2026-05-20T23:56:06.367853+00:00",
+  "total": 32,
   "cases": [
     {
       "id": "cs_6f69e2fb5789",
-      "count": 40,
+      "count": 1,
       "status": "suspected",
       "location": {
         "country": "United Kingdom",
@@ -128,8 +128,20 @@
         },
         {
           "source": "Google News (DE)",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbXFnVl9ZejZlTmxYMzhTYmpSSDFmbU40U05mNHdDTUlxRlNfeW96NWthczlnNE51ekl2UGJBMFBBRGp5V1dlTTBOZnNIZGt6UHNobjRidDlzRGxLN0JzUGM0SlpBcjVuSTZQdFJKclJvb2tVd0ctSEJsQjVOT2xEdWZEZWJLNzVucVRZRFJVT2drNlhCX3ZaemNWa3g3b0xTd0taLWpRWHV0MFlLcmFRLTNSck1DQ0JBLTJwM25WNk5CNDhGbkxUYzhHSExDWWQyUy1NVExpLW5xdWM2LVJIZllYdU9zRTFnNTcyamRZT3k?oc=5",
+          "title": "Hantavirus auf Kreuzfahrtschiff: Drei Tote, ein Schweizer Patient in Behandlung - Neue Zürcher Zeitung",
+          "weight": 4
+        },
+        {
+          "source": "Google News (DE)",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYXM2Z0ZiYkMtd1hubU52Z0t0d3BpNEFuWEhDVmstYU5hRTF6dnI4WDhxVXY5MF9MTm5aUGRucXMyWGM2aVFQb2MwY2RLeHZGbkptMTZDWDQxOE91czRQeVVkckJMaHIyVGduLVJVcVNyTWVWVEpSblBDWDdnWDIzaXFtYnhPYl9xS2lyemh0VEthb19LNHI2Q0NPR3pYbGNXSW8teQ?oc=5",
           "title": "Hantavirus auf Kreuzfahrtschiff: Drei Tote, ein Schweizer Patient in Behandlung - Neue Zürcher Zeitung",
+          "weight": 4
+        },
+        {
+          "source": "Google News (DE)",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPM1ZaTXRoZHlKVW9FV1BFcE1yeTNySEtmMWNfUzlTdW1PX2YzOE5jMW82aE9DU3ZfSm1nZ3g2eEZLYnVTbGRTZ1B1TFFHYXN2UFA2VVlwcWN2REU0dmF3UUkxOGdsaUlqTlRDblJRUkR2NERONVZuZ2w3enlkMTRzLTBVM3JuRUtsN1JjY2VLdzY1aURV?oc=5",
+          "title": "Wie die Schweiz auf den Ausbruch des Hantavirus reagiert - Aargauer Zeitung",
           "weight": 4
         },
         {
@@ -152,20 +164,8 @@
         },
         {
           "source": "Google News (DE)",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOanpCQ1loS3BtNzExNER3THRzdlo5S1RyQ0I2bzhxRlZ5UkNoNTRkMkhCVm5KblAwTHZEQXBYVVRvNGplOUIzT2NJWThFWHF0VnljeVNteEl4ZzQydFlLTDNkSFNHY3FMTEM1LU1ITzc2R0otazVfaDVGa0xLeWp3QWVtaTU5dGlrbTRNYVZkYkptLUVLYTNSWmM0UTE3S2hRcDg5NDltQlNHOTdoVWV0Tzl4SlJhUlBrV1N1dVRNandJYmFTN0lYNmJicHJPbEZTNm5oS2pPTzAzYk5Ndm1wenBEQlExZ3VQWVNKSUdjSXpJRjJycGc?oc=5",
-          "title": "Hantavirus-Fall in der Schweiz nach Ausbruch auf Kreuzfahrtschiff - SRF",
-          "weight": 4
-        },
-        {
-          "source": "Google News (DE)",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYi14RGxjY2g5TWF5U0RKNklUS0J2UkxXbmRrbGRtVmNaSjVwUXdlU3B4RTNmR3NXd19kNWFmSFhZWlRka0NvcUFrUWNFemZnRXpybW53MnZuQ1VvRUw2Q1FKbVM2eE8tNm1abnV2NHF4bU92MkI0MjV4MDVxRTdLSDJINGJybmh4MWR2eU90N1N1SEZz?oc=5",
-          "title": "Hantavirus-Fall in der Schweiz: Patient im Universitätsspital Zürich isoliert - St. Galler Tagblatt",
-          "weight": 4
-        },
-        {
-          "source": "Google News (DE)",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTlZyTG5DVHFCc3BuWHkxUGM3Vl9vR0h4dHVIR3paaFhtNk53NnNLdjR0ZXk2aXNOMHliRzVhQ2x4aUJpNWtHT1FDUVpfVVpnQklYdHllWWxPNHktc3BfVG9RMjlUSTZSN1BtcU5mNG5zX1lJcDlIWUNpYlZUcFNPMjRVNFQ2cE4zS0R1OHRpT2E5VmNtLVNMdklEbk1pMkhSU2FiMlUxN3FFSjJWR1FMNVY4Zk1NVXh5dUlDVGt0VW1DQ2lZMzdTZGJ2MUM2SG9NTGpwX1paemUwTG1GS1haQVdaUGVNSXJvZmxrcjdvM0VqLXF3NEMzMzFrd1I4aXdIY05pdUpBb2xUajVFM0dtbmVHaHMtYlk2bUJxSjJuM2EtXzQ?oc=5",
-          "title": "tagesschau24: Hantavirus auf Kreuzfahrtschiff: Weiterer Fall in der Schweiz - hier anschauen - ARD Mediathek",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaVpFeDhZTkllOVBBQkE1ZHA5QV8xbjhzOVJyZzZ2aVIyOVh1ZFhtMTlqb3BwbmFNOHFMSHA2S280UEpHUkFoVko3SjEwSVRLaW1oZDc5dUVVWVExdUFEb1Zmd3lZMlhEQW5tcVBNMDhHbW5hWXQxZi1XUnFCVzl0S0FlcDkzbmppanBmdE5DeEIwelR6QTIyQW1WYlRfUQ?oc=5",
+          "title": "Hantavirus-Fall in der Schweiz: Patient im Universitätsspital Zürich isoliert - Aargauer Zeitung",
           "weight": 4
         }
       ],
@@ -204,7 +204,7 @@
       ],
       "confidence": 0.63,
       "clinical_notes": "<p>On May 18, 2026, the Centers for Disease Control and Prevention (CDC) confirmed that 18 recently repatriated U.S. passengers from the M/V Hondius cruise ship were requested to remain at the Nebraska Quarantine Facility through May 31, 2026, which would be the 21-day mark of their monitoring period. Since the passengers disembarked from the ship, three additional cases of hantavirus have been identified — one each in France, Spain, and recently, Canada.<br />\nCDC has issued quarantine orders f",
-      "scanned_at": "2026-05-20T19:34:12.577780+00:00"
+      "scanned_at": "2026-05-20T23:55:40.591829+00:00"
     },
     {
       "id": "cs_e15b41cb4995",
@@ -234,27 +234,43 @@
       "scanned_at": "2026-05-19T18:18:40.254489+00:00"
     },
     {
-      "id": "cs_9c7ea139b513",
+      "id": "cs_bafe6de7d3c3",
       "count": 34,
       "status": "suspected",
       "location": {
         "country": "Argentina",
-        "city": "Ushuaia",
-        "lat": -54.81,
-        "lng": -68.3
+        "city": "Buenos Aires",
+        "lat": -34.61,
+        "lng": -58.38
       },
-      "date": "Wed, 20 May 2026 19:15:02 GMT",
+      "date": "Wed, 20 May 2026 23:02:31 GMT",
       "age": null,
       "nationality": null,
       "sex": null,
-      "flights": [
-        "LV11"
-      ],
+      "flights": [],
       "sources": [
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVXlvMDBYTlFIWVF6eGx6Nnd3VHZzbXFJSklmRW1wVGlYX194RVc1b1RIOWFlZTJlNkVCMHJuNTBDS3JkWFg1YU1QbmpDcGx0Xy1rb3lEazlQaDZKZEZJbkZFUjlpTS1UYmE2ZkFqMFIzR0lDZXRjRVhXM0IyU0djUHNpQmJEUFFRMmRVc2JaeEdEZXRVZmpNV1pPSjJZMUdYcXM1cUZxSGs3VkF3QnRZSmhpRTRDemJZREpBR3loYTZ1ZkVRM2J6VVgzZzdLNURtMWhXRjE0QmRRODDSAe8BQVVfeXFMUGlHd3dnNXZaREdnYUdkV3pScUhFNmVIZnExNmc5ZE8yamx0MTdaSmVHdXNuOFpJaWNuU1o4bm54Vjh5SFFJNmhsRmVoSDZrQ0hiVDRDZXNyaFRIWEw5dlJicUhsSG80dFBLY1hjR2twbExLZ1p3UlVsZDY1NlZXeTdRRDM1V3A5RklzTm1EMmlFZnF0M2xRM19mMDlSLWZKUnMzQzJZZ0JGVjhRLVB4bUsxTklUeW1UTmRiLXY2bFdsZkZIZFFmRmRMRFY0RVU4RTZMXzV5TFNUckI0VTFQSG1SSnhWUTkzRWltTUhqa0U?oc=5",
+          "title": "Hantavirus: hay 45 contagios confirmados en el país y crecieron los casos en la provincia de Buenos Aires - TN",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObV9ET1V3M3gyT3paYm5Qel9vTGU1UHdPYTdvUXZRcHBlRG40T0ZtcnRweFVMSE5jNWFaOTJLVkhRNGFXQWY0VlhzQnZiTnotNHJQOWFXNzFLZVlBZnc5R2k2OHExYnBUelhFVHZyemRjdkJ4dGNnd0c2RGxmVHY5Yl9rRmRVUy1nNnJTV2h3T3ZPRWdWSjJNcFRhTDYxS0dMck0tZjAzeVJkVGJHVjFTTFlBYUZ5WEdZcGNtTw?oc=5",
+          "title": "Se registran 17 casos de hantavirus durante el 2026 en Salta - saltacomparativa.com.ar",
+          "weight": 4
+        },
         {
           "source": "Google News (ES)",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN3BZVE5ObUc0c3VrME5aQnhjRWhrZ3llY2dwN0J2eHZxeUQ5RXBtenZZaF9ZQi1UWllSQTVZNWxlOGE3X0ZkeEdSS2xLOFpGWFZlSEJBWFNoM2pZZVhiMGoxdWM5VmJMQ29GWUtBYkxtUjNoMmplWkV1cFdvM0drZHdjYW1qUk1DaGMzZ1k1ZlhXN2dKMjJVZ0RJOXg2STZ3SWFwMWJwb2VCM3pJSFJkVEUxLW44T2p6dWY5VUw1bFRpWjdLR1Q2bjZRM05ZNWR1ellYSzhSb2R6TWs5amZqakxhSVdjSVJrNzZz0gGGAkFVX3lxTE92dUlmai1OQVY4Z3lneEtkVndHOVl0YXJwZWdWRnM1NmpvNS03dUtRSDVLSWYxbUd4aVBCN0ZkbXBSbG9uVHBrZVluSlM0Z1FMdVhSU2FFYy1TSWhrM2ZRNjhOWG1aamF5ZXNVa2hnNDJOWXdHb0xteUJoLXgzSGFDeTk0OVBfOUhINi1rdmMyVmVEcXlmSUVMQ0ljRnRucFVqZEVBMllndEZFVG41dldDZnQyNDlNUFNjeHQxSE5FcWVlQlR0ZlFxMk9XTUF6OFBvUEN2LUozSmdPczFwUXpOREV4aGpBT0NrZk1wRGhLRVpScDFuV21oek8zOGhFaEt2aW9aUUE?oc=5",
           "title": "El hantavirus suma 45 contagios en el país y un equipo del Malbrán trabaja en Ushuaia tras el brote en el crucero - Infobae",
+          "weight": 4
+        },
+        {
+          "source": "Google News (EN)",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmtaY2JjTm5BMzRFMmR5ektQQlBVdEFBTnRjVm1zaTJWbXJUQTEwdXZoUmRZN0cxVHN2bXlFc1Q2UzI4aUZxd0ZBenVNX21NSmxrbEl4NUFTTHVIaVNCdWVtTU1zZlJGU1VsMUMwcm5NUkd3bE1hZnRGbkZWdkY0OWlRaVBhVzJjd2NjV19rV1o0cVZPcWhLRXEySVdlUTFneHpxcmRkdEg?oc=5",
+          "title": "Buenos Aires province reports sharp rise in hantavirus cases - Buenos Aires Herald",
           "weight": 4
         },
         {
@@ -280,41 +296,23 @@
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR2Z1Ri1jY3Bfcmx3WTNodHFiOE1ROGFVTkV5aERrTHY3YjZkenNzVlJBRkYyc3ZMNVJBMnJNcWJzODQ5S21wUkowQUhWalRUU0tNS1JMd2pDUF9zenFpeVZ2WGxaWDRnb0FNUWI4a3NTYm16ZWdDdkM2LXJVMGZjWGViYnVoR0FLSklDck9GVUFyZV9lMEtUOE9HVVllUnhfUkk3amlqR2ltVFpwU21LRGRpbnNlcDdlX1VfdWl5SEF4eWxCMVZGTHRPQWRJdXBsNUp2UHJB?oc=5",
           "title": "Crece la preocupación por el avance del hantavirus en Buenos Aires: ya hubo siete muertes en 2026 — ACTUALIDAD - Opinando San Nicolás",
           "weight": 4
-        },
-        {
-          "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd0N4SzN3SkJ0bjIyQVVOT2VLODhEVE9qU0lqT3VRelEwUXBxUWJ4OUxQN0F3R0ZTZ2Y1TFdxdDhqVGl0M0lieC16VzNlNDZHWGdDRURtem5nOG9BRzBHc3p4SUhaSmNiQmJUejVDemNNWlcyYXR2M3A3eGs3OTRQenN1cnZPT3ljcFNxLUpJMFJTNUJGWnQwUjJQS0hjUUUycG5KQjFfRVpMN1d5MHNwTHVlYUVaUW9YVWlvU0tTN3VrNVhmZlFEOHdLT2dYZw?oc=5",
-          "title": "Se identificaron 3 nuevos casos de hantavirus en Argentina y uno es de Chubut - El Chubut",
-          "weight": 4
-        },
-        {
-          "source": "Google News (EN)",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMVZmdjhqdkVlaC1FSWNPbzdrYmY4a3o0dTdfMEdFYTc2NFhOWFRlWmxkRHFXZ2hUOFh6WHZGY1Vic2hkY2F5YzZlRElqbEtVY19LRXJkTWxZdWV1dXNLRWlpd2VwYk1xa3lSbEM2TTVuSFZQZXRYWXc4VWdNRXJOanJpVlNsME9uNkJQTl9IZWdTbEtlQ0M2bw?oc=5",
-          "title": "Argentina rushes to track source of hantavirus outbreak - VOV World",
-          "weight": 5
-        },
-        {
-          "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaDRqcXZnSlZLWEE1YWMzRFQxNTBKVG9heC1nenJWNlVnUkxHTzRaXzR3dFZfU0h2d0pVa0otQmdIeGs0NEFHQnNVdC1zeFY4VjNtYnFOYUs2NTNVYmM1aGdnYW9kdWQtamNnUlJsSmhyTngwUjlxMXRMRnNBUFM0WVJpQ1NkV2xvZGlueEp1YjN6LWFLZWRMSHRzbU5uR1JWemxjRC11Xzkyd3NBZUpCV3NSN3RlQmx3N3c?oc=5",
-          "title": "Brote de hantavirus en Buenos Aires: 18 casos y siete muertes en lo que va del 2026 - Diario Época Corrientes",
-          "weight": 4
         }
       ],
       "confidence": 0.58,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPN3BZVE5ObUc0c3VrME5aQnhjRWhrZ3llY2dwN0J2eHZxeUQ5RXBtenZZaF9ZQi1UWllSQTVZNWxlOGE3X0ZkeEdSS2xLOFpGWFZlSEJBWFNoM2pZZVhiMGoxdWM5VmJMQ29GWUtBYkxtUjNoMmplWkV1cFdvM0drZHdjYW1qUk1DaGMzZ1k1ZlhXN2dKMjJVZ0RJOXg2STZ3SWFwMWJwb2VCM3pJSFJkVEUxLW44T2p6dWY5VUw1bFRpWjdLR1Q2bjZRM05ZNWR1ellYSzhSb2R6TWs5amZqakxhSVdjSVJrNzZz0gGGAkFVX3lxTE92dUlmai1OQVY4Z3lneEtkVndHOVl0YXJwZWdWRnM1NmpvNS03dUtRSDVLSWYxbUd4aVBCN0ZkbXBSbG9uVHBrZVluSlM0Z1FMdVhSU2FFYy1TSWhrM2ZRNj",
-      "scanned_at": "2026-05-20T19:34:09.155482+00:00"
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVXlvMDBYTlFIWVF6eGx6Nnd3VHZzbXFJSklmRW1wVGlYX194RVc1b1RIOWFlZTJlNkVCMHJuNTBDS3JkWFg1YU1QbmpDcGx0Xy1rb3lEazlQaDZKZEZJbkZFUjlpTS1UYmE2ZkFqMFIzR0lDZXRjRVhXM0IyU0djUHNpQmJEUFFRMmRVc2JaeEdEZXRVZmpNV1pPSjJZMUdYcXM1cUZxSGs3VkF3QnRZSmhpRTRDemJZREpBR3loYTZ1ZkVRM2J6VVgzZzdLNURtMWhXRjE0QmRRODDSAe8BQVVfeXFMUGlHd3dnNXZaREdnYUdkV3pScUhFNmVIZnExNmc5ZE8yamx0MTdaSmVHdXNuOFpJaWNuU1o4bm54Vjh5SFFJNmhsRmVoSDZrQ0hiVDRDZXNyaFRIWEw5dlJicUhsSG80dFBLY1hjR2twbE",
+      "scanned_at": "2026-05-20T23:55:36.060665+00:00"
     },
     {
-      "id": "cs_0a8bafe00e8c",
+      "id": "cs_1cd249b528b6",
       "count": 1,
       "status": "suspected",
       "location": {
         "country": "USA",
-        "city": "Usa",
-        "lat": 37.09,
-        "lng": -95.71
+        "city": "Nebraska",
+        "lat": 41.49,
+        "lng": -99.9
       },
-      "date": "Wed, 20 May 2026 09:09:00 GMT",
+      "date": "Wed, 20 May 2026 20:51:15 GMT",
       "age": null,
       "nationality": null,
       "sex": null,
@@ -322,9 +320,27 @@
       "sources": [
         {
           "source": "Google News (EN)",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHVZNHl2MmVDYmFZWG5fZHVsTDFLNEN2NHhOQXk2WXptenJvUGY4WnpPdWlSZVc0SGtjQ1hFaXU2UUlkeVpFd0NKQlpRM2pQeGVwR0tiS2RmQUw5T1AzMGlGemxOZHd5b1NSR3ppMXUtdlp2c21oQ1B0MTB2YTdOeUFSUm5LV0JDYk1XbXJncko5Zw?oc=5",
+          "title": "NC officials: Nebraska hantavirus quarantine extended through end of month - WRAL",
+          "weight": 5
+        },
+        {
+          "source": "Google News (EN)",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTUxZdDB0MzB0NjhfNnZ5bHJtdjZBY0VnNXNHd3FXa2U0Qzh0TVV1SlhCVDZkTXVtcXMxVGJTWXd1UFBRclNld2VrQ1MzUm5MS3l1S3A1RXdySUpmaTQtSVVEUWN6dHpNR2dkVU51WEt2YmtwbGdZTFUxMnlvRmV4cURLZ2h2ZUQyT3JkT2E3ZHBsX001RU90X1JjLXlNWjJw?oc=5",
+          "title": "Ebola and hantavirus reveal US as a major threat to global health - Salon.com",
+          "weight": 4
+        },
+        {
+          "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmxjVWN2ZWlMZG5pS21RVF9fdHlhZElQVm43RS11Y3JlRDlyOGRfT0MzaVdxbnhVa29MMEZmWlJvY01Mc3NNb2hZM2lHV0NUdTMtS1ZOQVpPa1ZNdXl3VzIyaXBEVWMtdXl6ZEJWSXVGaFBySkNLcGE5TWZpcjg1RGdfTllJSHl0SW00NDU3TGg2UHVHVTBFcWJYd0laRE9kNy1HV1hJNmt1YUlHQVA0a1pYTG81dWJJODBjZFp3?oc=5",
           "title": "Zoonotic spillover diseases like hantavirus and ebola are on the rise | The Excerpt - USA Today",
           "weight": 4
+        },
+        {
+          "source": "Google News (EN)",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdFJBV2s4U05BcUVzbmVWSmZJZkRGa2hfYVR4YmpKby1NaEtsUzc3TWRBQ1o0RFB0WkZWVF8xanJyM05VZEswYkhndnFFUGZqMnNIUFdpeVNOa3o4Y2FhVHF0SmktbEt2LTBfSS11Zi0xd1pCVGJia1NOMjlvcVMyYnlZcVlBSmhSemdaRHB2cjRKMEFXdF9JeUJ0MWpIbTg5ZUJTZC1HQlFHZ1lyeklwOXJZOXl0c21pUWVicWtjQjloTVhhNlIxVA?oc=5",
+          "title": "American passenger on hantavirus-hit cruise feels 'blindsided,' 'misled' by new quarantine orders - KSL.com",
+          "weight": 5
         },
         {
           "source": "Google News (EN)",
@@ -336,7 +352,7 @@
           "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YVXhGRlpNQXN5bkI2VFJTNmNGdExsb3VWQTBZN2NfWGFySEVyMkU3WEM0SVdCTmVmc2d2MXNockh2Vy1Hb2h2Wm9vNDVLeFNlYmNDbFd6amlrbnFiV21QXzNuZGVlN1dNUnJ2REFYSEVEVGtOZlBlag?oc=5",
           "title": "American passenger on hantavirus-hit cruise feels ‘blindsided’ and ‘misled’ by new quarantine orders - CNN",
-          "weight": 5
+          "weight": 4
         },
         {
           "source": "Google News (EN)",
@@ -349,41 +365,23 @@
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZUlmeXZVMlM3MWg2WWNxUFRBRzFDUG0zeTc4MERsenRKRWktcFVlWlhKVlE3WUYxUUpzaU40VElxbm5MQlg2Y3dyeXFGU2VONmJwX25ocERISzFDLVFNZUx2VHlKZ2x3NjVOSVBRV2hyZnNCZ3FMQV8tcHIwZngtREdsblp6T243M2hUUk5uclJ1ZGR6cllFTl9Yd3lJUDM3YVpLQ1NpMG5QTHdQaDNEUG5WOTZWWUdRZWZj?oc=5",
           "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak - KLKN-TV",
           "weight": 5
-        },
-        {
-          "source": "Google News (EN)",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqT204V0VCVEh4cUZXVmVTV2JyYThsN1RkMmhrdVNVdWZ1ZVBtY1JJUmZvUXcxNkFnVTdVeW1ERWhxTzVWZTBzWEdxcXh4R2llZDZUdzlSUHN1c2dYX2hvRXVkLXY1LWtqNF9NR1VjVkNKRmc?oc=5",
-          "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak - Boston Herald",
-          "weight": 4
-        },
-        {
-          "source": "Google News (EN)",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ubXpRTlJQQ1E5M042ZkNLU0ZtMjlNTkpqVC1vQUhvcjd5OG95RV9CQkg5WVNBRUVYTENGbGhEY292Y0pWNmlncXdnSVBaV1RYSDFzM2VoNzdQRUlpNTA2emhBZWsxaUdzZFVuSFN3M0U?oc=5",
-          "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak - Pioneer Press",
-          "weight": 5
-        },
-        {
-          "source": "Google News (EN)",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRkprVTE5Z0J5dlByRjEtUGl1a0tzOHZxVmJfR1NPNmNLbmhlX195LTk5azdvY3hIVWVpZEVuaGtzbWYxeVA1U09RZWJCaklVSVRZZVY4ZGF1ajhrUkhFMXIyUzd5Tmc2cTNyUkNuOUZFX3kwZkVQUG5WeDJwSy1oaGw2Wk5VX1VFMkZjQ1NqMlVWNGVHM1lYelVuZ0pUTkFDVDUzV3BFMDVONmk1TUplOFNQMnhyT0NBTXVLdTIzU3QxYlhiYlpPVmEydnowVFVkZVE?oc=5",
-          "title": "US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak - MyNorthwest.com",
-          "weight": 5
         }
       ],
       "confidence": 0.58,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRkprVTE5Z0J5dlByRjEtUGl1a0tzOHZxVmJfR1NPNmNLbmhlX195LTk5azdvY3hIVWVpZEVuaGtzbWYxeVA1U09RZWJCaklVSVRZZVY4ZGF1ajhrUkhFMXIyUzd5Tmc2cTNyUkNuOUZFX3kwZkVQUG5WeDJwSy1oaGw2Wk5VX1VFMkZjQ1NqMlVWNGVHM1lYelVuZ0pUTkFDVDUzV3BFMDVONmk1TUplOFNQMnhyT0NBTXVLdTIzU3QxYlhiYlpPVmEydnowVFVkZVE?oc=5\" target=\"_blank\">US health officials order quarantine for 2 passengers from cruise ship with hantavirus outbreak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MyNorthwest",
-      "scanned_at": "2026-05-20T10:36:26.588024+00:00"
+      "scanned_at": "2026-05-20T23:55:33.913364+00:00"
     },
     {
-      "id": "cs_30f16fe0f101",
+      "id": "cs_12162faa8033",
       "count": 1,
       "status": "suspected",
       "location": {
         "country": "Netherlands",
-        "city": "Dutch",
-        "lat": 52.13,
-        "lng": 5.29
+        "city": "Rotterdam",
+        "lat": 51.92,
+        "lng": 4.48
       },
-      "date": "Tue, 19 May 2026 21:53:05 GMT",
+      "date": "Wed, 20 May 2026 05:15:00 GMT",
       "age": null,
       "nationality": null,
       "sex": null,
@@ -391,9 +389,15 @@
       "sources": [
         {
           "source": "Google News (EN)",
+          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPcXZCdFNqZGE4ZVdqdDM2dUs2ckk4MFpwT0k4SUJiODhWclFnTndoOVN3SFVkXzNlbTN1MWFodkxyajNHQ0V0YnRIZV9RMFYybk9paC00SnpEV2cxeWxSSEVGbnJTTlM3U1NCQzFwb2xJZTdjempGRjdhcHpQZTJsVzJtU2w1UVRablo5Rm52VlBVazRlc21hUHhVaHQ0RUJMSE8tVm1QRlFPUVZVa3psMWZYT184UjBuSUZsaHdsWi15emF5alpUWnNlQkVralMwTlI1TC1XWnhpLTkzaGV4clluNlE3eXY3bERUSVlrekJ4MzRpWjZQczNUNG1XOEM0OXBqMEFCQ0NDem9rV0xaVFdUcm5YRzF1eWp3ZWp3UjNRdHF5NXpIbzJOYUJGUVhIVm5lbkx0d1Y2WG5Mb0RiNExQQTNuR3NiWVdPUXptY1pkRnJTQ3I3NkpxV2RYNnU2?oc=5",
+          "title": "Cruise ship MV Hondius arrives in Rotterdam following hantavirus outbreak - MSN",
+          "weight": 5
+        },
+        {
+          "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa29rRTdROTlQUzV5d29zdy0wdGI3ejJ4OHFCVWo1WFhSZ0dvQUR1bkFQQkdGb2lBNW8ta0NSb0JGSUZPUnBqckxNUlFOWVRxSXVTbGpibmRZbGR6NU1TVmRvR2o1X084eG9MVHE4T1JqMXN2ZVZrMHBWQW9lZ1Z5djBmQXVWNk9XU3daRGdoT2gzYnZKcFp1VGl3?oc=5",
           "title": "Hantavirus outbreak doesn't appear to have originated on Dutch cruise ship, CEO says - CBC",
-          "weight": 4
+          "weight": 5
         },
         {
           "source": "Google News (EN)",
@@ -430,17 +434,11 @@
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVcwaGRPU3FEZ1hkMGRNYzBfSFNDd1J1dFY0MmZRZGpzd3ZlbnZsOWZTZ0FtUnd6amxjOTdaYllrNTNQWHg1aUJkSUQ2T0taQXc0dTZndEp3SmVhNE9jQnVCdzlDOC1zVnVnMGd5VEtJcU1oSXk4U2dRUUI2X3VrbFNsQU5KdC1Q?oc=5",
           "title": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection - Boston Herald",
           "weight": 5
-        },
-        {
-          "source": "Google News (EN)",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT1VFVjFERTZoWGVaRU9TTk0zN1JJTUY5UVU5YVg0T2psR2E2OENSdVNJcjY3WDV2ZWRfZTg4SE9ybUIxMjdUWVVKUkh4dW5MSF9FRkItRDEtX2YwTlpxQWVvM2J5OHZGandMU1BybVBOU2ExcGl5Z0hIMkNFdXZaTEh0S2VIUWd5ckVBZ2Fn?oc=5",
-          "title": "Hantavirus-stricken cruise ship docks in the Netherlands for disinfection - AP News",
-          "weight": 5
         }
       ],
       "confidence": 0.58,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMinwJBVV95cUxNSWhLdTBEcDFFVjZ0SUpVQ3FicS1yWXFFT2RMNkl5ajZpWWVLTW9Ga04xTi1hVmtkUmNiX1dOS0tIemUwLWFQU2NrakJ2SWFnMmt4VUNFLU91bTlqbG9sNFUtb0JudVlrTllkLWVzMlJqVzh4UXZ5Mk9OT0ZJVjVaSGhrV2pFa2dMV0l4SExtUURiWVhETmtTdDhOQ3VVay10dkxvejA1Qm1CM0lpcUJuZ3RLUWFLX1otb2habWU3WWFJa1J2N2VvZUU2RkxLMmpZYVgwMTd5YTNpX21zWERjRE81S2RkZUlnX2U2SWp1TWFWcEtQUWR5azltSVEtMXViUkJxc0FranZPa1VKR3V6REo4N2h0MDFtRVBtdmNfTQ?oc=5\" target=\"_blank\">Licensable picture: Health precaution mea",
-      "scanned_at": "2026-05-20T19:34:05.603046+00:00"
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxPcXZCdFNqZGE4ZVdqdDM2dUs2ckk4MFpwT0k4SUJiODhWclFnTndoOVN3SFVkXzNlbTN1MWFodkxyajNHQ0V0YnRIZV9RMFYybk9paC00SnpEV2cxeWxSSEVGbnJTTlM3U1NCQzFwb2xJZTdjempGRjdhcHpQZTJsVzJtU2w1UVRablo5Rm52VlBVazRlc21hUHhVaHQ0RUJMSE8tVm1QRlFPUVZVa3psMWZYT184UjBuSUZsaHdsWi15emF5alpUWnNlQkVralMwTlI1TC1XWnhpLTkzaGV4clluNlE3eXY3bERUSVlrekJ4MzRpWjZQczNUNG1XOEM0OXBqMEFCQ0NDem9rV0xaVFdUcm5YRzF1eWp3ZWp3UjNRdHF5NXpIbzJOYUJGUVhIVm5lbkx0d1Y2WG5Mb0RiNExQQTNuR3NiWVdPUXptY1",
+      "scanned_at": "2026-05-20T23:55:33.939917+00:00"
     },
     {
       "id": "cs_84a75649fa2b",
@@ -509,7 +507,7 @@
       ],
       "confidence": 0.58,
       "clinical_notes": "<p>\"For 78 years, this Assembly has been where the world meets to confront shared threats with a shared response.<br />\n<br />\nMultilateralism is not easy. But it’s worth it.<br />\n<br />\nNational sovereignty and international cooperation are not mutually exclusive; they are mutually reinforcing.<br />\n<br />\nWhen I was in Tenerife last week, supporting the disembarkment of passengers from the MV Hondius, it occurred to me that the cruise ship is a lot like our world.<br />\n<br />\nThe passengers",
-      "scanned_at": "2026-05-20T19:34:07.564921+00:00"
+      "scanned_at": "2026-05-20T23:55:34.447532+00:00"
     },
     {
       "id": "cs_83ae4cff6d0a",
@@ -553,6 +551,12 @@
         },
         {
           "source": "Google News (DE)",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1BBLXNucXBMdi1mN08xOVpYSVhNLXNGeGFtTUpCMWVxZ0lSa2tCUjBpZ2s2VDhLU04xX3RoTDE4TmI4R2NPeFhCUEZmNWI0WFRCaEQ5T2xvdERQT09vMjdOMHFQN3pCRTZZSWN5T0tGVzdIMjV4bDNKQ2o4eXF2RlVqOW1FX1diZEZkRmdQWFpZamE2RERZUUM5QjhDN2FaSUZR?oc=5",
+          "title": "Wie wirkt sich ein weltweites Hantavirus-Pandemie-Szenario im Jahr 2026 auf globale Wirtschaften aus? - Yahoo! Finanzen Deutschland",
+          "weight": 4
+        },
+        {
+          "source": "Google News (DE)",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVZoTjFXVFVTbTBzUEFteXlDUXllMUdYbUJkREk3QmcxdGlWRG52WlUtdjlzSUc2ZGx5YzlRSFliY2htSGdZeUx6Zy1sbjAyTjR6bGFZLW10S1Z0VlAxNDdVTThIVFJlV2tTNHJaajNfS3dOc3FWWE1fWDlyUXZ5b1ZUZTNiYUZfcEo3dldDblB1RDF5eHRBMWRRejF0VHh4NU1XMnZsTHp0Z2xYQ1hwd1k0Zw?oc=5",
           "title": "Hantavirus-Ausbruch: Eine Person erreicht Berlin und bleibt in häuslicher Quarantäne - rbb24.de",
           "weight": 4
@@ -567,12 +571,6 @@
           "source": "Google News (DE)",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FUExCc2hMaDdwUFk1OUNoR2ZKMThGRWlnUUxlTDRKNk13VUQwdGhwNUsyb1JEYnRSaXNVTlZta3F2OEN0ZGRjd1I2Y0hDclUtME85SmtoSzNIR2JJRHdz?oc=5",
           "title": "Vier deutsche Passagiere des Kreuzfahrtschiffs mit Hantavirus-Infizierten wieder in Deutschland - tagesschau.de",
-          "weight": 4
-        },
-        {
-          "source": "Google News (DE)",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYjZmLWhkTTNlNVZ5Tll2MnA3OWFWT2VVbnpvLXhKYWg5eEd2NkozeDR6M19NUENFZlVtaXZYcEhwemVsYnF4QkNjVVdJZWMwcUJaVnZHQnFNSkRtVHloaG9EU1k5R0tKOW9HdmJjNFNWUnRxWUkzZlU3OFRoeFZGMURELVhWVUZzMmdtZGZnaHBXN1BMSmRWR2Y1SjBuR3VnV181d1k4aHl2QzZIX1pneWZWTlIzZjZobGIwLTR6dUFoRWZhdXdaSE9HWThsVXhEbm9KbkMxMHhWZw?oc=5",
-          "title": "Hessen: Hantavirus-Ausbruch: Vier \"Hondius\"-Passagiere in Frankfurt angekommen - tagesschau.de",
           "weight": 4
         }
       ],
@@ -632,7 +630,7 @@
       ],
       "confidence": 0.5466666666666667,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdjVIdE5rYnItLTBJdGpxV24wSVQzaXJnWGFCenJHQXdBekZhd2YyazBJUlpVLXFwZzloelRYZGY3RWJWTkkzb0RRV2YtSFZjZVlacHE1N2NtMWswY3p5Y3p0NkZ0LUh6VlNYanpIYkpXZEJLQ0M5M0FwUmI0REZheDVVNmtxM1QtdmpYSlNkbWV1SWVxeVZUQ3RnUm8xeXpZTEx3QlRxbHo1SVI0YW15VklXWdIBuAFBVV95cUxOU1FLRlE5QkJmTHZ1UExWQmo1SVcwZlpYRGtTVDZGUUI1aTdQTmd4OGVBZDcyUWI2MVg0YWEzblpLMmFNc0hfX2U3eVFJLUtiVldNTDhYcHJEaWpMcjBYeUlHc1FXRlNYSWhWZHpBR2ttN21Rc2FCUXhzelRmckRrNllUOUZaOVI4dTg1YVY5a2VyQS0zYnRPYl",
-      "scanned_at": "2026-05-20T19:34:07.059548+00:00"
+      "scanned_at": "2026-05-20T23:55:33.917191+00:00"
     },
     {
       "id": "cs_a843fae70eed",
@@ -728,7 +726,7 @@
       ],
       "confidence": 0.4966666666666667,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxOQ2p5OFVoRkMtZVU5ZnJyMzdVSGE2VVFEQVFIUjFHY0xRVGsyLTNBMzlzRGVqWF9oQVZpMV9WZlRNbnl3ODhDZllBaWpHS3ZlNXlSV01ja1FLR3RRZktOMWpPRFBleEhwTnhSdDlvekxIODRyZ05ZQng3M2twUXoxejE2QnI4ZVBaVGsxeEl4V2VlUWIxc3MyY21WMnNuUXd2cnE5LUZoZDVxYVFKYWZwTURVT3VzMXptbTIyMDBDX2s5c0dCbDF5dmRacUZ5Z0dFbldNRFY1bnJQZHlKU1lvQW5CLU16STR5czlsMmRqU19aWktzUERxMW1Yb0dYMHlrYUdmX3gyeXkxVDlhNU1PYVhENFhJYmRSeGd2emlB?oc=5\" target=\"_blank\">Hantavirus : couple, voisin de cabine, méde",
-      "scanned_at": "2026-05-20T19:34:09.891057+00:00"
+      "scanned_at": "2026-05-20T23:55:36.872850+00:00"
     },
     {
       "id": "cs_0f389c65fe6c",
@@ -953,7 +951,7 @@
       ],
       "confidence": 0.4966666666666667,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnlKcDMzRlhLT1ZVRmZfcERxQTdaQm9JdnRmSjlFY1RzT0FXQXJSampLY1lCOURsVGdTdndvalBpU2EwR2pJZlVjdi1jbE41cDhUeUNNcVNnYjVGeW5DS3VNZ2ZMbWZoOGpCOE0yQlZJWG9yX1BtbzJMZ1EyanBSNkx4Vk1pTjBXYUxNb0VObnd6enZTNmxzc1ZKX09yMExTaHl3eVV4NkFWQ2ptTi1qRzlPNGZmeklYY3EtSHgxbzJLdkUtc2o5VkszNNIB3wFBVV95cUxOMVBLanRXSnNFTTNNUVJWQnYtZ3FwNmVjU0pQOTZEWk9kaFNlSUZtcm0yazFmbm5UYlZUVU1rOF92d0VwR0VqZllZY2FwN2VfYnhfdWlSMmNhczE3RDN6WnlqQXpOQVQzM3AtQnB3eVNmcE5VNzFNLTBHRmgwRlFRS0",
-      "scanned_at": "2026-05-19T22:47:43.958914+00:00"
+      "scanned_at": "2026-05-20T23:55:33.954971+00:00"
     },
     {
       "id": "cs_fb954568b63c",
@@ -1007,7 +1005,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGdVWC1FSWRHNVFfeUdhM1o2cVVxRGd1S2VrQVZwRnE5Q2Z0ckZZVFdQbjc4WkE3Qy1OaTAxNmdBRWM4TkhjR1FlMXV3UnFOUnprWlMzZDR1RzdaTVRJX3J4a3pUb0U3YThYVmpoS3BnUV9tWDNQMl9EZDB2MDVqLTlMQXFyTG02TVhaTTlpWG91TXBfWTFreGZZSFdqNWtMb3Riak94Qk1PX1BWMWc2SVpiOUw?oc=5\" target=\"_blank\">Erster Verdachtsfall auf Hantavirus in Portugal bestätigt sich nicht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "scanned_at": "2026-05-20T19:34:08.495402+00:00"
+      "scanned_at": "2026-05-20T23:55:35.335079+00:00"
     },
     {
       "id": "cs_93da44fcd9a3",
@@ -1046,7 +1044,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOU0UyRDVUdWNmS2ltLVk3VzllSUd4Z05yeFRwSnctTXZUNDNkemxIbC1QcDFKZkU0azhQeFhnb1lzNGx4VUpVVUM5UFBYYkRnNjA0XzQ4dFJRdHBGWWE1M19oZWdVYVpHZTlRMVlxcDc2ZVFhS0dEcDlXTzZqVXU2UldkWW5ZN3h6ZHh0OWxveG9ZTWdST0oyOXNJYTlxQdIBsgFBVV95cUxPVE1Da1d3SlFiZVlrUmZZeWhLY2t1UlVNQWU3dEpxd29peWhsZ0RzUXZDX0RwOWR4Sk1tWlIxUEx5SnFJZ2JFNlMzdC1tQlNwNHR2ZGFRR3VzbmU4MjRYWHlJWFUyLWxWWDhiV0xPSWxUeE4yVzVJSFJjWkZhaURKbVNKWU9OV1EzT0w1SDRGa2tKa2NzdEJVajhjX1VvVXREQlpoT1otYm5ZeUhNdU",
-      "scanned_at": "2026-05-20T19:34:04.918893+00:00"
+      "scanned_at": "2026-05-20T23:55:31.679763+00:00"
     },
     {
       "id": "cs_6475a402ba17",
@@ -1157,6 +1155,51 @@
       "scanned_at": "2026-05-19T18:18:39.634597+00:00"
     },
     {
+      "id": "cs_d5ced35e2f71",
+      "count": 3,
+      "status": "suspected",
+      "location": {
+        "country": "Mexico",
+        "city": "México",
+        "lat": 23.63,
+        "lng": -102.55
+      },
+      "date": "Sun, 17 May 2026 18:28:00 GMT",
+      "age": null,
+      "nationality": null,
+      "sex": null,
+      "flights": [],
+      "sources": [
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3RVbjRReDZUYVhFXzcxM0dsZWJ5eEJpeVZrejhPZ3FVXzhJZDE0SGU2VUl5X1E3WDlCU29aZFM4NFpLQ3hFeVQwV2R4VjcydkpCbjdpWkhNQ2NqM1FXMk4yRWZBQmhpa1pxRUtKWUN1V1dvMnVZdHJ6dU5DMVVqQURfWGdWRkV2Q3Z1c2RGZ2gtT0IxdEdFVGdJNkJaRUxpRHJaRmtKeGtfOTAwMERMWEFYbXZBdzJIMFhBR2dkMmRaTmfSAd4BQVVfeXFMTzc5YjRFRXNtM2VmRnUtcDczbmVrV0tJYWRDRUtkdURWOV8zNzI3LV9VdUQ1TW9sTWRfWU5vUE1vRGpIS0c5VHVlT09LdjRtbzhZa1IwYVZDcnVvSlB3MjVLbHc1TG9DOXY0dmktMXEyODl0Y0NxMUJueTQwTmQ5NWttYVR1WlMtbjlyTmRTWXZXWm96akprU0RwTlJScmJ0SWxrQWJaVElWWmRCVlRhLXpRanBmaEM3OFI4dlZ1ZllSdkxuYS1hMWlEZk5zM2podzlLSF9DUVVBVnd4NkxB?oc=5",
+          "title": "Hantavirus en México 2026: activan alerta sanitaria aunque no hay casos confirmados - Infobae",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjhnLV9hMmlTTVZEdl9VbWNsWlNuX2kxWExYWUdzbFZ0T1h6N2hvQkowZFgxVzNXUFNtNmtoN2t2Y1V3dTVnV2FVWm9FRzV0d0ZWY1FYQjhCZlZqSk9jWENsdE9GdHJiMUxOLVp2eWZ6a1czSmlnem4zN0JTeHNUbkJScTZ2R1ZIX0VRbGd5M0NqTWoxSlcySXJ4STR0cjZrUzlfaEhwT3FHRm9HVmww0gHKAUFVX3lxTE5yN1J3UTN3VnBiNEJOVDg2anNVVTFoZk5tQV9Ib0dqeU9yMlpqX3BIRlZJakpucTJlRmtpLTFpenFoQzFJeTZWc0pxa1hYUXZiaUpDaExVVnl1Q2ZfS0hTcHoxclI5TldnM29ESTdmM3FUUVBWc3dZZi1uQk8yb1JBanBaMEM5a2VQelVlYWlWWkpaQnQyc3Z5N1p0ckNYV1JzNUliNy00aUk2R2w2TFR3cWtzUHVoVDVRMFU4VEdiMHJTN19mUWlqcmc?oc=5",
+          "title": "Síntomas del hantavirus y cómo se diferencia del COVID-19 en México - Infobae",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVFdTSzZVVUNTM1pXaG93eUtEX2N3Sk1pQ0xIdVZnV09iaW9CalZ5cmhxczBCYlhKVlROM1dfVGE3MDczbHdMTWkxcExQd1YzSm1VdFVVaTQzMXlyOGE3MTVmVzdXeWE0UG9VRmdOVXVobVhuQmlYdDA4S0tLbmJ3SjBGcTBsbWN2TS01QV9YSlo1bmxXazhCaWVRTlRzWUIzamU1SGFSNTJWWURKRk1MQlhxZXdBeHlJZWxQeWdMSUhMSnNWWmx0U0JVTGh3R1FSMWZqcC10QdIB8gFBVV95cUxPWnBUQWZLQ2ZuQmozeFZNTnlTSlZ2SEstbHF3TDdLSFNoOW9GWDZBS1RXLU1RbzlZXzZOWU1Hclh1RzVKSlZ4Ykd6N3FqcEFDa0xBX1pETXR5N3oySmFHSnRlalZQN1ZNX2FfY0paMUVPak1qSzlwSm9RWUtwU3hZMkhlNW9QSFdPdW54TndTX2ZISUJpQ25JVjI5M1hDcFpmN2t3Z3FzRVliOUtLbk9IY2ZUdWJLWDlLRW54MDNpRmJYeWlOOFc0c0dCVm4xWGZUNGdldDhoZU8zVXJTWFJzc2l4Z0RCNWJEd0J1b0xVYldEQQ?oc=5",
+          "title": "México emite alerta epidemiológica por brote de hantavirus que dejó 3 muertos en el Atlántico Sur - Infobae",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaTJ0bkFEYkJRLXF3Y2IzcjRFZW9tNVZFOVY1SG5zQ1hhVzVBTm82dEVQNmN0enpyTVpQeUM3SlQ5OWk5Tm9RZkNraHFjTUJYRWNhaHpFakZSYmxFcEExT1hJUFBFYXNmQzMxNmFCbklMMS1vRV9jcFJUUlRYbjNYcF84TVhodEw3TGg2d2dSS1ptNDhJbXNZaHR4ZzdzSjVNV2lHTzRMbkNaREhEaUNaeWdSR25qWFhvX1hQc21rbXdNdDRIT0dnOUtKSGJJMkdyQzh2M9IB2gFBVV95cUxPUENHeEhYU3psRXphX2VWV0p0c3p2Ylo3cnp6TUVsQ0EzV210eUZNMzg1WEU3YjN6SlZjb3VveEJ2R09BcUhKb01LYmI0QmltVlZsczRWTlVIR0pYXzZhTzQ1VXlMSEItYjdJZVRZZ3B1ZWdxNGFVMzB6Y3l0Mk1MZF95VGNzazBJM1BOZnRiNWJvamVvNFVfMXgxakdKdGtjVE1tWkJvcjNnLWpKbUJEZS1fQ2hDYUlXSjFGWGhUcUdTTEFTWWZ3SlhZczJOWnRqOUthSXpvSWNndw?oc=5",
+          "title": "México en alerta: el listado de países con casos confirmados de hantavirus tras brote en crucero de lujo - Ambito",
+          "weight": 4
+        }
+      ],
+      "confidence": 0.4633333333333333,
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3RVbjRReDZUYVhFXzcxM0dsZWJ5eEJpeVZrejhPZ3FVXzhJZDE0SGU2VUl5X1E3WDlCU29aZFM4NFpLQ3hFeVQwV2R4VjcydkpCbjdpWkhNQ2NqM1FXMk4yRWZBQmhpa1pxRUtKWUN1V1dvMnVZdHJ6dU5DMVVqQURfWGdWRkV2Q3Z1c2RGZ2gtT0IxdEdFVGdJNkJaRUxpRHJaRmtKeGtfOTAwMERMWEFYbXZBdzJIMFhBR2dkMmRaTmfSAd4BQVVfeXFMTzc5YjRFRXNtM2VmRnUtcDczbmVrV0tJYWRDRUtkdURWOV8zNzI3LV9VdUQ1TW9sTWRfWU5vUE1vRGpIS0c5VHVlT09LdjRtbzhZa1IwYVZDcnVvSlB3MjVLbHc1TG9DOXY0dmktMXEyODl0Y0NxMUJueTQwTmQ5NWttYVR1WlMtbj",
+      "scanned_at": "2026-05-20T23:55:36.077477+00:00"
+    },
+    {
       "id": "cs_a49fa224edd7",
       "count": 39,
       "status": "suspected",
@@ -1182,12 +1225,6 @@
           "source": "Google News (ES)",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT29YMzJ6bnhYWDVmTjM4RmNuMVA0bF9ZenhvcDVkdG1mM1VrYVNhSmp5RHhyNzZiX3VLNF9HMDBBNnRsWnNweU5MMm5kZ3BlZjZpMnZvcXJQdTlUblI0OGxwbzJueUZmMVp3cUhjLUd4YlBxNjZNeHlyVFg0dU15cUhMUE9oSXdWMFRVUExuTjR5NG9qWHJEcDYxTnJJNExmdmViY043N0tFNUlxWld1dEVTZDZSOEFkY0tWR0d1ZmpUTzFtal8zWVJKVW1YeDlUekwwamNJY2tDQQ?oc=5",
           "title": "En Argentina acusan a \"agentes malintencionados de Chile\" de difundir rumores por brote de Hantavirus - Canal 9 Bío Bío Televisión",
-          "weight": 4
-        },
-        {
-          "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQU1M3NDVkZVhXNUQxc0RCNkFjMUlUR2RMSEhBQUdraVJzRFJDR09BUktCZE1ZUEcwX2VLLUFxNjZGU0NHX3A0SHNOcGJJN2lpZ2dNWjBaejRtRTdaeEktWm1MS1RleGx2OUF4aGpRYXpMMnByZ0Y4Q0YzemNDVlZfOF84WHJSa0dKNHMxNHlXWEswclRyYVlhWkstUzM1R0g0SlhHR0lxZFVqWGkwSVRaNE9zT1FqQVlqSzFtTFBtTm42UGY0ZWJ4LWlBZ0ZhUTRlQ3FYdHNBbm9XRkwwalRQTXhWeDJhR09WQ2ZISEJB0gGIAkFVX3lxTE1kZ0c4Q3loMHBXcVNJSTRlUzhzX3BJb1BxYlptR3JBelRsZG5fQTRIZTNyQm14akRfRVByb3gxdGl1am00X0RCSGdnQ2w2SHozQUFTa1hjczlvMkhNZjJZRlRUbi1oSEM0VzUyNXVQRXNtUGpxMHI3QVF6WG11VFRnUnZIRmlQV2FmWTNIXzRDdUFRRUVsOWU1ZEVrUk0yYzJ4NTVGSHpvVnFGd3daVzhic0JMMVNTYmh4RUtTUWlaV21jWDZhWE1Zc0FwMHozU2dfVkc0bElsNnhZdktPZk5CZVJibS1UaHAydjFIY0lTdUF6S0NWQThLNVF0d2kyZjUtTE55TV9Gdw?oc=5",
-          "title": "Chile descartó que el contagio de hantavirus en el crucero MV Hondius se haya originado en el país - Infobae",
           "weight": 4
         },
         {
@@ -1262,67 +1299,7 @@
       "scanned_at": "2026-05-17T23:15:11.358086+00:00"
     },
     {
-      "id": "cs_9ed691158830",
-      "count": 11,
-      "status": "symptomatic",
-      "location": {
-        "country": "India",
-        "city": "India",
-        "lat": 20.59,
-        "lng": 78.96
-      },
-      "date": "Thu, 14 May 2026 01:57:00 GMT",
-      "age": null,
-      "nationality": null,
-      "sex": null,
-      "flights": [],
-      "sources": [
-        {
-          "source": "Google News (EN)",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVmNOMWNnU3loajV1dEZ0RUNFRkhNbDdsZDJWMm1CVE9hU0daZnV1aGstMEpwTkkzVVZ6R3p1UjdBdUtrSldIMjJVeWFfdlExZkxud0ZuMHg5bDkwb095SzlIczNrUzJQZWNhTHB6LXNnZ1BaTjBneEMzaHJRTnY0UlRtUWZLUjdXWW5VVU9zTTJXck5ua1daSVMzRWE5b2ZscXNxcVI0cXdCYzJWZnZsV0pkTU9iLWl2dWNOOG9YSXc3Z2xuekJTWHhxZDRwQmkxT0xqaFl6T2lWMGFoMFdNMUNOU0RlcGNGRjlFcUY3TVFfRUdOUGtmLUs0bWhPaVlhX1BxMW13UGhlTlE5TG9tNkF30gGXAkFVX3lxTE80WmF2OVhwZ0NLYjByNWNjUHlGQ2VIeEdGRmxDM2lhSzdwUEY3QTVjUTcwMWtuQmxZUkJFOWpZekRtZmd1UzI2UEdhZWh0WHVOQzRtRDBIV2k4WlRTclV0OW90RUhIYlhoLU9wZEtZQlExeTczM181a3c0MUVWUzk0RmRkc25KTUt3TzlCV3FTb0VCenhKeFYxTFNxdW15bGRhcFFuUDQ3TnQ5UGxsbTl6cEJFOGkyOW1QOXl6cHozSjExb3lVWlNKMWVJRnZHb2NxdW9lblVRT3VQUWlEQTZBUl82VFNWdXZhQnVuVXF6cWtYR2dsbXF6akozYlEtMjl0aHdmeTk5UFFiYlhUcktVWmhKV0pMaw?oc=5",
-          "title": "More victims of MV Hondius hantavirus outbreak? Another patient critically ill as outbreak reaches 11 cas - The Times of India",
-          "weight": 4
-        },
-        {
-          "source": "Google News (EN)",
-          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVmNOMWNnU3loajV1dEZ0RUNFRkhNbDdsZDJWMm1CVE9hU0daZnV1aGstMEpwTkkzVVZ6R3p1UjdBdUtrSldIMjJVeWFfdlExZkxud0ZuMHg5bDkwb095SzlIczNrUzJQZWNhTHB6LXNnZ1BaTjBneEMzaHJRTnY0UlRtUWZLUjdXWW5VVU9zTTJXck5ua1daSVMzRWE5b2ZscXNxcVI0cXdCYzJWZnZsV0pkTU9iLWl2dWNOOG9YSXc3Z2xuekJTWHhxZDRwQmkxT0xqaFl6T2lWMGFoMFdNMUNOU0RlcGNGRjlFcUY3TVFfRUdOUGtmLUs0bWhPaVlhX1BxMW13UGhlTlE5TG9tNkF3?oc=5",
-          "title": "More victims of MV Hondius hantavirus outbreak? Another patient critically ill as outbreak reaches 11 cases - The Times of India",
-          "weight": 4
-        }
-      ],
-      "confidence": 0.4633333333333333,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxOVmNOMWNnU3loajV1dEZ0RUNFRkhNbDdsZDJWMm1CVE9hU0daZnV1aGstMEpwTkkzVVZ6R3p1UjdBdUtrSldIMjJVeWFfdlExZkxud0ZuMHg5bDkwb095SzlIczNrUzJQZWNhTHB6LXNnZ1BaTjBneEMzaHJRTnY0UlRtUWZLUjdXWW5VVU9zTTJXck5ua1daSVMzRWE5b2ZscXNxcVI0cXdCYzJWZnZsV0pkTU9iLWl2dWNOOG9YSXc3Z2xuekJTWHhxZDRwQmkxT0xqaFl6T2lWMGFoMFdNMUNOU0RlcGNGRjlFcUY3TVFfRUdOUGtmLUs0bWhPaVlhX1BxMW13UGhlTlE5TG9tNkF30gGXAkFVX3lxTE80WmF2OVhwZ0NLYjByNWNjUHlGQ2VIeEdGRmxDM2lhSzdwUEY3QTVjUTcwMWtuQmxZUk",
-      "scanned_at": "2026-05-19T22:47:43.263475+00:00"
-    },
-    {
-      "id": "cs_614fda90c86d",
-      "count": 1,
-      "status": "deceased",
-      "location": {
-        "country": "Germany",
-        "city": "Baden-Württemberg",
-        "lat": 48.78,
-        "lng": 9.18
-      },
-      "date": "Mon, 11 May 2026 07:00:00 GMT",
-      "age": null,
-      "nationality": null,
-      "sex": null,
-      "flights": [],
-      "sources": [
-        {
-          "source": "Google News (DE)",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQa1phTnBGWnUzcTZtMlNmZHlRaVZoOXNsRTdfVU00VWp5R09EYWVhZlM3Z054MDZWVU51TDFCeUtmaXB1aVdTV3EzVmhYdkhabm5fazRnN1R3TGJZa1JpdDNBd3hXUXRLY1BIekJsN0tjZVlfa0RuYVptdVFnYkJaVmFLekQ2MXhMOUNnVDljb0c1dU5JeFZsRWZkNEhtMnNIT24yakdDRERzek9kU3p3Uk1ybFZ4NDhwZ0RzTWlBdXdLNFJuNmNPNjlwekNOdC1OV0ZLZ0Z3NmFLYXRtcmt1d29LSWVUdXhzc2tDZzFmZlk?oc=5",
-          "title": "Baden-Württemberg: Das war der BW-Newsticker am Montagmorgen: Kontaktperson von Hantavirus-Kreuzfahrt muss in BW in Quarantäne, Vierjährige von Zug erfasst und gestorben, Weitere Ministerposten in BW fix - tagesschau.de",
-          "weight": 4
-        }
-      ],
-      "confidence": 0.4633333333333333,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQa1phTnBGWnUzcTZtMlNmZHlRaVZoOXNsRTdfVU00VWp5R09EYWVhZlM3Z054MDZWVU51TDFCeUtmaXB1aVdTV3EzVmhYdkhabm5fazRnN1R3TGJZa1JpdDNBd3hXUXRLY1BIekJsN0tjZVlfa0RuYVptdVFnYkJaVmFLekQ2MXhMOUNnVDljb0c1dU5JeFZsRWZkNEhtMnNIT24yakdDRERzek9kU3p3Uk1ybFZ4NDhwZ0RzTWlBdXdLNFJuNmNPNjlwekNOdC1OV0ZLZ0Z3NmFLYXRtcmt1d29LSWVUdXhzc2tDZzFmZlk?oc=5\" target=\"_blank\">Baden-Württemberg: Das war der BW-Newsticker am Montagmorgen: Kontaktperson von Hantavirus-Kreuzfahrt mu",
-      "scanned_at": "2026-05-20T19:34:07.582348+00:00"
-    },
-    {
-      "id": "cs_f0a981073690",
+      "id": "cs_72420b519318",
       "count": 1,
       "status": "confirmed",
       "location": {
@@ -1339,20 +1316,14 @@
       "sources": [
         {
           "source": "Google News (PT)",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUjFaZ1d6MHV4NVBha1FvY25ZWm5CZ1JYOERMeFU5dWNqUDNKdjlpME9SNzViWlljS1FnVGtBZmNQSzZUYnBYR2lfNGpiWmtzaDlrS2dJTDlyT2hOYjZFWXVqZU9VYVJ4U0JEM1FjUHpTTm1WSFVVODlkS05wb1IzR0tsT0lCNXY4WjM1b0dIVTJtbVNvNXVRSEROZ3lQWGlBcTRMV3UxREpwcHl4Y2xYU9IBvwFBVV95cUxNNm54Si1kTjBfaVRTSXJub0lWWnI5bWlLNndISkt2RHFEamNiREplTlVtc0U2SHNZSC1Sdmhwa1NZeTUyTXc0SG13Y1A1WXpRVWh4cjB1a092ZF8tWldKS1pzQW9aRGRQOWtNaW81VjRmMGRmalF5bmxZM2U5TXNUZVZfWXZlS3UyZF9JaDFsZUczdHdzM2NXbm9lN3ItWjVra1VDcEhLd2RuWVJiRVE3RDNMNjhYaFhxQ2FBNFpDZw?oc=5",
-          "title": "Brasil teve uma morte confirmada por hantavírus em 2026 - O Globo",
-          "weight": 4
-        },
-        {
-          "source": "Google News (PT)",
           "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNEZuSVV5UjdRVlNzY1lYT1B3MnM2RTVPM09XdGRHRFV6MXRDWDdvWEtVUzM4R29nVURtdmt6UzVKZlI2Smw4c0ZEaW5HVjNRMlJ0elkzWmhFMHgtTTdMS0VtbU1PZXZNdXAtV2RfSWwzTGhfWFZKZGNvcFhkMlhWcXdQNXpZVGczLUstSkhkdnlKOXlQZnkwNTlJVGhtU0tnYWhFNGxRaVdNYXM0NlZMMC00ZTNOV1Izb01MTmZBOFZoV3ZiUzBTVjFGNVMtamx2RFB4U3FoeXJKVG5NYi1lUFZSSWV1Ql9Pd0hDZ3JTNk1DM3pVTkHSAYQCQVVfeXFMUDczY3dVM2l1OE96d1VfR2hiM3JyZldHYkJ3Q0d1bG94S1FlZzNFcnBlbUl0eEtfdTh2TUpQUnVkbFFfMDh0N2M2em9mNzZsZHdDZk1FcEZ5NDZqYkt5YW1fVVNmQ1hqa040cmR3VmtkVVF6T2tTVkRsNTRyOFh1MW0taTVnMmowZkF6N09jQXdFVGFnbXBfbGlKdlBiMkpUa3NOaWFPd2NLRzdaNEE0eDhNSlp3X01zVkdMbG5qYkI2SzJ2WnpQM05GcGU2YnY1SnItQm85TkhNN3Y2VW1TVjdPMmZicjZISTlzZzRrZ182OTZBTDhRY1pnRzVaSEgzekVLMHo?oc=5",
           "title": "Homem que trabalhou em lavoura de MG é a única morte confirmada por hantavírus no Brasil em 2026 - G1",
           "weight": 4
         }
       ],
       "confidence": 0.4633333333333333,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPUjFaZ1d6MHV4NVBha1FvY25ZWm5CZ1JYOERMeFU5dWNqUDNKdjlpME9SNzViWlljS1FnVGtBZmNQSzZUYnBYR2lfNGpiWmtzaDlrS2dJTDlyT2hOYjZFWXVqZU9VYVJ4U0JEM1FjUHpTTm1WSFVVODlkS05wb1IzR0tsT0lCNXY4WjM1b0dIVTJtbVNvNXVRSEROZ3lQWGlBcTRMV3UxREpwcHl4Y2xYU9IBvwFBVV95cUxNNm54Si1kTjBfaVRTSXJub0lWWnI5bWlLNndISkt2RHFEamNiREplTlVtc0U2SHNZSC1Sdmhwa1NZeTUyTXc0SG13Y1A1WXpRVWh4cjB1a092ZF8tWldKS1pzQW9aRGRQOWtNaW81VjRmMGRmalF5bmxZM2U5TXNUZVZfWXZlS3UyZF9JaDFsZUczdHdzM2NXbm9lN3",
-      "scanned_at": "2026-05-20T19:34:10.609456+00:00"
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNEZuSVV5UjdRVlNzY1lYT1B3MnM2RTVPM09XdGRHRFV6MXRDWDdvWEtVUzM4R29nVURtdmt6UzVKZlI2Smw4c0ZEaW5HVjNRMlJ0elkzWmhFMHgtTTdMS0VtbU1PZXZNdXAtV2RfSWwzTGhfWFZKZGNvcFhkMlhWcXdQNXpZVGczLUstSkhkdnlKOXlQZnkwNTlJVGhtU0tnYWhFNGxRaVdNYXM0NlZMMC00ZTNOV1Izb01MTmZBOFZoV3ZiUzBTVjFGNVMtamx2RFB4U3FoeXJKVG5NYi1lUFZSSWV1Ql9Pd0hDZ3JTNk1DM3pVTkHSAYQCQVVfeXFMUDczY3dVM2l1OE96d1VfR2hiM3JyZldHYkJ3Q0d1bG94S1FlZzNFcnBlbUl0eEtfdTh2TUpQUnVkbFFfMDh0N2M2em9mNzZsZHdDZk1FcE",
+      "scanned_at": "2026-05-20T23:55:37.646439+00:00"
     },
     {
       "id": "cs_95bc51962165",
@@ -1385,7 +1356,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkxaUkdQa2pnZS02aU5jbmNOaUpaRE50LTFKcVktR2tTWUtJZWpYc2lua1kyX3I2WjIwdnlQTDhPM3VkMnUzZllvYXhFUi1MeDA3NHNOMDZIY3BHMGliTW1JaGduNzN6T0FfRkNGUDd3d091QW52a1VpSE9ZOUhzbVNEYll3QUp6MDJ3OGlqVGtpTHNnMVJpd0ltWDRITFpYdExKWHd3NDBSRElHMi0yWUlIb3pSWDZIZVRneFFSaXBzUUJJMG9mbXdxdG91QQ?oc=5\" target=\"_blank\">Ausbruch auf Kreuzfahrtschiff - WHO bestätigt 6 Hantavirus-Fälle – neuer Verdachtsfall in Spanien</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SRF</font>",
-      "scanned_at": "2026-05-20T19:34:06.346497+00:00"
+      "scanned_at": "2026-05-20T23:55:33.206742+00:00"
     },
     {
       "id": "cs_d992418092e6",
@@ -1412,7 +1383,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSHJRNlZPb29GWDlyZkM1TVJxcXh2clB3ZVVQM1E4MFNJOWtsRkZPdTFGZ3FHdFNBQy1ocXV1ZV96V3BaM0xXeHZ4ekluRDhVTzNxNnBHNnEtY1o3LVlUSlVzcmktam9iM081QXd5cUg5djJRX0ZVMV9LVkU4aDF3XzFYdGhFaWwySTkzNGpKemppckEzMHA4Y3dTbjZTYXRMZGIwQU9LV1JBX25CYVF5LWtn?oc=5\" target=\"_blank\">Schweiz berichtet: Nun auch Hantavirus-Fall an Land bestätigt – Urlauber war zuvor auf Kreuzfahrtschiff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frankfurter Rundschau</font>",
-      "scanned_at": "2026-05-20T19:34:08.053713+00:00"
+      "scanned_at": "2026-05-20T23:55:34.898328+00:00"
     },
     {
       "id": "cs_bbb0e8c69ce2",
@@ -1445,7 +1416,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvQk85TUotMXBBY2dsU2hHVGxNUEk3OENZdFRHR0dYLVVoWGIwaG5IVS04LXVNU1R5NXhWZU5zX2E2aXBlcXBEYXhDcllqRmRPb3hqVDY2RFRkdVXSAWBBVV95cUxNdE5pdDNZbU1qZjFPSFRBeWZWaHJGX2p0V3FBbjllTWFQNG9VekxNc0FVcVV4cEd0em5UYUxTd2JpMG9pMzREMFMzWHFUX3BZai1SeXdLZ01TR2pEenk5OHQ?oc=5\" target=\"_blank\">Qué se sabe del viaje por Argentina, Chile y Uruguay de los turistas que presentaron los primeros síntomas de hantavirus en el crucero y luego murieron</a>&nbsp;&nbsp;<font",
-      "scanned_at": "2026-05-20T19:34:09.190619+00:00"
+      "scanned_at": "2026-05-20T23:55:36.101162+00:00"
     }
   ]
 }
