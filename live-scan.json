@@ -1,7 +1,47 @@
 {
-  "scanned_at": "2026-06-20T06:24:24.704133+00:00",
-  "total": 938,
+  "scanned_at": "2026-06-20T09:50:11.455268+00:00",
+  "total": 935,
   "items": [
+    {
+      "id": "scan_76b6c7f8a32a",
+      "title": "How Andes virus broke the rules - felixonline.co.uk",
+      "title_de": "Wie das Andenvirus die Regeln gebrochen hat - felixonline.co.uk",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IS1hyQzdwQmRabmZaUXlYd1RCaXhYQnRvTk5HRHJ1bHBOQXRySTQ2WEdtRExTc1dwVml2LTZsQ1E5WjRLaVNRdTlqSlhQQjAyZzAxOGtqdWt2VUJFbi1DSVB6MkkyR3MxX2RHd1ZrMTE3c2lQbnc?oc=5",
+      "published": "Sat, 20 Jun 2026 08:46:43 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 5,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5IS1hyQzdwQmRabmZaUXlYd1RCaXhYQnRvTk5HRHJ1bHBOQXRySTQ2WEdtRExTc1dwVml2LTZsQ1E5WjRLaVNRdTlqSlhQQjAyZzAxOGtqdWt2VUJFbi1DSVB6MkkyR3MxX2RHd1ZrMTE3c2lQbnc?oc=5\" target=\"_blank\">How Andes virus broke the rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">felixonline.co.uk</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": {
+        "country": "United Kingdom",
+        "lat": 55.38,
+        "lng": -3.44,
+        "match": "uk"
+      },
+      "safe_signal": false,
+      "scanned_at": "2026-06-20T09:49:42.484446+00:00"
+    },
+    {
+      "id": "scan_f9f69c15c2ac",
+      "title": "38 Pinoys from hantavirus-hit MV Hondius return home after 42-day quarantine in Netherlands — DMW - dzrh.com.ph",
+      "title_de": "38 Pinoys von der vom Hantavirus betroffenen MV Hondius kehren nach 42-tägiger Quarantäne in den Niederlanden nach Hause zurück — DMW - dzrh.com.ph",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZm1yZW9tVWdPMXBaOGQ1R1RjbmxNSEdoeTAyTkdqQXluUkZlQlg1cGdWcHN0blBsR0ZPZ29tTzRYazExU2tHOURyaVFCbWZZUGFjUlBjN2JmSkwwbkhycnNLYkZ5ZC05SWZIOHlFRkhGWW5SUlhRY29lbklveFViQllnRi1nYkZtRTRWWmkza3poRmZ2YmRGYzBNVmN4TkdfdDhoT19VZXNUaHNMZTc1M3E1VUhxS2NIWTJoZmJTQmphUQ?oc=5",
+      "published": "Sat, 20 Jun 2026 07:09:23 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 5,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZm1yZW9tVWdPMXBaOGQ1R1RjbmxNSEdoeTAyTkdqQXluUkZlQlg1cGdWcHN0blBsR0ZPZ29tTzRYazExU2tHOURyaVFCbWZZUGFjUlBjN2JmSkwwbkhycnNLYkZ5ZC05SWZIOHlFRkhGWW5SUlhRY29lbklveFViQllnRi1nYkZtRTRWWmkza3poRmZ2YmRGYzBNVmN4TkdfdDhoT19VZXNUaHNMZTc1M3E1VUhxS2NIWTJoZmJTQmphUQ?oc=5\" target=\"_blank\">38 Pinoys from hantavirus-hit MV Hondius return home after 42-day quarantine in Netherlands — DMW</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">dzrh.com.ph</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": {
+        "country": "Netherlands",
+        "lat": 52.13,
+        "lng": 5.29,
+        "match": "Netherlands"
+      },
+      "safe_signal": false,
+      "scanned_at": "2026-06-20T09:49:42.512074+00:00"
+    },
     {
       "id": "scan_d029e3487cfb",
       "title": "38 Filipino MV Hondius crew members return home after quarantine in Netherlands - The Filipino Times",
@@ -20,7 +60,7 @@
         "match": "Netherlands"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.641844+00:00"
+      "scanned_at": "2026-06-20T09:49:42.486957+00:00"
     },
     {
       "id": "scan_7968990d7bb9",
@@ -35,7 +75,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.637624+00:00"
+      "scanned_at": "2026-06-20T09:49:42.481712+00:00"
     },
     {
       "id": "scan_d509aab9bd0c",
@@ -50,7 +90,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.632802+00:00"
+      "scanned_at": "2026-06-20T09:49:42.476677+00:00"
     },
     {
       "id": "scan_11b4f8f638e1",
@@ -65,7 +105,22 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.639464+00:00"
+      "scanned_at": "2026-06-20T09:49:42.483664+00:00"
+    },
+    {
+      "id": "scan_44bc2fd00570",
+      "title": "Steirer betroffen - Aufpassen! So schützt man sich vor dem Hantavirus - Kronen Zeitung",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WSVlFZGY2RThMcDVhQTJYeHR4dVRzSUd0ZHdncnkzZ2ZLbDBxSFJoWTdaMHBuZnplTHNQZHhDTmNUZTExLWpr?oc=5",
+      "published": "Fri, 19 Jun 2026 21:22:00 GMT",
+      "source": "Google News (DE)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WSVlFZGY2RThMcDVhQTJYeHR4dVRzSUd0ZHdncnkzZ2ZLbDBxSFJoWTdaMHBuZnplTHNQZHhDTmNUZTExLWpr?oc=5\" target=\"_blank\">Steirer betroffen - Aufpassen! So schützt man sich vor dem Hantavirus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kronen Zeitung</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-06-20T09:49:42.945046+00:00"
     },
     {
       "id": "scan_ceee47957d8d",
@@ -100,22 +155,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.622088+00:00"
-    },
-    {
-      "id": "scan_44bc2fd00570",
-      "title": "Steirer betroffen - Aufpassen! So schützt man sich vor dem Hantavirus - Kronen Zeitung",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WSVlFZGY2RThMcDVhQTJYeHR4dVRzSUd0ZHdncnkzZ2ZLbDBxSFJoWTdaMHBuZnplTHNQZHhDTmNUZTExLWpr?oc=5",
-      "published": "Fri, 19 Jun 2026 15:41:00 GMT",
-      "source": "Google News (DE)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WSVlFZGY2RThMcDVhQTJYeHR4dVRzSUd0ZHdncnkzZ2ZLbDBxSFJoWTdaMHBuZnplTHNQZHhDTmNUZTExLWpr?oc=5\" target=\"_blank\">Steirer betroffen - Aufpassen! So schützt man sich vor dem Hantavirus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kronen Zeitung</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:56.037772+00:00"
+      "scanned_at": "2026-06-20T09:49:42.464521+00:00"
     },
     {
       "id": "scan_73b51d40008c",
@@ -130,7 +170,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:54.296235+00:00"
+      "scanned_at": "2026-06-20T09:49:41.214123+00:00"
     },
     {
       "id": "scan_05a556ab20eb",
@@ -270,7 +310,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:56.552932+00:00"
+      "scanned_at": "2026-06-20T09:49:43.467882+00:00"
     },
     {
       "id": "scan_5aeb32e06eb1",
@@ -285,7 +325,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:59.355056+00:00"
+      "scanned_at": "2026-06-20T09:49:46.327212+00:00"
     },
     {
       "id": "scan_88d66b34b549",
@@ -320,7 +360,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.047026+00:00"
+      "scanned_at": "2026-06-20T09:49:41.870835+00:00"
     },
     {
       "id": "scan_7a38408d87a9",
@@ -405,7 +445,7 @@
         "match": "Nebraska"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.644809+00:00"
+      "scanned_at": "2026-06-20T09:49:42.490060+00:00"
     },
     {
       "id": "scan_ee6b15560b7c",
@@ -460,7 +500,7 @@
         "match": "Nebraska"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.633212+00:00"
+      "scanned_at": "2026-06-20T09:49:42.475111+00:00"
     },
     {
       "id": "scan_6f15952591b4",
@@ -490,7 +530,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:53.676021+00:00"
+      "scanned_at": "2026-06-20T09:49:40.580048+00:00"
     },
     {
       "id": "scan_7cc1b6044b1c",
@@ -520,7 +560,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.557558+00:00"
+      "scanned_at": "2026-06-20T09:49:44.460830+00:00"
     },
     {
       "id": "scan_971d385e09f2",
@@ -585,7 +625,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.553706+00:00"
+      "scanned_at": "2026-06-20T09:49:44.456948+00:00"
     },
     {
       "id": "scan_85a1b81f9c4e",
@@ -620,7 +660,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.656946+00:00"
+      "scanned_at": "2026-06-20T09:49:42.503615+00:00"
     },
     {
       "id": "scan_9f48f9c3f60e",
@@ -665,7 +705,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.640826+00:00"
+      "scanned_at": "2026-06-20T09:49:42.485890+00:00"
     },
     {
       "id": "scan_a49ecd063d58",
@@ -680,7 +720,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.659452+00:00"
+      "scanned_at": "2026-06-20T09:49:42.493414+00:00"
     },
     {
       "id": "scan_b1de88a98bea",
@@ -760,7 +800,7 @@
         "match": "Nebraska"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:53.690367+00:00"
+      "scanned_at": "2026-06-20T09:49:40.593521+00:00"
     },
     {
       "id": "scan_2938e6ca9c7d",
@@ -790,7 +830,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:53.697260+00:00"
+      "scanned_at": "2026-06-20T09:49:40.601850+00:00"
     },
     {
       "id": "scan_26ac706bfb0a",
@@ -825,7 +865,7 @@
         "match": "Nebraska"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:53.688156+00:00"
+      "scanned_at": "2026-06-20T09:49:40.589572+00:00"
     },
     {
       "id": "scan_59269e4485ef",
@@ -840,7 +880,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:59.927397+00:00"
+      "scanned_at": "2026-06-20T09:49:46.863901+00:00"
     },
     {
       "id": "scan_cbe1c979065a",
@@ -910,7 +950,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.648025+00:00"
+      "scanned_at": "2026-06-20T09:49:42.494810+00:00"
     },
     {
       "id": "scan_e59dd22d5d7e",
@@ -925,7 +965,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:24:01.157010+00:00"
+      "scanned_at": "2026-06-20T09:49:47.594805+00:00"
     },
     {
       "id": "scan_9b9002d01d02",
@@ -1040,7 +1080,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.660678+00:00"
+      "scanned_at": "2026-06-20T09:49:42.506260+00:00"
     },
     {
       "id": "scan_66c785db5b0a",
@@ -1075,7 +1115,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:53.689846+00:00"
+      "scanned_at": "2026-06-20T09:49:40.591272+00:00"
     },
     {
       "id": "scan_046a2e9025a2",
@@ -1455,7 +1495,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:31.597400+00:00"
+      "scanned_at": "2026-06-20T09:49:19.215511+00:00"
     },
     {
       "id": "scan_b9a424610e9b",
@@ -1635,7 +1675,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:53.692071+00:00"
+      "scanned_at": "2026-06-20T09:49:40.593013+00:00"
     },
     {
       "id": "scan_a4d8ea5e9d27",
@@ -1813,26 +1853,6 @@
       "scanned_at": "2026-06-15T21:29:20.383732+00:00"
     },
     {
-      "id": "scan_fbf769486f2e",
-      "title": "Hantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine (Latest Updates) - Forbes",
-      "title_de": "Hantavirus-Kreuzfahrtpassagier sagt, dass sie in der Quarantäne von Nebraska als „Geisel“ gehalten wird (neueste Updates) - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONHpJVUFEMTh3d1dubXRXNGhCSjhQVkhUc2lIWTdrU1hQaUlsZWp1Zlpqb19iaXQ2QW42VlVHZEtfZ0V6cVl0UUt4Ykl0TjQ1Z2JtSDdsbXQ4WlNVSVZiV3hGVkVvaFhLdHptOEw1ajhDV25JdlJfMTFJeVRrZjBFSGtMVTgzdWU5RjI5SzZDUi12d0V2Mm56NFNGdGE3X1EzWFM5SzhPbkpEdUVJekxFMDJYVzFSbVMxME1kNVBkdDlXTERMX1I4a09NcExZWFRUZWJRVnNQajZqQ2hCbkRVZk93?oc=5",
-      "published": "Thu, 11 Jun 2026 18:53:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxONHpJVUFEMTh3d1dubXRXNGhCSjhQVkhUc2lIWTdrU1hQaUlsZWp1Zlpqb19iaXQ2QW42VlVHZEtfZ0V6cVl0UUt4Ykl0TjQ1Z2JtSDdsbXQ4WlNVSVZiV3hGVkVvaFhLdHptOEw1ajhDV25JdlJfMTFJeVRrZjBFSGtMVTgzdWU5RjI5SzZDUi12d0V2Mm56NFNGdGE3X1EzWFM5SzhPbkpEdUVJekxFMDJYVzFSbVMxME1kNVBkdDlXTERMX1I4a09NcExZWFRUZWJRVnNQajZqQ2hCbkRVZk93?oc=5\" target=\"_blank\">Hantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine (Latest Updates)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": {
-        "country": "USA",
-        "lat": 41.49,
-        "lng": -99.9,
-        "match": "Nebraska"
-      },
-      "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:53.693828+00:00"
-    },
-    {
       "id": "scan_a3c51565ce2e",
       "title": "US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island - WRAL",
       "title_de": "Die USA stellen 750.000 $ zur Verfügung, um einen Amerikaner zu evakuieren, der sich an Bord eines Hantavirus-Kreuzfahrtschiffs von einer abgelegenen Insel befand - WRAL",
@@ -1950,7 +1970,27 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.668053+00:00"
+      "scanned_at": "2026-06-20T09:49:42.515207+00:00"
+    },
+    {
+      "id": "scan_fbf769486f2e",
+      "title": "Hantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine (Latest Updates) - Forbes",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONHpJVUFEMTh3d1dubXRXNGhCSjhQVkhUc2lIWTdrU1hQaUlsZWp1Zlpqb19iaXQ2QW42VlVHZEtfZ0V6cVl0UUt4Ykl0TjQ1Z2JtSDdsbXQ4WlNVSVZiV3hGVkVvaFhLdHptOEw1ajhDV25JdlJfMTFJeVRrZjBFSGtMVTgzdWU5RjI5SzZDUi12d0V2Mm56NFNGdGE3X1EzWFM5SzhPbkpEdUVJekxFMDJYVzFSbVMxME1kNVBkdDlXTERMX1I4a09NcExZWFRUZWJRVnNQajZqQ2hCbkRVZk93?oc=5",
+      "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxONHpJVUFEMTh3d1dubXRXNGhCSjhQVkhUc2lIWTdrU1hQaUlsZWp1Zlpqb19iaXQ2QW42VlVHZEtfZ0V6cVl0UUt4Ykl0TjQ1Z2JtSDdsbXQ4WlNVSVZiV3hGVkVvaFhLdHptOEw1ajhDV25JdlJfMTFJeVRrZjBFSGtMVTgzdWU5RjI5SzZDUi12d0V2Mm56NFNGdGE3X1EzWFM5SzhPbkpEdUVJekxFMDJYVzFSbVMxME1kNVBkdDlXTERMX1I4a09NcExZWFRUZWJRVnNQajZqQ2hCbkRVZk93?oc=5\" target=\"_blank\">Hantavirus Cruise Passenger Says She’s Being Held ‘Hostage’ In Nebraska Quarantine (Latest Updates)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Forbes</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": {
+        "country": "USA",
+        "lat": 41.49,
+        "lng": -99.9,
+        "match": "Nebraska"
+      },
+      "safe_signal": false,
+      "scanned_at": "2026-06-20T09:49:40.595296+00:00"
     },
     {
       "id": "scan_486edda2a903",
@@ -2155,7 +2195,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.580827+00:00"
+      "scanned_at": "2026-06-20T09:49:44.484098+00:00"
     },
     {
       "id": "scan_7b3b5a02ba52",
@@ -2400,7 +2440,7 @@
         "match": "Patagoni"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.586655+00:00"
+      "scanned_at": "2026-06-20T09:49:44.489904+00:00"
     },
     {
       "id": "scan_1ace6df7b5c1",
@@ -2465,7 +2505,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.582995+00:00"
+      "scanned_at": "2026-06-20T09:49:44.486269+00:00"
     },
     {
       "id": "scan_82857124a1c0",
@@ -2590,7 +2630,7 @@
         "match": "Chubut"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.568440+00:00"
+      "scanned_at": "2026-06-20T09:49:44.471763+00:00"
     },
     {
       "id": "scan_a2d064d09fde",
@@ -2605,7 +2645,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.578138+00:00"
+      "scanned_at": "2026-06-20T09:49:44.481438+00:00"
     },
     {
       "id": "scan_9b6c1c4b74c5",
@@ -2620,7 +2660,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.585873+00:00"
+      "scanned_at": "2026-06-20T09:49:44.489122+00:00"
     },
     {
       "id": "scan_969f6516c169",
@@ -2640,7 +2680,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.601301+00:00"
+      "scanned_at": "2026-06-20T09:49:44.504811+00:00"
     },
     {
       "id": "scan_3d4950f2b232",
@@ -2655,7 +2695,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.609421+00:00"
+      "scanned_at": "2026-06-20T09:49:44.513018+00:00"
     },
     {
       "id": "scan_f49c4e063076",
@@ -2675,7 +2715,7 @@
         "match": "Buenos Aires"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.610093+00:00"
+      "scanned_at": "2026-06-20T09:49:44.513739+00:00"
     },
     {
       "id": "scan_55d795b23294",
@@ -2765,7 +2805,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:54.304363+00:00"
+      "scanned_at": "2026-06-20T09:49:41.223487+00:00"
     },
     {
       "id": "scan_d0460c7b4bc2",
@@ -2785,7 +2825,7 @@
         "match": "US"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.655625+00:00"
+      "scanned_at": "2026-06-20T09:49:42.502285+00:00"
     },
     {
       "id": "scan_be6e8120928f",
@@ -2855,7 +2895,7 @@
         "match": "American"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.651639+00:00"
+      "scanned_at": "2026-06-20T09:49:42.499862+00:00"
     },
     {
       "id": "scan_a3a1e3e96d90",
@@ -2940,7 +2980,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:56.538480+00:00"
+      "scanned_at": "2026-06-20T09:49:43.457369+00:00"
     },
     {
       "id": "scan_d575d242c496",
@@ -3205,7 +3245,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:54.331252+00:00"
+      "scanned_at": "2026-06-20T09:49:41.252795+00:00"
     },
     {
       "id": "scan_b739fce121a2",
@@ -3325,7 +3365,7 @@
         "match": "Texas"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.645250+00:00"
+      "scanned_at": "2026-06-20T09:49:42.490532+00:00"
     },
     {
       "id": "scan_6b27d47d5cf8",
@@ -3345,7 +3385,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:59.331287+00:00"
+      "scanned_at": "2026-06-20T09:49:46.307628+00:00"
     },
     {
       "id": "scan_35e8ac292316",
@@ -3825,7 +3865,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:54.340561+00:00"
+      "scanned_at": "2026-06-20T09:49:41.260948+00:00"
     },
     {
       "id": "scan_0b997823a61d",
@@ -3840,7 +3880,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.643228+00:00"
+      "scanned_at": "2026-06-20T09:49:42.488390+00:00"
     },
     {
       "id": "scan_eb6015a57ddc",
@@ -3855,7 +3895,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:59.324640+00:00"
+      "scanned_at": "2026-06-20T09:49:46.296721+00:00"
     },
     {
       "id": "scan_dbaa43567464",
@@ -3875,7 +3915,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:59.329402+00:00"
+      "scanned_at": "2026-06-20T09:49:46.301482+00:00"
     },
     {
       "id": "scan_496e498f71c8",
@@ -3890,7 +3930,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:59.333104+00:00"
+      "scanned_at": "2026-06-20T09:49:46.303309+00:00"
     },
     {
       "id": "scan_21bd6f4adb87",
@@ -3905,7 +3945,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:59.346328+00:00"
+      "scanned_at": "2026-06-20T09:49:46.318438+00:00"
     },
     {
       "id": "scan_adb92dc81961",
@@ -3920,7 +3960,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:59.350611+00:00"
+      "scanned_at": "2026-06-20T09:49:46.324953+00:00"
     },
     {
       "id": "scan_09ddd8792091",
@@ -4143,21 +4183,6 @@
       "scanned_at": "2026-06-04T17:17:09.098063+00:00"
     },
     {
-      "id": "scan_f355055bde94",
-      "title": "EU secures emergency deliveries of potential treatment against hantavirus - Reuters",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ2I5bzkyM181REplRkJTVUxqOGNIZENlQThOMzh6Ry1mUkVmQXd2RjJlenN4QmFZSTdnMGtuZjBtNEVUcTdyTUFYREtaaW1WZTVsS1hBbDc4ekUtNGVVZmpNX2k5NmhDRlM2cVN4NXBhT1RoM3d6S1ZfYmMwWWNJbjZHNHdXdnZUcE5TLTFQRTJFeERlSVp2SGRTTEVsdENNVkd2QkI5bDViVzJOcGo1WnUzWHdLc2lZWjRhanZ6M0V6dUVIVWtDUjhpYlZheXo1ZnV5T0lYRWlIdw?oc=5",
-      "published": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ2I5bzkyM181REplRkJTVUxqOGNIZENlQThOMzh6Ry1mUkVmQXd2RjJlenN4QmFZSTdnMGtuZjBtNEVUcTdyTUFYREtaaW1WZTVsS1hBbDc4ekUtNGVVZmpNX2k5NmhDRlM2cVN4NXBhT1RoM3d6S1ZfYmMwWWNJbjZHNHdXdnZUcE5TLTFQRTJFeERlSVp2SGRTTEVsdENNVkd2QkI5bDViVzJOcGo1WnUzWHdLc2lZWjRhanZ6M0V6dUVIVWtDUjhpYlZheXo1ZnV5T0lYRWlIdw?oc=5\" target=\"_blank\">EU secures emergency deliveries of potential treatment against hantavirus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:53.720185+00:00"
-    },
-    {
       "id": "scan_1041c753893d",
       "title": "El segundo caso de hantavirus en España vuelve a tener síntomas en las últimas horas - Infobae",
       "title_de": "",
@@ -4170,7 +4195,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.571835+00:00"
+      "scanned_at": "2026-06-20T09:49:44.475159+00:00"
     },
     {
       "id": "scan_95bb89f8c0c9",
@@ -4190,7 +4215,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.599390+00:00"
+      "scanned_at": "2026-06-20T09:49:44.502880+00:00"
     },
     {
       "id": "scan_87535f7b590e",
@@ -4205,7 +4230,22 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:59.373920+00:00"
+      "scanned_at": "2026-06-20T09:49:46.346536+00:00"
+    },
+    {
+      "id": "scan_f355055bde94",
+      "title": "EU secures emergency deliveries of potential treatment against hantavirus - Reuters",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ2I5bzkyM181REplRkJTVUxqOGNIZENlQThOMzh6Ry1mUkVmQXd2RjJlenN4QmFZSTdnMGtuZjBtNEVUcTdyTUFYREtaaW1WZTVsS1hBbDc4ekUtNGVVZmpNX2k5NmhDRlM2cVN4NXBhT1RoM3d6S1ZfYmMwWWNJbjZHNHdXdnZUcE5TLTFQRTJFeERlSVp2SGRTTEVsdENNVkd2QkI5bDViVzJOcGo1WnUzWHdLc2lZWjRhanZ6M0V6dUVIVWtDUjhpYlZheXo1ZnV5T0lYRWlIdw?oc=5",
+      "published": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ2I5bzkyM181REplRkJTVUxqOGNIZENlQThOMzh6Ry1mUkVmQXd2RjJlenN4QmFZSTdnMGtuZjBtNEVUcTdyTUFYREtaaW1WZTVsS1hBbDc4ekUtNGVVZmpNX2k5NmhDRlM2cVN4NXBhT1RoM3d6S1ZfYmMwWWNJbjZHNHdXdnZUcE5TLTFQRTJFeERlSVp2SGRTTEVsdENNVkd2QkI5bDViVzJOcGo1WnUzWHdLc2lZWjRhanZ6M0V6dUVIVWtDUjhpYlZheXo1ZnV5T0lYRWlIdw?oc=5\" target=\"_blank\">EU secures emergency deliveries of potential treatment against hantavirus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-06-20T06:23:53.720185+00:00"
     },
     {
       "id": "scan_e4459b0f08b8",
@@ -4405,7 +4445,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.584239+00:00"
+      "scanned_at": "2026-06-20T09:49:44.487483+00:00"
     },
     {
       "id": "scan_38c33977ace6",
@@ -4440,7 +4480,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.589699+00:00"
+      "scanned_at": "2026-06-20T09:49:44.493040+00:00"
     },
     {
       "id": "scan_b63dd15eadba",
@@ -4595,7 +4635,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.565778+00:00"
+      "scanned_at": "2026-06-20T09:49:44.469101+00:00"
     },
     {
       "id": "scan_5b9f748fd000",
@@ -4610,7 +4650,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.567883+00:00"
+      "scanned_at": "2026-06-20T09:49:44.471220+00:00"
     },
     {
       "id": "scan_213820522d01",
@@ -4630,7 +4670,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.579478+00:00"
+      "scanned_at": "2026-06-20T09:49:44.482766+00:00"
     },
     {
       "id": "scan_ab5bfdb2b679",
@@ -4650,7 +4690,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.613054+00:00"
+      "scanned_at": "2026-06-20T09:49:44.516706+00:00"
     },
     {
       "id": "scan_772f5871720d",
@@ -5290,7 +5330,7 @@
         "match": "Arizona"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:53.709390+00:00"
+      "scanned_at": "2026-06-20T09:49:40.596504+00:00"
     },
     {
       "id": "scan_f048f4974ec2",
@@ -5310,7 +5350,7 @@
         "match": "US"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.644398+00:00"
+      "scanned_at": "2026-06-20T09:49:42.489624+00:00"
     },
     {
       "id": "scan_00c53ae38a64",
@@ -5330,7 +5370,7 @@
         "match": "Oregon"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.661081+00:00"
+      "scanned_at": "2026-06-20T09:49:42.506679+00:00"
     },
     {
       "id": "scan_b815d987e585",
@@ -6020,7 +6060,7 @@
         "match": "Nebraska"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:58.213049+00:00"
+      "scanned_at": "2026-06-20T09:49:45.158399+00:00"
     },
     {
       "id": "scan_b461f61aac91",
@@ -6480,7 +6520,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:54.337995+00:00"
+      "scanned_at": "2026-06-20T09:49:41.259674+00:00"
     },
     {
       "id": "scan_c9f3605855ce",
@@ -6500,7 +6540,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.005260+00:00"
+      "scanned_at": "2026-06-20T09:49:41.831880+00:00"
     },
     {
       "id": "scan_7ddb07d6776b",
@@ -6515,7 +6555,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:56.959940+00:00"
+      "scanned_at": "2026-06-20T09:49:43.836470+00:00"
     },
     {
       "id": "scan_631b311cc0c5",
@@ -6530,7 +6570,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:59.319368+00:00"
+      "scanned_at": "2026-06-20T09:49:46.291386+00:00"
     },
     {
       "id": "scan_4ac557dd743e",
@@ -6545,7 +6585,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:59.358363+00:00"
+      "scanned_at": "2026-06-20T09:49:46.330530+00:00"
     },
     {
       "id": "scan_b77dac054b83",
@@ -6805,7 +6845,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:56.041494+00:00"
+      "scanned_at": "2026-06-20T09:49:42.948783+00:00"
     },
     {
       "id": "scan_a854fa41f2a9",
@@ -6820,7 +6860,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:58.206856+00:00"
+      "scanned_at": "2026-06-20T09:49:45.165308+00:00"
     },
     {
       "id": "scan_1cb01b3e8119",
@@ -6840,7 +6880,7 @@
         "match": "New York"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:58.241702+00:00"
+      "scanned_at": "2026-06-20T09:49:45.178203+00:00"
     },
     {
       "id": "scan_de166b4a92bc",
@@ -6855,7 +6895,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:58.244994+00:00"
+      "scanned_at": "2026-06-20T09:49:45.186836+00:00"
     },
     {
       "id": "scan_34d4dea856fd",
@@ -7370,7 +7410,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:53.695996+00:00"
+      "scanned_at": "2026-06-20T09:49:40.597698+00:00"
     },
     {
       "id": "scan_ac0433ee3d92",
@@ -7390,7 +7430,7 @@
         "match": "Spain"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:53.709168+00:00"
+      "scanned_at": "2026-06-20T09:49:40.610302+00:00"
     },
     {
       "id": "scan_f3374b7c5283",
@@ -7410,22 +7450,22 @@
         "match": "Spain"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:54.319242+00:00"
+      "scanned_at": "2026-06-20T09:49:41.238587+00:00"
     },
     {
       "id": "scan_ea36b8d1375e",
-      "title": "Fact check: Viral hantavirus map does not show confirmed cases - Euronews",
+      "title": "Fact check: Viral hantavirus map does not show confirmed cases - Euronews.com",
       "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLU9BSVB3SDU5R0lHaTF6S2VhblcyeDFjWUtSbVFGVUN5X29RVFg3N0Npc3ZlXzlsa1R0TFM3R0VQSDI4ZGROendva1l5TzlhUEhVMnBQN2lYTVM2Nm1zSGlmSnRmcXNwc21NbEtoV25yd2oxdXRuRzN0WlF1bmg5NDdoY0NXNzk4MkZtS29VUjdKWWhIUThxVEVDTXNGRkNVdDd5YUs1aEVxbVk?oc=5",
       "published": "Wed, 27 May 2026 07:00:00 GMT",
       "source": "Google News (EN)",
       "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLU9BSVB3SDU5R0lHaTF6S2VhblcyeDFjWUtSbVFGVUN5X29RVFg3N0Npc3ZlXzlsa1R0TFM3R0VQSDI4ZGROendva1l5TzlhUEhVMnBQN2lYTVM2Nm1zSGlmSnRmcXNwc21NbEtoV25yd2oxdXRuRzN0WlF1bmg5NDdoY0NXNzk4MkZtS29VUjdKWWhIUThxVEVDTXNGRkNVdDd5YUs1aEVxbVk?oc=5\" target=\"_blank\">Fact check: Viral hantavirus map does not show confirmed cases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLU9BSVB3SDU5R0lHaTF6S2VhblcyeDFjWUtSbVFGVUN5X29RVFg3N0Npc3ZlXzlsa1R0TFM3R0VQSDI4ZGROendva1l5TzlhUEhVMnBQN2lYTVM2Nm1zSGlmSnRmcXNwc21NbEtoV25yd2oxdXRuRzN0WlF1bmg5NDdoY0NXNzk4MkZtS29VUjdKWWhIUThxVEVDTXNGRkNVdDd5YUs1aEVxbVk?oc=5\" target=\"_blank\">Fact check: Viral hantavirus map does not show confirmed cases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
       "status": "confirmed",
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.023133+00:00"
+      "scanned_at": "2026-06-20T09:49:41.851891+00:00"
     },
     {
       "id": "scan_220f2c803c60",
@@ -7445,7 +7485,7 @@
         "match": "New York"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.661592+00:00"
+      "scanned_at": "2026-06-20T09:49:42.507200+00:00"
     },
     {
       "id": "scan_6728b91f594f",
@@ -7460,7 +7500,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:58.769048+00:00"
+      "scanned_at": "2026-06-20T09:49:45.727453+00:00"
     },
     {
       "id": "scan_54d1a9d53f13",
@@ -7475,7 +7515,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:59.352858+00:00"
+      "scanned_at": "2026-06-20T09:49:46.322234+00:00"
     },
     {
       "id": "scan_a7a87c78c3af",
@@ -7490,7 +7530,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:59.356540+00:00"
+      "scanned_at": "2026-06-20T09:49:46.328696+00:00"
     },
     {
       "id": "scan_a88538ec8db2",
@@ -8280,7 +8320,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:54.301963+00:00"
+      "scanned_at": "2026-06-20T09:49:41.221080+00:00"
     },
     {
       "id": "scan_ffc3e816f21a",
@@ -8295,7 +8335,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:54.312910+00:00"
+      "scanned_at": "2026-06-20T09:49:41.231864+00:00"
     },
     {
       "id": "scan_83af34b6b1d6",
@@ -8310,7 +8350,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:54.315580+00:00"
+      "scanned_at": "2026-06-20T09:49:41.234898+00:00"
     },
     {
       "id": "scan_6f967b370640",
@@ -8325,7 +8365,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.664436+00:00"
+      "scanned_at": "2026-06-20T09:49:42.510195+00:00"
     },
     {
       "id": "scan_9f027ea419e6",
@@ -8345,7 +8385,7 @@
         "match": "Spanien"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:56.040224+00:00"
+      "scanned_at": "2026-06-20T09:49:42.947505+00:00"
     },
     {
       "id": "scan_3e2e6b7fe123",
@@ -8360,7 +8400,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:58.190984+00:00"
+      "scanned_at": "2026-06-20T09:49:45.141904+00:00"
     },
     {
       "id": "scan_7b64346b88ad",
@@ -8375,7 +8415,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:58.195275+00:00"
+      "scanned_at": "2026-06-20T09:49:45.146528+00:00"
     },
     {
       "id": "scan_f0f1b9925367",
@@ -9180,7 +9220,7 @@
         "match": "Spanish"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:53.714250+00:00"
+      "scanned_at": "2026-06-20T09:49:40.614721+00:00"
     },
     {
       "id": "scan_f401f7fc905b",
@@ -9195,7 +9235,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:54.303173+00:00"
+      "scanned_at": "2026-06-20T09:49:41.222291+00:00"
     },
     {
       "id": "scan_a44ecc588dc4",
@@ -9215,7 +9255,7 @@
         "match": "Spanish"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.627239+00:00"
+      "scanned_at": "2026-06-20T09:49:42.469867+00:00"
     },
     {
       "id": "scan_dd028ee96f6d",
@@ -9230,7 +9270,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:55.666317+00:00"
+      "scanned_at": "2026-06-20T09:49:42.514001+00:00"
     },
     {
       "id": "scan_37cb18b5baf4",
@@ -9250,7 +9290,7 @@
         "match": "Schweiz"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:56.078400+00:00"
+      "scanned_at": "2026-06-20T09:49:42.987105+00:00"
     },
     {
       "id": "scan_aae285a71ca4",
@@ -9270,7 +9310,7 @@
         "match": "Spanien"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:56.514463+00:00"
+      "scanned_at": "2026-06-20T09:49:43.441036+00:00"
     },
     {
       "id": "scan_9fc6124eeb39",
@@ -9285,7 +9325,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.564314+00:00"
+      "scanned_at": "2026-06-20T09:49:44.467619+00:00"
     },
     {
       "id": "scan_1577830d6fb4",
@@ -9300,7 +9340,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.607559+00:00"
+      "scanned_at": "2026-06-20T09:49:44.511157+00:00"
     },
     {
       "id": "scan_bcab25a162ab",
@@ -9970,7 +10010,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:56.080052+00:00"
+      "scanned_at": "2026-06-20T09:49:42.988740+00:00"
     },
     {
       "id": "scan_bb802c61e5db",
@@ -9985,7 +10025,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:56.533929+00:00"
+      "scanned_at": "2026-06-20T09:49:43.454905+00:00"
     },
     {
       "id": "scan_13271bd0c869",
@@ -10000,7 +10040,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:56.542535+00:00"
+      "scanned_at": "2026-06-20T09:49:43.462308+00:00"
     },
     {
       "id": "scan_540f17ea7427",
@@ -10020,7 +10060,7 @@
         "match": "México"
       },
       "safe_signal": false,
-      "scanned_at": "2026-06-20T06:23:57.605323+00:00"
+      "scanned_at": "2026-06-20T09:49:44.508876+00:00"
     },
     {
       "id": "scan_57d3bbb61aba",
@@ -10226,36 +10266,6 @@
       "geo": null,
       "safe_signal": false,
       "scanned_at": "2026-05-23T23:16:30.754349+00:00"
-    },
-    {
-      "id": "scan_52ecac155ec2",
-      "title": "Cruise Ship Recent Hantavirus Outbreak Exposes U.S. Preparedness Gaps - Legis1",
-      "title_de": "Kreuzfahrtschiff Jüngster Hantavirus-Ausbruch deckt US-Vorbereitungslücken auf - Legis1",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NSHNiVFNlWnNYMG5nSjhzbmcyWUNCQWUwM0owM1RtZC02RW5pQlNTbzFQeGROcVlwa0o3TV9vNjY5NmpYVEw0X0lycUxlRnFkZkl6TFVKUUhsNFBEOWFpZVhtSUY4QzhjOFdhX2JhU3A?oc=5",
-      "published": "Fri, 22 May 2026 17:21:53 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1NSHNiVFNlWnNYMG5nSjhzbmcyWUNCQWUwM0owM1RtZC02RW5pQlNTbzFQeGROcVlwa0o3TV9vNjY5NmpYVEw0X0lycUxlRnFkZkl6TFVKUUhsNFBEOWFpZVhtSUY4QzhjOFdhX2JhU3A?oc=5\" target=\"_blank\">Cruise Ship Recent Hantavirus Outbreak Exposes U.S. Preparedness Gaps</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Legis1</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-05-25T18:19:23.101308+00:00"
-    },
-    {
-      "id": "scan_171f0b4ad905",
-      "title": "Confirman nuevo caso de hantavirus en Países Bajos este viernes 22 de mayo de 2026 - El Comercio",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTRuY1NFNjNmczNOWTVJbVJvcTFmSVJqMGFRWWxtX0VaeEpGbW5uZDBUZ2hQMURTTmVwMXVZZmxqOWlheFZ2eVduLVhTNjVTTGJHWDZxempQYWZSbXZOX3MtbGZLZXNNMGkxNVhIQUZtS2l0WWpJNGtMNndsbEljTEw2MmpYVFdwSTBhQmdpNA?oc=5",
-      "published": "Fri, 22 May 2026 16:46:00 GMT",
-      "source": "Google News (ES)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTRuY1NFNjNmczNOWTVJbVJvcTFmSVJqMGFRWWxtX0VaeEpGbW5uZDBUZ2hQMURTTmVwMXVZZmxqOWlheFZ2eVduLVhTNjVTTGJHWDZxempQYWZSbXZOX3MtbGZLZXNNMGkxNVhIQUZtS2l0WWpJNGtMNndsbEljTEw2MmpYVFdwSTBhQmdpNA?oc=5\" target=\"_blank\">Confirman nuevo caso de hantavirus en Países Bajos este viernes 22 de mayo de 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">El Comercio</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-05-23T11:45:21.463504+00:00"
     }
   ]
 }
