@@ -1,23 +1,29 @@
 {
-  "scanned_at": "2026-06-23T12:26:49.086077+00:00",
-  "total": 23,
+  "scanned_at": "2026-06-23T15:36:20.493258+00:00",
+  "total": 24,
   "cases": [
     {
-      "id": "cs_f5d2030d6961",
+      "id": "cs_c7740bfb454c",
       "count": 1,
       "status": "suspected",
       "location": {
         "country": "United Kingdom",
-        "city": "Uk",
+        "city": "British",
         "lat": 55.38,
         "lng": -3.44
       },
-      "date": "Tue, 23 Jun 2026 10:08:39 GMT",
+      "date": "Tue, 23 Jun 2026 15:24:31 GMT",
       "age": null,
       "nationality": null,
       "sex": null,
       "flights": [],
       "sources": [
+        {
+          "source": "Google News (EN)",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xaHFweC1zS21xSzBDSXlHQXZQdzctMGt1eUhGT09ueFBaN2tkT3pOZUl6QzZqeDZ3YnJ2YVlwMFVvSnpzMVBuN1M2aUwyTU43ZmQtZkhMMzl6S1ExSHYxbmN0NFlyNmQ2YWw1b044Qk1rdE1IOGlGMWlSclZmamM?oc=5",
+          "title": "All British passengers have completed hantavirus self-isolation: UKHSA - Pharmacy Business",
+          "weight": 5
+        },
         {
           "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ0RkNGFVWm5KSmJ0Y1NQVUt0R1lKY1U1MVJPQ0o0eUhuc3NSVVBUZi1Bd01MdmhDZm1HSXFuYlBIcnk5cmkzWnM5Zmc0QXFQQ1RFcVRQRDNHMG96MVVGLWxMS2d6SW5aa3EzNXdMXy1URGpka3VJejlwUlp0d0Y5cnVuYXpzbElsY2hqRTZpSFJodDh2UnRfRVVJQmdhdl91Ukh6VTBsZkU2Yl90NE0wUTllUlZkMGNaRmt4NFhuUkdDZzdmYTMwUF9TVEl3RVZ3VmtqTUN4Zi13WC1JTno5RnF3eHZiQQ?oc=5",
@@ -59,17 +65,11 @@
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdDNheS1KQm5zRXhjWk5QSmlYbWd3dU41TmJZUHNvSnhGTFJkZ0prUWh6UlU3elZwZzAxVzdHVExwMDNoRTl0eElsUjNpR3FsOEsxWWR5c0hWU0Z5NFd0NVczczFYTWdUZUJmazlTWV9WeWJFRFdzTUdPbnFNWU1FMHVKcUtNbURfdEZrbnpJekdYZ3lOMkE?oc=5",
           "title": "Canada confirms first hantavirus case in isolation in British Columbia - The Guardian",
           "weight": 4
-        },
-        {
-          "source": "Google News (EN)",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQUZQY2NZYVdYZjA2U3ZEMHl0WURNcUhETi1nTmJNT21lYjV0S0JHMk9zYWNYRkpqRmJJcnR6Y2VCNUJQdUoxRUVUd0FyVnlVQkd6aU00em15TV82NzdiTDQ0R3ZWb3A4a3c4NF9ueklRNUdCU2ZrUWlIMnlUaU1vUzlzS3V3SUJrR2NYTHA5OWdVYU9wYW4xQ1NKelkyRmhCQ1h0NXh4YWx4Rmt6NC02clJaaWltR05nWURlSWw2Q1MwZHM4bkNwY3dDYW15dXJLX0E?oc=5",
-          "title": "Lab in a Bag: How we took diagnostics to the other side of the world during the hantavirus outbreak - GOV.UK blogs",
-          "weight": 4
         }
       ],
       "confidence": 0.83,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ0RkNGFVWm5KSmJ0Y1NQVUt0R1lKY1U1MVJPQ0o0eUhuc3NSVVBUZi1Bd01MdmhDZm1HSXFuYlBIcnk5cmkzWnM5Zmc0QXFQQ1RFcVRQRDNHMG96MVVGLWxMS2d6SW5aa3EzNXdMXy1URGpka3VJejlwUlp0d0Y5cnVuYXpzbElsY2hqRTZpSFJodDh2UnRfRVVJQmdhdl91Ukh6VTBsZkU2Yl90NE0wUTllUlZkMGNaRmt4NFhuUkdDZzdmYTMwUF9TVEl3RVZ3VmtqTUN4Zi13WC1JTno5RnF3eHZiQQ?oc=5\" target=\"_blank\">Hantavirus outbreak \"close to end\", says WHO director-general, after more than 80% of contacts have concluded quarant",
-      "scanned_at": "2026-06-23T12:26:16.168443+00:00"
+      "scanned_at": "2026-06-23T15:35:50.696268+00:00"
     },
     {
       "id": "cs_1da0f8a7712a",
@@ -378,21 +378,33 @@
       "scanned_at": "2026-05-29T10:56:31.279094+00:00"
     },
     {
-      "id": "cs_8a88c5b0d88a",
+      "id": "cs_b21b58fde872",
       "count": 1,
       "status": "suspected",
       "location": {
         "country": "USA",
-        "city": "Us",
-        "lat": 37.09,
-        "lng": -95.71
+        "city": "Nebraska",
+        "lat": 41.49,
+        "lng": -99.9
       },
-      "date": "Tue, 23 Jun 2026 01:16:41 GMT",
+      "date": "Tue, 23 Jun 2026 15:18:00 GMT",
       "age": null,
       "nationality": null,
       "sex": null,
       "flights": [],
       "sources": [
+        {
+          "source": "Google News (EN)",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTTliTHBKc2piRVhpOFI2bGRtLURUVzhzdkQ1dHMtNFUzaEhxc1FMN1FVRGpVUmJZN296NHUycWZWSHd5NlItX0xiWHEtcTBQY3EzckdNNm4tVmY0Nmc5d0FsbXRVelJLN1M3MmpiSy1VVi1sczd4NFk0VmhwN0tWRW5HRkpLa3RDZThQc3R2SUpQc1dfLXMyXzRBMVd0d9IBsgFBVV95cUxNOVYwVFdlcVp5dU5VWDFiYjNaaVBFcHhEZW1MWWg0LXlwWWs5TnNqODBZZG5SbGN2ZnZqaWU3YUpnYkNHdlhRNGVVTGZRSHVfOWdzS01fZWdsd1hQeDYxQXFYTkotaDYtWWU4QmxsZkpfcWI0MERjZ2lycmw3TlVVc3A4LWN0eFNrZkU2UGxFSGd0VWRrLVloWTdFWktvSFNja19xTG1WV0VtZkk5ck90SXB3?oc=5",
+          "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - KOLD",
+          "weight": 4
+        },
+        {
+          "source": "Google News (EN)",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVhVLUFrQkotUGt1dVRrdUJEcTg5aVZKeU5TejFha2stMlcyMTFBQUhqWVVvLU42T0tma2pEa2UzNDdDNmVfQTAtOS0tUjNUMmw5TFpOZk1NeG5QYm5kcVAzZjhubnJjMVFyb2hGZ3RmdTJjZVdrQVNJdVNmWVhhWDJKQkZITndIN2hR?oc=5",
+          "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska - The Guardian",
+          "weight": 5
+        },
         {
           "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ1ZGLS1fRWZiOG8xbnJRY2RicmtSbnlyaXEwMDB0ZU11ZlE1YmNRV1d5SzFPMlFDSDRRUnBYMnFxZGNPZFg4eVlDQ214cVNzQmdDNS11bGVKb0lodlVrNUsxVHBmUnRnZDJ1VjBQcG9BSElhS0wxS1IxQWQtZEMxZ2NzSkctekZsQkRFQ2VmZlNld1htYm82ZzRLOVprRmvSAZ4BQVVfeXFMTzRGWlhJVl9yWUdzZ1JrWWlaaUw4REJIeVVUUjdlOTFtUjctc2tqUUJwbWVnSWluNXBFSWRDVzZrVU1TMU5nTVdXbm5IU2tPQXEyRmk1TmNiY2dMbllTRHg0dXpiR05nWF9ra2pGa0FqeDB3WUowQmV3djRkbk1lVkpILXdzaFdtSG56Q2ctX1VHYTl1ZGdLbkJMQ1FVNWc?oc=5",
@@ -427,24 +439,12 @@
           "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWFjZ3J3aEh3YlAtekZfN0cxTmlIX0h1TWcxVUZyYzZ0V3RtaFZpOThUS3FvWTVHZzZwOURZRXJvVXdGUjVhVTdSZUZpYzhFMmtiandJcVZJOWVKM0lGVXIyTXBjT3BRWjkzaEZyMjltNVg5ZFRFLVVPTV9RWFJPemJHcUR5dFI0SXFOWlBvell6OGNvREY1VUtnYUlZZk5RSnNYbk1aUXZZZGc5bXBmZTVaTVRMVVBqRzd0Sg?oc=5",
           "title": "Quarantine ends for the last of the hantavirus ship passengers in Nebraska - Los Angeles Times",
-          "weight": 4
-        },
-        {
-          "source": "Google News (EN)",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ0phNHkyc2xXc180bWw3RC1hNXpGeEE5MTdiVC04Tkk0UnZoTHM0TjUtRTE1S2tfTHVUZzhoVnE1QkZCTzFTM3duZHlyU3E1aV9IX0JPN0FScDM3MGhhc3gxUnp5TzJma09rbVB0aGFlTHJDWXpBdlFpOEtha2FQRmQ3SmFZSllPNHNOT3NxWVFfZWJ5d0hwd2x6WFhyOUhacS1URTU2TGFYYVdEZzMxQmJQMXp2Qmhsa2l3?oc=5",
-          "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - Inquirer.com",
           "weight": 5
-        },
-        {
-          "source": "Google News (EN)",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX0NNZUN4VEJjcDNCalZBdDV4dXE2RUpwV3JfQVhFQkxseWN3SVlMM0xMajcyX1NUNEI0U2ZQQXNvM2pXSjNvaVJEanlVUGNhY1JmN3Z0QmY2d1dZVUhMTGxiQjFGaDhhbUZvcHFHclhFRnBlOWUtbHQxMm8wVUxVUDlrMzlFQVVobHVoNUpfaVFkRkdWdlJwVTZmUU1mTDFBeXlEdV9XQldfUQ?oc=5",
-          "title": "Quarantine comes to an end for the last of the hantavirus ship passengers in Nebraska - Boston Herald",
-          "weight": 4
         }
       ],
       "confidence": 0.4966666666666667,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ1ZGLS1fRWZiOG8xbnJRY2RicmtSbnlyaXEwMDB0ZU11ZlE1YmNRV1d5SzFPMlFDSDRRUnBYMnFxZGNPZFg4eVlDQ214cVNzQmdDNS11bGVKb0lodlVrNUsxVHBmUnRnZDJ1VjBQcG9BSElhS0wxS1IxQWQtZEMxZ2NzSkctekZsQkRFQ2VmZlNld1htYm82ZzRLOVprRmvSAZ4BQVVfeXFMTzRGWlhJVl9yWUdzZ1JrWWlaaUw4REJIeVVUUjdlOTFtUjctc2tqUUJwbWVnSWluNXBFSWRDVzZrVU1TMU5nTVdXbm5IU2tPQXEyRmk1TmNiY2dMbllTRHg0dXpiR05nWF9ra2pGa0FqeDB3WUowQmV3djRkbk1lVkpILXdzaFdtSG56Q2ctX1VHYTl1ZGdLbkJMQ1FVNWc?oc=5\" target=\"_bla",
-      "scanned_at": "2026-06-23T12:26:16.166843+00:00"
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOTTliTHBKc2piRVhpOFI2bGRtLURUVzhzdkQ1dHMtNFUzaEhxc1FMN1FVRGpVUmJZN296NHUycWZWSHd5NlItX0xiWHEtcTBQY3EzckdNNm4tVmY0Nmc5d0FsbXRVelJLN1M3MmpiSy1VVi1sczd4NFk0VmhwN0tWRW5HRkpLa3RDZThQc3R2SUpQc1dfLXMyXzRBMVd0d9IBsgFBVV95cUxNOVYwVFdlcVp5dU5VWDFiYjNaaVBFcHhEZW1MWWg0LXlwWWs5TnNqODBZZG5SbGN2ZnZqaWU3YUpnYkNHdlhRNGVVTGZRSHVfOWdzS01fZWdsd1hQeDYxQXFYTkotaDYtWWU4QmxsZkpfcWI0MERjZ2lycmw3TlVVc3A4LWN0eFNrZkU2UGxFSGd0VWRrLVloWTdFWktvSFNja19xTG1WV0VtZkk5ck",
+      "scanned_at": "2026-06-23T15:35:48.670936+00:00"
     },
     {
       "id": "cs_5fb8ffb156bc",
@@ -513,7 +513,7 @@
       ],
       "confidence": 0.4966666666666667,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmk3OV9kRUNnTVJ5enJsalZKT0ktT1BFaVdDVUsyUjNsbzhUM1RPb1RBYmd4azhtTlVxQXFzd0NfMzZfSlpxcE9vMTBfeXM3SUdrcEtfWVFra2U3bXFvY0REVU5kb0JYeU5YbmhaSUoyWVBGYWlYdTRoZGRsTHd5ZHd4WDA2c282VXRiemY3VlprYVplWlY2eHNRUGbSAZwBQVVfeXFMTUJpNzlfZEVDZ01SeXpybGpWSk9JLU9QRWlXQ1VLMlIzbG84VDNUT29UQWJneGs4bU5VcUFxc3dDXzM2X0pacXBPbzEwX3lzN0lHa3BLX1lRa2tlN21xb2NERFVOZG9CWHlOWG5oWklKMllQRmFpWHU0aGRkbEx3eWR3eFgwNnNvNlV0YnpmN1Zaa2FaZVpWNnhzUVBm?oc=5\" target=\"_blank\">Bar",
-      "scanned_at": "2026-06-23T12:26:18.577733+00:00"
+      "scanned_at": "2026-06-23T15:35:52.878816+00:00"
     },
     {
       "id": "cs_5eaebdc4cc12",
@@ -1035,7 +1035,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGdVWC1FSWRHNVFfeUdhM1o2cVVxRGd1S2VrQVZwRnE5Q2Z0ckZZVFdQbjc4WkE3Qy1OaTAxNmdBRWM4TkhjR1FlMXV3UnFOUnprWlMzZDR1RzdaTVRJX3J4a3pUb0U3YThYVmpoS3BnUV9tWDNQMl9EZDB2MDVqLTlMQXFyTG02TVhaTTlpWG91TXBfWTFreGZZSFdqNWtMb3Riak94Qk1PX1BWMWc2SVpiOUw?oc=5\" target=\"_blank\">Erster Verdachtsfall auf Hantavirus in Portugal bestätigt sich nicht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews</font>",
-      "scanned_at": "2026-06-23T12:26:17.298820+00:00"
+      "scanned_at": "2026-06-23T15:35:51.745948+00:00"
     },
     {
       "id": "cs_804a25922135",
@@ -1062,7 +1062,34 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxQV1BydVhVdjNwOWxsSF9CRTUwaklEZVA3UFYtUXVHTi1WYmxKZUNtS05TaDFrak1meDMydlVoWjV2ZjlTbG91Q3hFZmU0dnFPM05ieTFnT1ItUHNoOVlpNjZWYkZvOW1LU1RzbnRWU2xPLVVPU1drQjllNjlNY0NZY0FudlkzZFNGNjNBR3RHem5uRklYMjBqREE2dV9wd1JZdXJDMTVCeTdFVkNHMTd2VS1ERzBGQVJBcGp4ZWZxdzN4WkV2a245UWtQeHNvRHNmUkZWSzdINWxiTTh2ZzJpeV8tVi1rNmM2ZHdySkdFRVBDX0pLdjJiZklIRmtWWDJVV1IwZDdzY3cxY1Fhb0pRT2JXSmtRODBMeTZNYmoyc1d1aDBoaWhJZjBR?oc=5\" target=\"_blank\">Hantavirus : un cas confirm",
-      "scanned_at": "2026-06-23T12:26:20.674224+00:00"
+      "scanned_at": "2026-06-23T15:35:54.964127+00:00"
+    },
+    {
+      "id": "cs_1f176582eb7f",
+      "count": 1,
+      "status": "deceased",
+      "location": {
+        "country": "Austria",
+        "city": "Wien",
+        "lat": 48.21,
+        "lng": 16.37
+      },
+      "date": "Sat, 16 May 2026 07:00:00 GMT",
+      "age": null,
+      "nationality": null,
+      "sex": null,
+      "flights": [],
+      "sources": [
+        {
+          "source": "Google News (DE)",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QNXk4eHlMaXBrbi1RR0RZXzJ0d1VHc19JRll5T0FhYVZsYk5FWWticy1QMkQ0bjlKb2F6UFVnNVRCUQ?oc=5",
+          "title": "Patientin verstorben - Hantavirus: Nach Wien-Flug drei Passagiere gesucht - Kronen Zeitung",
+          "weight": 4
+        }
+      ],
+      "confidence": 0.4633333333333333,
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QNXk4eHlMaXBrbi1RR0RZXzJ0d1VHc19JRll5T0FhYVZsYk5FWWticy1QMkQ0bjlKb2F6UFVnNVRCUQ?oc=5\" target=\"_blank\">Patientin verstorben - Hantavirus: Nach Wien-Flug drei Passagiere gesucht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kronen Zeitung</font>",
+      "scanned_at": "2026-06-23T15:35:51.784151+00:00"
     },
     {
       "id": "cs_393cc5702750",
@@ -1088,20 +1115,14 @@
         },
         {
           "source": "Google News (PT)",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNEZuSVV5UjdRVlNzY1lYT1B3MnM2RTVPM09XdGRHRFV6MXRDWDdvWEtVUzM4R29nVURtdmt6UzVKZlI2Smw4c0ZEaW5HVjNRMlJ0elkzWmhFMHgtTTdMS0VtbU1PZXZNdXAtV2RfSWwzTGhfWFZKZGNvcFhkMlhWcXdQNXpZVGczLUstSkhkdnlKOXlQZnkwNTlJVGhtU0tnYWhFNGxRaVdNYXM0NlZMMC00ZTNOV1Izb01MTmZBOFZoV3ZiUzBTVjFGNVMtamx2RFB4U3FoeXJKVG5NYi1lUFZSSWV1Ql9Pd0hDZ3JTNk1DM3pVTkHSAYQCQVVfeXFMUDczY3dVM2l1OE96d1VfR2hiM3JyZldHYkJ3Q0d1bG94S1FlZzNFcnBlbUl0eEtfdTh2TUpQUnVkbFFfMDh0N2M2em9mNzZsZHdDZk1FcEZ5NDZqYkt5YW1fVVNmQ1hqa040cmR3VmtkVVF6T2tTVkRsNTRyOFh1MW0taTVnMmowZkF6N09jQXdFVGFnbXBfbGlKdlBiMkpUa3NOaWFPd2NLRzdaNEE0eDhNSlp3X01zVkdMbG5qYkI2SzJ2WnpQM05GcGU2YnY1SnItQm85TkhNN3Y2VW1TVjdPMmZicjZISTlzZzRrZ182OTZBTDhRY1pnRzVaSEgzekVLMHo?oc=5",
-          "title": "Homem que trabalhou em lavoura de MG é a única morte confirmada por hantavírus no Brasil em 2026 - G1",
-          "weight": 4
-        },
-        {
-          "source": "Google News (PT)",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUVJqNjZpN1ZObjVTNG9RSlJxcWpsTEk1OFZUS19aTTc2QkZYbDJyaUpPVGFCbkxzbGJfRWRidThNZmF3YUxUZFRUUkt5TWJvX3R6MDJmT012TVEtblp2SlZrdmhBYkx4U3QyUTl2cnI0cld3Nl80M0o3elIzLUx4SW1ZenJDeE5kc2E5RWtRQ1pteVJUTGfSAZsBQVVfeXFMTV83SkE0XzJnYjk5Q1c2bkZOMlVzVFljSEE5c0tGdnA2ZWlOc0pPQThvalAwc3Vtbko4aHNLeU15d2Q2My1jLW5xc0FTSTRnUmtabHpBRjhpMmo3MWp3cHZFaVpMNUlDRUM1RTdIeWRJdXdrYlNocDN6NkVDT1I5ekZuNUY4cFNoX01xWDlTQzdRVDk2eU9vYUxWMU0?oc=5",
           "title": "Brasil teve uma morte confirmada por hantavírus em 2026 - InfoMoney",
           "weight": 4
         }
       ],
       "confidence": 0.4633333333333333,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNEZuSVV5UjdRVlNzY1lYT1B3MnM2RTVPM09XdGRHRFV6MXRDWDdvWEtVUzM4R29nVURtdmt6UzVKZlI2Smw4c0ZEaW5HVjNRMlJ0elkzWmhFMHgtTTdMS0VtbU1PZXZNdXAtV2RfSWwzTGhfWFZKZGNvcFhkMlhWcXdQNXpZVGczLUstSkhkdnlKOXlQZnkwNTlJVGhtU0tnYWhFNGxRaVdNYXM0NlZMMC00ZTNOV1Izb01MTmZBOFZoV3ZiUzBTVjFGNVMtamx2RFB4U3FoeXJKVG5NYi1lUFZSSWV1Ql9Pd0hDZ3JTNk1DM3pVTkHSAYQCQVVfeXFMUDczY3dVM2l1OE96d1VfR2hiM3JyZldHYkJ3Q0d1bG94S1FlZzNFcnBlbUl0eEtfdTh2TUpQUnVkbFFfMDh0N2M2em9mNzZsZHdDZk1FcE",
-      "scanned_at": "2026-06-23T12:26:20.019334+00:00"
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQUVJqNjZpN1ZObjVTNG9RSlJxcWpsTEk1OFZUS19aTTc2QkZYbDJyaUpPVGFCbkxzbGJfRWRidThNZmF3YUxUZFRUUkt5TWJvX3R6MDJmT012TVEtblp2SlZrdmhBYkx4U3QyUTl2cnI0cld3Nl80M0o3elIzLUx4SW1ZenJDeE5kc2E5RWtRQ1pteVJUTGfSAZsBQVVfeXFMTV83SkE0XzJnYjk5Q1c2bkZOMlVzVFljSEE5c0tGdnA2ZWlOc0pPQThvalAwc3Vtbko4aHNLeU15d2Q2My1jLW5xc0FTSTRnUmtabHpBRjhpMmo3MWp3cHZFaVpMNUlDRUM1RTdIeWRJdXdrYlNocDN6NkVDT1I5ekZuNUY4cFNoX01xWDlTQzdRVDk2eU9vYUxWMU0?oc=5\" target=\"_blank\">Brasil teve ",
+      "scanned_at": "2026-06-23T15:35:54.315941+00:00"
     }
   ]
 }
