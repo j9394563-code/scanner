@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-06-23T21:16:58.943077+00:00",
-  "total": 23,
+  "scanned_at": "2026-06-23T22:41:52.896222+00:00",
+  "total": 24,
   "cases": [
     {
       "id": "cs_c7740bfb454c",
@@ -444,7 +444,7 @@
       ],
       "confidence": 0.4966666666666667,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQmk3OV9kRUNnTVJ5enJsalZKT0ktT1BFaVdDVUsyUjNsbzhUM1RPb1RBYmd4azhtTlVxQXFzd0NfMzZfSlpxcE9vMTBfeXM3SUdrcEtfWVFra2U3bXFvY0REVU5kb0JYeU5YbmhaSUoyWVBGYWlYdTRoZGRsTHd5ZHd4WDA2c282VXRiemY3VlprYVplWlY2eHNRUGbSAZwBQVVfeXFMTUJpNzlfZEVDZ01SeXpybGpWSk9JLU9QRWlXQ1VLMlIzbG84VDNUT29UQWJneGs4bU5VcUFxc3dDXzM2X0pacXBPbzEwX3lzN0lHa3BLX1lRa2tlN21xb2NERFVOZG9CWHlOWG5oWklKMllQRmFpWHU0aGRkbEx3eWR3eFgwNnNvNlV0YnpmN1Zaa2FaZVpWNnhzUVBm?oc=5\" target=\"_blank\">Bar",
-      "scanned_at": "2026-06-23T21:16:24.211998+00:00"
+      "scanned_at": "2026-06-23T22:41:20.109030+00:00"
     },
     {
       "id": "cs_5eaebdc4cc12",
@@ -652,6 +652,12 @@
           "weight": 5
         },
         {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YdDJJZERxYkY2UVNzTWVCTURnMzVieDhBd1pfMmN1REhxTVNzZ3MwZXA0YTlUR0RNSzdPdVlDTWNLb0xuYnlOSVYwRTAzUXViTWdNOUduelREYmUxLWlLOG5ZZVZxMnl4VHNMNkVVZ1NvRE1UeWhUcm9Ja3VKaDg?oc=5",
+          "title": "De EE.UU. a Singapur, varios países se suman al rastreo del hantavirus - CNN en Español",
+          "weight": 4
+        },
+        {
           "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWnNDUGRsdW1KUHBpYUJOMkY0UzlfN05SRUwwNEVnbVh3TzVISXZsMXF1NFIxRWF2SnpoMnZnX24tS3BVSW5ocGw4dHRSREV4bnI1RExteTJ3WV9FaUpWTF9ZTTMwMm03dm9IUmYxQ1k0SVhITDZDUEpzX0F4UFR6cA?oc=5",
           "title": "From US to Singapore, countries race to track hantavirus - CNN",
@@ -854,12 +860,6 @@
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXF3dFEwaEVKU1I3QVhVUGo4SjBQeXlXbkl2Z0VuajlDTk1KZUdMVklvbm1RWHBraEVVWDAzajhsT1hSTTF0YUlGSVBCZ19MWHZrZTF5R2RucnZSNWQ0dG5Ya1dmc2swY1lkaUpCY2RIVTYtczFZZ0VDUzFJc3VWejY1bzI1R3lKcmZ6OTFzQnpLb1hORktYeVd1YVNFSHRCak5pSldpNC1nYTB2bmJYbWF3bElDZVMzbll6cXk2Zw?oc=5",
           "title": "B.C. health officials say Canadian who tested positive for hantavirus has recovered - CityNews Toronto",
           "weight": 4
-        },
-        {
-          "source": "Google News (DE)",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORzY3SmVQWm9YdmE4ZEk4VWdMT0g1Ul9OeTFXV2VKb2hSZGZIdWJEWTNad0VSMklaT1BsLTgzWExxb0pnZ0lNNHRIeW01b2VBM3pqcXdwaTA4cmhEdHZmVnRHRmxzRm5HeWRCa2plZy1nZEc0QUtCZkZLd05WNmthYTQ0eDJiY05qV0p6aWRwR0s3N3J3YzgwRzkxcWxVc0dFdHA1VXoxcHVMY2pnRDNvTW5ORGk4eUxPLTlkeTRLbWRCeDdpVHc?oc=5",
-          "title": "Nach „Hondius“-Kreuzfahrt: Kanada bestätigt positiven Hantavirus-Test - RND.de",
-          "weight": 4
         }
       ],
       "confidence": 0.4633333333333333,
@@ -1029,7 +1029,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGdVWC1FSWRHNVFfeUdhM1o2cVVxRGd1S2VrQVZwRnE5Q2Z0ckZZVFdQbjc4WkE3Qy1OaTAxNmdBRWM4TkhjR1FlMXV3UnFOUnprWlMzZDR1RzdaTVRJX3J4a3pUb0U3YThYVmpoS3BnUV9tWDNQMl9EZDB2MDVqLTlMQXFyTG02TVhaTTlpWG91TXBfWTFreGZZSFdqNWtMb3Riak94Qk1PX1BWMWc2SVpiOUw?oc=5\" target=\"_blank\">Erster Verdachtsfall auf Hantavirus in Portugal bestätigt sich nicht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews</font>",
-      "scanned_at": "2026-06-23T21:16:23.061317+00:00"
+      "scanned_at": "2026-06-23T22:41:18.675586+00:00"
     },
     {
       "id": "cs_804a25922135",
@@ -1056,7 +1056,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxQV1BydVhVdjNwOWxsSF9CRTUwaklEZVA3UFYtUXVHTi1WYmxKZUNtS05TaDFrak1meDMydlVoWjV2ZjlTbG91Q3hFZmU0dnFPM05ieTFnT1ItUHNoOVlpNjZWYkZvOW1LU1RzbnRWU2xPLVVPU1drQjllNjlNY0NZY0FudlkzZFNGNjNBR3RHem5uRklYMjBqREE2dV9wd1JZdXJDMTVCeTdFVkNHMTd2VS1ERzBGQVJBcGp4ZWZxdzN4WkV2a245UWtQeHNvRHNmUkZWSzdINWxiTTh2ZzJpeV8tVi1rNmM2ZHdySkdFRVBDX0pLdjJiZklIRmtWWDJVV1IwZDdzY3cxY1Fhb0pRT2JXSmtRODBMeTZNYmoyc1d1aDBoaWhJZjBR?oc=5\" target=\"_blank\">Hantavirus : un cas confirm",
-      "scanned_at": "2026-06-23T21:16:26.488755+00:00"
+      "scanned_at": "2026-06-23T22:41:22.442226+00:00"
     },
     {
       "id": "cs_393cc5702750",
@@ -1089,7 +1089,52 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQUVJqNjZpN1ZObjVTNG9RSlJxcWpsTEk1OFZUS19aTTc2QkZYbDJyaUpPVGFCbkxzbGJfRWRidThNZmF3YUxUZFRUUkt5TWJvX3R6MDJmT012TVEtblp2SlZrdmhBYkx4U3QyUTl2cnI0cld3Nl80M0o3elIzLUx4SW1ZenJDeE5kc2E5RWtRQ1pteVJUTGfSAZsBQVVfeXFMTV83SkE0XzJnYjk5Q1c2bkZOMlVzVFljSEE5c0tGdnA2ZWlOc0pPQThvalAwc3Vtbko4aHNLeU15d2Q2My1jLW5xc0FTSTRnUmtabHpBRjhpMmo3MWp3cHZFaVpMNUlDRUM1RTdIeWRJdXdrYlNocDN6NkVDT1I5ekZuNUY4cFNoX01xWDlTQzdRVDk2eU9vYUxWMU0?oc=5\" target=\"_blank\">Brasil teve ",
-      "scanned_at": "2026-06-23T21:16:25.794337+00:00"
+      "scanned_at": "2026-06-23T22:41:21.855913+00:00"
+    },
+    {
+      "id": "cs_fba8ed4bfc70",
+      "count": 39,
+      "status": "suspected",
+      "location": {
+        "country": "Chile",
+        "city": "Chile",
+        "lat": -35.68,
+        "lng": -71.54
+      },
+      "date": "Fri, 08 May 2026 07:00:00 GMT",
+      "age": null,
+      "nationality": null,
+      "sex": null,
+      "flights": [],
+      "sources": [
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVktaNnYyT1BIT3ZXSmlXU0JvOHNySmtPT1Y1SjBhaWsxQjZBS2V1Zzl6dmU5eWhYQnlQTWdqRWpacU9xN1YyUTAtZnNpMDl3YzRqeVJuMFdfRUdJcTAzZG1jUU9UQlhIeUkyUzFfOGc1YTJBaldMS3RmYk9jV3hBdU5hTFBXZjVKUE1vYUJ3OFFzaEdsMmx5cFNELXcxYVhLQXRlQndSc0FFNVFSNjhadEN0UllfN1BBRXVxTG15blJrblBTWGVoeFVhX1FOQW1sNVdGYTZUTFBaZzlKOHY1MjVvbmp4aW1LNmYzMUo3dVdib0JmVm9SYnNsTQ?oc=5",
+          "title": "Minsal descarta pandemia de hantavirus en Chile: no hay contagio interpersonal en el país desde 2019 - BioBioChile",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLU50eWk2VFpWZjRhWS02MHl5dHQ4bTAxVXZNbGFmTG11WGRWMklabHpndnRHX0NybU5LTnBqNjZYbVZuNmZnMHVycTVickEwRDA4Nk9RUi1hVjBoQ1lGWWotTmg4bzV3endJOEY1UVdvNGJieEFib2VXMjZFdTVIRTk5QTRrUG5ETUpwWF9qSzRxcDMtVnpOMjhDc2NtRzJrYVp1UUtTclM0eUV5QzhBZWZlNThOSjdCd2JMazEwLXV6UGo20gHYAUFVX3lxTE5EREdQQnNEVTV4bkdYbWhmZndsRTVFR1I3QlNvTlM3RFU1RmpmblpnRFFmblowZXR6SWY4bmxUSFYzeDlXSzZMczZyQzBiWV9Xbm54TlFQTnRnMW5fb0I0cktUUkV3YVZYcndxZy0zZXZGZU1OMkJJOUkwRUZsdnlUMWEtSHlaNEp2aHNDbGJKWGJGTGhKZFZ2bS12UVpnR1E5SWY3TWpuZGZHQnJpbnpTQmFGZ3F5aTM1SWw5Q0FnTFhuM1gzSjAxbE9DekJqUlQwNEVuNjVfYQ?oc=5",
+          "title": "Hantavirus en Chile: origen, últimos casos y las medidas preventivas ante la enfermedad - EL PAÍS",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMXdTTk5mX1dGWnRlM3FEdGk5b3BKUlZGMUZvaXhnanJuMmFkYlNjV3RmYi05RG5rUGVfMGh0dzN0MTF0TjJTcjdEV2VWakhoajc0ekNQSkpiZHVYZlZDd3Q0MThnbTlsd21KTTJyT19tVGNNNDNDcUZobXktaW1nMi1Za3NOS2lTMzdkMmk3OHZzWWlRUVJZM21Za25QSGRqdjhHa2FDeUtMYkN4S1RidXQ4ZmNHd1RWdTBKOVM0Y3draTE0UWs0THhLZlh6cjFwMXM3aTNwRE5VTU9IOTlaYVdXVVdzQXNNalE?oc=5",
+          "title": "Chile registra 39 casos de hantavirus en lo que va de 2026 con aumento en la letalidad - BioBioChile",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQLXNaMmtHOEhIcWFTT2FJbEUzOUdtZzJBdXpiblRVRVh6YkotVmFacUNDUDJLV1BPSXJOcmgweFZuTXhFMnhOd2Z6NzVDTDlwRTFLYVVPSGI0U0hlb1p5RW1feUV6clZiR09xa3prejFFa09OcC1aSkd0NHBoMFFocmc3NzNWQXpuX045NURaQW5LX0xmcUxfZHVkanZEQUE4MUlUYW1BTVlOd1llVTVXc2ZGMzZhYU1LdE5YcllyX1ZnbVlhTC1sWmx3SnNpMkRNRjdJQmNwRi1acmhyM1FJajBMWjdkXzVZbEI4WjBoSFV0ZkhXWXN3VNIBgAJBVV95cUxQUm16RzhlSXFsMDVFRWpIaWtSZzJvV0JMRDl0TWF4M2xyZlBVQzFOcW1ya20yeTY4bXBTOWp3dVdZZmd6dkRzZnlLMHdJeXNyb2Z6NHRwckpMWDN5alA3UXlUOXJNalZVWDJyMVdYUWQzeWdzMXBIbWJad1Y3cUtwekVJMUlCOVBGMlYtNGVxNTZRa2F3NWM2NWZtLUJnTldqYXBmTWpYQW5pLUk0eEVPYjFLTDVqNFRHTVgyeXdZelBwUXVNS011QUFmLWJFcFJXZF8xZS04ZkV3SXFSRWxUT29CbE5RVlYxOXVvODhOMEVvUlFYb2NOdEpOTlFKaWw2?oc=5",
+          "title": "Brote de hantavirus en crucero: la cepa endémica de Chile no tiene potencial de causar una pandemia - Diario Concepción",
+          "weight": 4
+        }
+      ],
+      "confidence": 0.4633333333333333,
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVktaNnYyT1BIT3ZXSmlXU0JvOHNySmtPT1Y1SjBhaWsxQjZBS2V1Zzl6dmU5eWhYQnlQTWdqRWpacU9xN1YyUTAtZnNpMDl3YzRqeVJuMFdfRUdJcTAzZG1jUU9UQlhIeUkyUzFfOGc1YTJBaldMS3RmYk9jV3hBdU5hTFBXZjVKUE1vYUJ3OFFzaEdsMmx5cFNELXcxYVhLQXRlQndSc0FFNVFSNjhadEN0UllfN1BBRXVxTG15blJrblBTWGVoeFVhX1FOQW1sNVdGYTZUTFBaZzlKOHY1MjVvbmp4aW1LNmYzMUo3dVdib0JmVm9SYnNsTQ?oc=5\" target=\"_blank\">Minsal descarta pandemia de hantavirus en Chile: no hay contagio interpersonal en el país",
+      "scanned_at": "2026-06-23T22:41:21.022694+00:00"
     }
   ]
 }
