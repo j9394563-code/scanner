@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-06-29T07:01:40.330759+00:00",
-  "total": 27,
+  "scanned_at": "2026-06-29T12:08:22.996718+00:00",
+  "total": 28,
   "cases": [
     {
       "id": "cs_dffc759425b2",
@@ -61,15 +61,42 @@
           "weight": 5
         },
         {
-          "source": "UKHSA",
-          "link": "https://www.gov.uk/government/publications/hantavirus-statistical-releases",
-          "title": "Research: Hantavirus statistical releases",
-          "weight": 9
+          "source": "Google News (EN)",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3dEY19nZlY1dk1QcEFkS0FMWG1QTkZpV3B4UXFIQncxd3JKWDV5RzVYcHFoR3g4MERlU3JXWF9IU3F6N0JfS0FlQTVjNkxZakloaFU4emhxbVp5LVVCQ3A4XzBTMXpOakQySkh2VF9hRHhmRGx6b1FBNVNpbHdVbV82dDhwbExYNGNvWTNlNXQ1Q1pKY1ZfcQ?oc=5",
+          "title": "Nine UK citizens exposed to hantavirus returning to Britain - Sky News",
+          "weight": 4
         }
       ],
       "confidence": 0.83,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ0RkNGFVWm5KSmJ0Y1NQVUt0R1lKY1U1MVJPQ0o0eUhuc3NSVVBUZi1Bd01MdmhDZm1HSXFuYlBIcnk5cmkzWnM5Zmc0QXFQQ1RFcVRQRDNHMG96MVVGLWxMS2d6SW5aa3EzNXdMXy1URGpka3VJejlwUlp0d0Y5cnVuYXpzbElsY2hqRTZpSFJodDh2UnRfRVVJQmdhdl91Ukh6VTBsZkU2Yl90NE0wUTllUlZkMGNaRmt4NFhuUkdDZzdmYTMwUF9TVEl3RVZ3VmtqTUN4Zi13WC1JTno5RnF3eHZiQQ?oc=5\" target=\"_blank\">Hantavirus outbreak \"close to end\", says WHO director-general, after more than 80% of contacts have concluded quarant",
       "scanned_at": "2026-06-24T19:03:10.716468+00:00"
+    },
+    {
+      "id": "cs_c5cb12cd6a4d",
+      "count": 3,
+      "status": "deceased",
+      "location": {
+        "country": "South Africa",
+        "city": "South Africa",
+        "lat": -30.56,
+        "lng": 22.94
+      },
+      "date": "Sun, 28 Jun 2026 21:14:23 GMT",
+      "age": null,
+      "nationality": null,
+      "sex": null,
+      "flights": [],
+      "sources": [
+        {
+          "source": "WHO Twitter",
+          "link": "https://nitter.net/DrTedros/status/2071341462789537794#m",
+          "title": "RT by @WHO: #Hantavirus Update: - All contacts of the two cases identified in South Africa at the beginning of the outbreak have completed their follow-up period, with no additional cases reported. - Quarantine and follow-up periods have also been completed for everyone in Spain and the Netherlands, including the MV Hondius crew members. - As of June 25, 30 contacts are still under follow-up. - The total number of cases remains at 13, including three fatalities. - The situation remains stable, and the outbreak is nearing its end. @WHO expresses gratitude to all countries involved in the response for their cooperation.",
+          "weight": 6
+        }
+      ],
+      "confidence": 0.68,
+      "clinical_notes": "<p><a href=\"https://nitter.net/search?f=tweets&amp;q=%23Hantavirus\">#Hantavirus</a> Update: <br />\n<br />\n- All contacts of the two cases identified in South Africa at the beginning of the outbreak have completed their follow-up period, with no additional cases reported.<br />\n<br />\n- Quarantine and follow-up periods have also been completed for everyone in Spain and the Netherlands, including the MV Hondius crew members.<br />\n<br />\n- As of June 25, 30 contacts are still under follow-up.<br /",
+      "scanned_at": "2026-06-29T12:07:53.788277+00:00"
     },
     {
       "id": "cs_56a01b7d408b",
@@ -208,7 +235,7 @@
           "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGVfZGhnMVdqX0ttM2FMeXR4UDVEQWxuUEtsZFFJOHZocjZHUkxiNmZDWHZwWE8wYnhfUDJqSV85b2VtNEx0LVBsRmI0VVpIZTZrZXRuSjdTUVl2XzhOdmZvc3k3d3ptTkcteVFpdmpfX0Rsc1Foc0FqV3JYSS1JbHJvZmJBVkw3S0VDRW1sTnpXZlJxVEZhVk1oRXhNamxBUlZueFY2WXg3MzVhSE9HNHdRWGM?oc=5",
           "title": "US CDC concludes hantavirus response as outbreak eases - Reuters",
-          "weight": 5
+          "weight": 4
         },
         {
           "source": "Google News (EN)",
@@ -231,7 +258,7 @@
       ],
       "confidence": 0.58,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNNHdUT0N4b2ZYbW50bmJTTUdfajBIY1pULXVBTm1KVnNlYXg2RW1oem8tY1BBcmRyME82MFlreFpnVjc2cHhlbGpYVG5GR3VOVmhYejlCM2lnMmRJajBFR0RvOTRrMWk1cXllWnVRRFA1RkNpZzlFOC1TZ0RLN0FwUm4yaFVyaUxHdnBYeU1UcUJlQ0xMTEhHQ0pvR213UzdPZ0cxLUtEN2VJalFMUWZ0QnJR0gG3AUFVX3lxTE9xZDYzelhIT29ScXo1N3JCZ25FZEFmREF6QjBBMXFXMmlQdm1RQ1g2S2xvSFhla0xpRDZEZkRmT2VXTzMtTGdYM09hcG04WkRTdW9hb0dBOWY0TmNMTnNjeTc2VmQycktQQjdWZjV4SHJDTW9TTkIybk90MlBKbjloR3djNXRWUUF3Y0lSTlBfVmh6b0ZKMGwyb2",
-      "scanned_at": "2026-06-29T07:00:59.826242+00:00"
+      "scanned_at": "2026-06-29T12:07:47.847105+00:00"
     },
     {
       "id": "cs_a0f4f19d1aeb",
@@ -300,7 +327,7 @@
       ],
       "confidence": 0.58,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa3pDZV80OUtIUmUtZ2ViUHNraWVFRXBnTHBDYTl4NWplTFFQSVR5NVVuR2JfcF9sXzFUbDdfaEc3dGIzSDJoMEpCa0d3VTQ5MS1hTzVGLWlsMVFxbGk4VDhQRlpwVjRVT2FnMl9aQVpuZ2kyLXUzdkhsVDRYWG02R09NbzV1T25ldUw5TkVYU0pua1NCX2doRzcyRmNYeXpvZXZUdERGV1pKczlhUm9RbGZUckNsaDBDNDNySENRVFlpT0hueHg2WmV5VUc5LWZ1Y0tUNTJHcG55Znow?oc=5\" target=\"_blank\">Thirty-eight Filipino crewmembers of MV Hondius, which was hit by an outbreak of Andes hantavirus during voyage, returned to the co",
-      "scanned_at": "2026-06-29T07:01:01.078237+00:00"
+      "scanned_at": "2026-06-29T12:07:49.174095+00:00"
     },
     {
       "id": "cs_a2ac3832acae",
@@ -416,14 +443,14 @@
         },
         {
           "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2ZucU1NMkRpOGIyMGlWc1VIUkx4TDh0c282b2ttOC12MjVGLXlyWTI0NGpTUHYtSzQ1a0l3MTZNMFd0dlhoVkJoM2M2bFlPZFRYb05xYi1BN0tlVmRkTi0tOEgzdjlnLTg1Zk1HenhPdkJFaEJWVGxZZ0I0aVZLR1hxWG54ZW9vRVpjSDhRNEFRbFNQTm9fS3pFVUZUd9IBuAFBVV95cUxOeUZPcXBpRjc3bmg4SU1za2ppcV9HS2llZ2FuUVlyTUxxNE11ZjU4UERYcVVVa0ViMk9WTW4xTDZ1ejBvS1d4MDQ3OXcyQktYdzlRSlI3aGpMY1hoT3BncDRJdTdtU3FSMlVYQ3pOdEIwYkxmWGNqQXhtV09oS1ZXNEhiYWVMR0lGcEFUMG1GRlBiVnZnSEd0dHBfSTFyVHFQX0xlNWZVV216VVRsckYyTzhNSFptSEJ2?oc=5",
-          "title": "Confirmaron un nuevo caso de hantavirus en Bariloche - Infobae",
+          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQWFJQSHBhYlhOU215bmdlTUVFWGhRUEVFRThDZW9tdUtfTmpPSlJpQU1jT3dLQlpjZ1ZlZlJ1U3BUSmgwaXZMNFZ0QjlxYWdPYWZCRmJHMWRDZFBqcGt3dDBBWjluZnpjVm5tSm9hdUVOUHdrUkFJSE1fODQtMDZSVjItTG1tS0pmUGExdURoQjlZX1FuWjVPYXRway11R2NLaDB0ZUZpYW9CN184M0hhaTZZaEQ4TldIbWo0SWotb3BrYTNIOS1BdDlGby1pZ29xTkhBM2Z5NEhqS2ZFcFB0dlY5WHhuaWJyNEFwVUFmQ2g?oc=5",
+          "title": "Confimaron un nuevo caso de hantavirus en Bariloche: la esposa de un paciente recibió el alta tras contraer la enfermedad - La 100",
           "weight": 4
         }
       ],
       "confidence": 0.4966666666666667,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWU1SLWY2S2FZLXZ5UkNONWcyVjdoNTRVN3c4VHlwb1Z5Z29kRjVYY1Y2cWJMYmhUYTMxSGJNenhQbkxKZkUyemY1bVd0VnFkMDZlZGJDRS1pWC1YMUFreXV1azBidEFaX2QxY0YteW81OGtPSWkxd1BxdVRTSW5LZ2w0Zk1EOUlqaUw1Z2lQcDlpeXpEZ0NqTDJuNGQ2TlZXaFV3WUlRdVN5QUJrdHZ3c3NfME0zT2hLWFlhMXlOcGhhQdIBxwFBVV95cUxPU2w4QXp3Z3V2MDVxd0lOdVhLc3l4Yk14dXlrR1Q0bDgwRkFCYVR1QXd1bVRJUkU5dEpYTFlzQlBhTGVIT3NwTnlUdGlEZER0QnVJU1dmN1E3ZktPbmxRX2szNS0zZ01TMVN2b0dyREJZbExGczFOR1YzYzNnS1Jvc0k0Um9uT3JGTX",
-      "scanned_at": "2026-06-29T07:01:00.491120+00:00"
+      "scanned_at": "2026-06-29T12:07:48.537000+00:00"
     },
     {
       "id": "cs_2ec0c9ec8d25",
@@ -452,6 +479,12 @@
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeXQySnRrSktDQWV0ajRsdE5PMVdqZHkyWkpKZTE5dnZ3Sm5pX2hGMDNSSnoyTUI5dUhjM3RhWFdXaGRUZjRzV2RORlFpc1laT3kyMnNJd2VjRkpGVFZWaTFvSVcyRHR6X0pqSWxmRDN6MnVxRmJiZGRyWUhNQjg4QUJUaTdZSHpPNnBqVGk1MnhZX0poWUo2NkFDRUZ3dVU?oc=5",
           "title": "Hantavirus self-isolation complete for 34 Canadians, Health Canada says - National - Global News",
           "weight": 5
+        },
+        {
+          "source": "Google News (DE)",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQck8tVGJ6T0RrNXRRY3hDVThlRU9CTUJLLWZsVUN5cjlQbm9IX0Nuci0yalk4MnJLN2tTcU93Y3Uxa1ZFNUhxMGhQMGRPUlJReGxMMmtJN09yNXNYZUFrVEE5UXctRzVRb3RqakpxWVYtU1Z0QUUycF9KLXljWU4zd0o4VUI5d2VpOElV?oc=5",
+          "title": "18.05.26 - Kanada: Hantavirus-Fall bei Kreuzfahrt-Rückkehrer - Tropeninstitut",
+          "weight": 4
         }
       ],
       "confidence": 0.4966666666666667,
@@ -460,7 +493,7 @@
     },
     {
       "id": "cs_24412268d49d",
-      "count": 8,
+      "count": 26,
       "status": "suspected",
       "location": {
         "country": "France",
@@ -518,8 +551,8 @@
         },
         {
           "source": "Google News (FR)",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOOGF1VlJwWlZtQ0hlR1c3aWZQaU9kYUJLZEFPbjk4SlVoX3FkOW96a2RFenF5eG5oTHhhcXo1WFpqaDZ4eGs0M29Jc25Cd190X3AySkk2WTBFeEtnWm1ZNm9SRlZRRG05OFhfNXYyOGZlMVpoX3JiVmF5dkxKLWdZOXpCdG5vQ09vMFNDNTR5b0N0dXhwQ1dWdEtaMTBvZmdyeF92UVVmQURzYnhrRThFc1N5QWFKTjY5NXIwYnBTRlFIaUc4QVRIc3g5ek5FWl92cXZMaS1aeS1pb01WVFNDOUdQWlJkN3hXWWgyMzJwZmxadVRmVzgxN3BRNFQtY2h2MHgtWHVXQm5Hbk5Ecm5uVGtpZE8zTXZEcUlpLWptWXQzbndkTFhVM3VR?oc=5",
-          "title": "Hantavirus : certains des Français cas contact ont contesté leur isolement devant la justice, selon Sébastien Lecornu - Ouest-France",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTS1VdTVOeTdwZXNaMmZWR05kQmdndG50c0o0M3lfdXp0NTRFYmZVYXU1bExmcHF3TDJrTGE5cXhTRVhnOEZqblFuXzNEbzRaN0NodFpmLXFhMl9wWmV5ZXpLVDRCMnJHTDVIWWRsYUNBMk50LVhucXU3OWJNQ1pWZ1MtYkplR3lYS1ZvVldIcFVnakxYYUFDNlIxUHBfdmplOFJIcTNpYm55RFpIeDNzVHlVUnYwUGRLWF9ERVhURzlSWkJYeGVtMWdodzU1aXJjYVlsYUhaNTM5eEtMUVd2UGdZQld6aWZUelhXVFB3aHNGcGlpMHpzRTBIbDF2WDhIRlY4dU5XVm12UQ?oc=5",
+          "title": "Hantavirus : l’OMS annonce un nouveau cas, pourquoi la liste des malades continue-t-elle de s’allonger ? - Ouest-France",
           "weight": 4
         }
       ],
@@ -744,7 +777,7 @@
       ],
       "confidence": 0.4966666666666667,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQYXlPeDZPLXhuY1h2NDluaDdnYkFmQ2VSSG5IdVRGNWgxRVZ6TnRDd1J2QmNyZmM2WFc5amp4ajBQUUZkVWRPNG1aSlNHYVRpWEFxNXg0Y2NuLWtYQjlBVTNxdHZPcmtFWkJCUUYwdFhLWVFKOFpOQlhsRVZLcFI5ek02ZHpILWxpZ1FkUm9lV1B6U3kzb0dsV1lwdHk5QTlWeVVNWdIBsgFBVV95cUxPN0podnA4OW9Ta3dWNk1Qb1QzQmVyYjFVYWY0MzNheFJqQzJGckdEbmNVWkUwMllOR0JzV0RzaF9qUk1fUTFBRHpkWE82TEFCOVA3b0RnWkc4cW1xVXo5WG5PZVVTYmtQVmZtOGVsYVY3S1VLc0UxLURYWFI3TUpQZlR2Wm9Vd1hzOW12eTVNNm1USDVqeWh6SnA0X055THp2cWo0bkV4eW",
-      "scanned_at": "2026-06-29T07:01:00.492466+00:00"
+      "scanned_at": "2026-06-29T12:07:47.220813+00:00"
     },
     {
       "id": "cs_b95a3690bdfd",
@@ -780,33 +813,21 @@
       "scanned_at": "2026-06-04T19:33:54.270467+00:00"
     },
     {
-      "id": "cs_717a8703558f",
+      "id": "cs_fd7ad9b4788e",
       "count": 1,
       "status": "symptomatic",
       "location": {
         "country": "France",
-        "city": "France",
+        "city": "French",
         "lat": 46.23,
         "lng": 2.21
       },
-      "date": "Sat, 16 May 2026 07:00:00 GMT",
+      "date": "Tue, 12 May 2026 07:00:00 GMT",
       "age": null,
       "nationality": null,
       "sex": null,
       "flights": [],
       "sources": [
-        {
-          "source": "Google News (FR)",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYzk5bmRyeFBTbXA0QnhqbTFVbnF3S01EdG9wNXYwLThOeTlwOHltY1ROMlV2ZE9UeGxaRG9HamVQa003QXhId2UybUZzQndZTUlmZTBpMENqZVZzOXhOSjFzdjN6Tl9aaEVrODU0NjB6WXY2UGd3TTZZdHRjNFlRSzBlclM2MXFuQ0twbjdMOTVjMnM1cXZHalh3Y2szX1l5UXRxWGtHTHdGR1lRN3BrbWJlbW12NlJ3R1FFVmZkc0huNHZldnlnbjU3Zk5OcUowaUt3aUROMlAxU09tUkJIX3lUbWdUMklqQlotaW1ESWxuUVRuSzFQRmI3dE5IRktJQk15YmtHQU5OWXRVc09BV2w1WFhlY1RzbmQwc1ZnZEpVdzA?oc=5",
-          "title": "Patient cas contact à l’hantavirus hospitalisé au CHU de Rouen : la CGT déplore l’avoir appris par voie de presse - Ouest-France",
-          "weight": 4
-        },
-        {
-          "source": "Google News (FR)",
-          "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNRDNpcFNsV1prb3BicEFKQUNpMEREQUN3MWtqVFEzdkdMWmNXTlRPS0VHdVhOX2Rld21MN2RYRUJDMW4yWlkzajJpUjBxc0VydlZ6NXVJYllqaWNieDJpZ0tSLTlHQU02a1FHRE9wMVFjbVlhYlktMWt1ZTJsN1RkZmFEbVI0SWhNbkZUa2VsNnBKbkFPSEVNMFNObEhYSG1KNnNvRzd0aXhtbHdyU0o4cV9Rd2dWRkZxaTJDY0o2enRyVWlLcjUzMWw2QnBoYTROcXRiTkRIcFpPX183WTFlR2RSQ3hOaUZLcVNfbFdXcTYzVTByVkI5Y3R6bTI5d0c4T3NaS3A5dTRaanV5Rk9PWWZSOU8xV0lGVFE?oc=5",
-          "title": "Hantavirus : un homme, cas contact de la Néerlandaise décédée, est hospitalisé au CHU à Rouen en Normandie - Ouest-France",
-          "weight": 4
-        },
         {
           "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUo5Q2FJVEs0R29kemVxbU9mb2E0Mng5NFJFZnhEcHdKS3JNVk1CYXBZN0lucXU2ZVB2MlhqYkdoVFB5eFEwNXJoTmdnMEstOHRLUTFDb3FOR3RWUGtudmNpU1drTkpiM1lkUEtOeDRDM0pVNEpfS0ljaW1pUFRod3F3OVp4a19uTWpNOE1iWWw1cnE2LXE3QVRKWTNTb21p?oc=5",
@@ -815,8 +836,8 @@
         }
       ],
       "confidence": 0.4966666666666667,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxPYzk5bmRyeFBTbXA0QnhqbTFVbnF3S01EdG9wNXYwLThOeTlwOHltY1ROMlV2ZE9UeGxaRG9HamVQa003QXhId2UybUZzQndZTUlmZTBpMENqZVZzOXhOSjFzdjN6Tl9aaEVrODU0NjB6WXY2UGd3TTZZdHRjNFlRSzBlclM2MXFuQ0twbjdMOTVjMnM1cXZHalh3Y2szX1l5UXRxWGtHTHdGR1lRN3BrbWJlbW12NlJ3R1FFVmZkc0huNHZldnlnbjU3Zk5OcUowaUt3aUROMlAxU09tUkJIX3lUbWdUMklqQlotaW1ESWxuUVRuSzFQRmI3dE5IRktJQk15YmtHQU5OWXRVc09BV2w1WFhlY1RzbmQwc1ZnZEpVdzA?oc=5\" target=\"_blank\">Patient cas contact à l’hantavirus h",
-      "scanned_at": "2026-06-29T07:01:04.899330+00:00"
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOLUo5Q2FJVEs0R29kemVxbU9mb2E0Mng5NFJFZnhEcHdKS3JNVk1CYXBZN0lucXU2ZVB2MlhqYkdoVFB5eFEwNXJoTmdnMEstOHRLUTFDb3FOR3RWUGtudmNpU1drTkpiM1lkUEtOeDRDM0pVNEpfS0ljaW1pUFRod3F3OVp4a19uTWpNOE1iWWw1cnE2LXE3QVRKWTNTb21p?oc=5\" target=\"_blank\">French hantavirus patient is critically ill and on an artificial lung as outbreak grows to 11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "scanned_at": "2026-06-29T12:07:49.169697+00:00"
     },
     {
       "id": "cs_be6e8120928f",
@@ -838,6 +859,12 @@
           "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRXF3dFEwaEVKU1I3QVhVUGo4SjBQeXlXbkl2Z0VuajlDTk1KZUdMVklvbm1RWHBraEVVWDAzajhsT1hSTTF0YUlGSVBCZ19MWHZrZTF5R2RucnZSNWQ0dG5Ya1dmc2swY1lkaUpCY2RIVTYtczFZZ0VDUzFJc3VWejY1bzI1R3lKcmZ6OTFzQnpLb1hORktYeVd1YVNFSHRCak5pSldpNC1nYTB2bmJYbWF3bElDZVMzbll6cXk2Zw?oc=5",
           "title": "B.C. health officials say Canadian who tested positive for hantavirus has recovered - CityNews Toronto",
+          "weight": 4
+        },
+        {
+          "source": "Google News (DE)",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORzY3SmVQWm9YdmE4ZEk4VWdMT0g1Ul9OeTFXV2VKb2hSZGZIdWJEWTNad0VSMklaT1BsLTgzWExxb0pnZ0lNNHRIeW01b2VBM3pqcXdwaTA4cmhEdHZmVnRHRmxzRm5HeWRCa2plZy1nZEc0QUtCZkZLd05WNmthYTQ0eDJiY05qV0p6aWRwR0s3N3J3YzgwRzkxcWxVc0dFdHA1VXoxcHVMY2pnRDNvTW5ORGk4eUxPLTlkeTRLbWRCeDdpVHc?oc=5",
+          "title": "Nach „Hondius“-Kreuzfahrt: Kanada bestätigt positiven Hantavirus-Test - RND.de",
           "weight": 4
         }
       ],
@@ -1008,46 +1035,13 @@
         {
           "source": "Google News (DE)",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkxaUkdQa2pnZS02aU5jbmNOaUpaRE50LTFKcVktR2tTWUtJZWpYc2lua1kyX3I2WjIwdnlQTDhPM3VkMnUzZllvYXhFUi1MeDA3NHNOMDZIY3BHMGliTW1JaGduNzN6T0FfRkNGUDd3d091QW52a1VpSE9ZOUhzbVNEYll3QUp6MDJ3OGlqVGtpTHNnMVJpd0ltWDRITFpYdExKWHd3NDBSRElHMi0yWUlIb3pSWDZIZVRneFFSaXBzUUJJMG9mbXdxdG91QQ?oc=5",
-          "title": "Ausbruch auf Kreuzfahrtschiff - WHO bestätigt 6 Hantavirus-Fälle – neuer Verdachtsfall in Spanien - SRF",
+          "title": "Ausbruch auf Kreuzfahrtschiff - WHO bestätigt 6 Hantavirus-Fälle – neuer Verdachtsfall in Spanien - srf.ch",
           "weight": 4
         }
       ],
       "confidence": 0.4633333333333333,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkxaUkdQa2pnZS02aU5jbmNOaUpaRE50LTFKcVktR2tTWUtJZWpYc2lua1kyX3I2WjIwdnlQTDhPM3VkMnUzZllvYXhFUi1MeDA3NHNOMDZIY3BHMGliTW1JaGduNzN6T0FfRkNGUDd3d091QW52a1VpSE9ZOUhzbVNEYll3QUp6MDJ3OGlqVGtpTHNnMVJpd0ltWDRITFpYdExKWHd3NDBSRElHMi0yWUlIb3pSWDZIZVRneFFSaXBzUUJJMG9mbXdxdG91QQ?oc=5\" target=\"_blank\">Ausbruch auf Kreuzfahrtschiff - WHO bestätigt 6 Hantavirus-Fälle – neuer Verdachtsfall in Spanien</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SRF</font>",
-      "scanned_at": "2026-06-29T07:01:01.596450+00:00"
-    },
-    {
-      "id": "cs_75ff5666b9c9",
-      "count": 1,
-      "status": "confirmed",
-      "location": {
-        "country": "France",
-        "city": "France",
-        "lat": 46.23,
-        "lng": 2.21
-      },
-      "date": "Fri, 22 May 2026 07:00:00 GMT",
-      "age": null,
-      "nationality": null,
-      "sex": null,
-      "flights": [],
-      "sources": [
-        {
-          "source": "Google News (FR)",
-          "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPbXNqRHRKLTJra1d4b2FKU1JmQ1N6Unh4N2tpanBUd3V1dkRFTUktc1htaFNxMW9VbzZUM0hBRll3UjdMcmZQV0ZGaUxXTnk3NGhvN0tLRFM0NHJTakFtUWNRUFNET1VqTTk2YTRQOWttOTFBVURmZXRlS2psalgzdzRUbWprU2hxTFVFXzVnc2xkZm5yM2lnNV85RlQ4U0tpay1ieXZKcnhod095SmlJN0szYjRXMWc0UkZsWmRUdVlrOWU4c1FNQWo2SmNRQWZrazV6RUdDTUlhelZMTDRvcjJ5aktaMzE1bmhJMFhUVjhPOGNZNHU3aEc5YkljQlJlVXJIZjRnUV9vRV9SUXduYW1FRTdQVGxhdzMxNkpsVkRtS0JuMkVSVUJYdUdMOWVZWWMtZGhTZkNEWGZhQlNmUU9YTlZQSVZFX1lQTHpZazVDRGxieXIwd2c4NWd0eWhz?oc=5",
-          "title": "Hantavirus : un nouveau cas confirmé chez un membre d'équipage du \"MV Hondius\" rapatrié aux Pays-Bas, annonce l'OMS - franceinfo",
-          "weight": 4
-        },
-        {
-          "source": "Google News (EN)",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFMxMmtCNzJjaWlGMV9UZGh4RGNnNHdDbWV2cHZCS29CV2hCbURQMWdOZkV1eGhpYVFBRUZtQk1VREpZRm9CUk9BMUFiaWc3SkF1d2VNRWtPWDVpWURWOGRuelZ6a1ZYZzNkYjZLdmNQbXpmWTRzallJWmFrdnItVE1EWlMyNjUzSUlEQ2F6bElNZm9sbzVBdzJNOWZ6ZDA?oc=5",
-          "title": "More confirmed hantavirus cases: The situation in France - France 24",
-          "weight": 4
-        }
-      ],
-      "confidence": 0.4633333333333333,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxPbXNqRHRKLTJra1d4b2FKU1JmQ1N6Unh4N2tpanBUd3V1dkRFTUktc1htaFNxMW9VbzZUM0hBRll3UjdMcmZQV0ZGaUxXTnk3NGhvN0tLRFM0NHJTakFtUWNRUFNET1VqTTk2YTRQOWttOTFBVURmZXRlS2psalgzdzRUbWprU2hxTFVFXzVnc2xkZm5yM2lnNV85RlQ4U0tpay1ieXZKcnhod095SmlJN0szYjRXMWc0UkZsWmRUdVlrOWU4c1FNQWo2SmNRQWZrazV6RUdDTUlhelZMTDRvcjJ5aktaMzE1bmhJMFhUVjhPOGNZNHU3aEc5YkljQlJlVXJIZjRnUV9vRV9SUXduYW1FRTdQVGxhdzMxNkpsVkRtS0JuMkVSVUJYdUdMOWVZWWMtZGhTZkNEWGZhQlNmUU9YTlZQSVZFX1lQTHpZaz",
-      "scanned_at": "2026-06-29T07:01:04.932370+00:00"
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkxaUkdQa2pnZS02aU5jbmNOaUpaRE50LTFKcVktR2tTWUtJZWpYc2lua1kyX3I2WjIwdnlQTDhPM3VkMnUzZllvYXhFUi1MeDA3NHNOMDZIY3BHMGliTW1JaGduNzN6T0FfRkNGUDd3d091QW52a1VpSE9ZOUhzbVNEYll3QUp6MDJ3OGlqVGtpTHNnMVJpd0ltWDRITFpYdExKWHd3NDBSRElHMi0yWUlIb3pSWDZIZVRneFFSaXBzUUJJMG9mbXdxdG91QQ?oc=5\" target=\"_blank\">Ausbruch auf Kreuzfahrtschiff - WHO bestätigt 6 Hantavirus-Fälle – neuer Verdachtsfall in Spanien</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">srf.ch</font>",
+      "scanned_at": "2026-06-29T12:07:49.666957+00:00"
     },
     {
       "id": "cs_f61ebade30d1",
@@ -1074,34 +1068,34 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGdVWC1FSWRHNVFfeUdhM1o2cVVxRGd1S2VrQVZwRnE5Q2Z0ckZZVFdQbjc4WkE3Qy1OaTAxNmdBRWM4TkhjR1FlMXV3UnFOUnprWlMzZDR1RzdaTVRJX3J4a3pUb0U3YThYVmpoS3BnUV9tWDNQMl9EZDB2MDVqLTlMQXFyTG02TVhaTTlpWG91TXBfWTFreGZZSFdqNWtMb3Riak94Qk1PX1BWMWc2SVpiOUw?oc=5\" target=\"_blank\">Erster Verdachtsfall auf Hantavirus in Portugal bestätigt sich nicht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews</font>",
-      "scanned_at": "2026-06-29T07:01:01.977277+00:00"
+      "scanned_at": "2026-06-29T12:07:50.093079+00:00"
     },
     {
-      "id": "cs_804a25922135",
+      "id": "cs_1f176582eb7f",
       "count": 1,
-      "status": "confirmed",
+      "status": "deceased",
       "location": {
-        "country": "Ascension Island",
-        "city": "Ascension",
-        "lat": -7.96,
-        "lng": -14.37
+        "country": "Austria",
+        "city": "Wien",
+        "lat": 48.21,
+        "lng": 16.37
       },
-      "date": "Sun, 17 May 2026 07:00:00 GMT",
+      "date": "Sat, 16 May 2026 07:00:00 GMT",
       "age": null,
       "nationality": null,
       "sex": null,
       "flights": [],
       "sources": [
         {
-          "source": "Google News (FR)",
-          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQV1BydVhVdjNwOWxsSF9CRTUwaklEZVA3UFYtUXVHTi1WYmxKZUNtS05TaDFrak1meDMydlVoWjV2ZjlTbG91Q3hFZmU0dnFPM05ieTFnT1ItUHNoOVlpNjZWYkZvOW1LU1RzbnRWU2xPLVVPU1drQjllNjlNY0NZY0FudlkzZFNGNjNBR3RHem5uRklYMjBqREE2dV9wd1JZdXJDMTVCeTdFVkNHMTd2VS1ERzBGQVJBcGp4ZWZxdzN4WkV2a245UWtQeHNvRHNmUkZWSzdINWxiTTh2ZzJpeV8tVi1rNmM2ZHdySkdFRVBDX0pLdjJiZklIRmtWWDJVV1IwZDdzY3cxY1Fhb0pRT2JXSmtRODBMeTZNYmoyc1d1aDBoaWhJZjBR?oc=5",
-          "title": "Hantavirus : un cas confirmé au Canada, neuf personnes transférées de Sainte-Hélène et l’Ascension vers le Royaume-Uni - Ouest-France",
+          "source": "Google News (DE)",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QNXk4eHlMaXBrbi1RR0RZXzJ0d1VHc19JRll5T0FhYVZsYk5FWWticy1QMkQ0bjlKb2F6UFVnNVRCUQ?oc=5",
+          "title": "Patientin verstorben - Hantavirus: Nach Wien-Flug drei Passagiere gesucht - Kronen Zeitung",
           "weight": 4
         }
       ],
       "confidence": 0.4633333333333333,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxQV1BydVhVdjNwOWxsSF9CRTUwaklEZVA3UFYtUXVHTi1WYmxKZUNtS05TaDFrak1meDMydlVoWjV2ZjlTbG91Q3hFZmU0dnFPM05ieTFnT1ItUHNoOVlpNjZWYkZvOW1LU1RzbnRWU2xPLVVPU1drQjllNjlNY0NZY0FudlkzZFNGNjNBR3RHem5uRklYMjBqREE2dV9wd1JZdXJDMTVCeTdFVkNHMTd2VS1ERzBGQVJBcGp4ZWZxdzN4WkV2a245UWtQeHNvRHNmUkZWSzdINWxiTTh2ZzJpeV8tVi1rNmM2ZHdySkdFRVBDX0pLdjJiZklIRmtWWDJVV1IwZDdzY3cxY1Fhb0pRT2JXSmtRODBMeTZNYmoyc1d1aDBoaWhJZjBR?oc=5\" target=\"_blank\">Hantavirus : un cas confirm",
-      "scanned_at": "2026-06-29T07:01:04.918818+00:00"
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QNXk4eHlMaXBrbi1RR0RZXzJ0d1VHc19JRll5T0FhYVZsYk5FWWticy1QMkQ0bjlKb2F6UFVnNVRCUQ?oc=5\" target=\"_blank\">Patientin verstorben - Hantavirus: Nach Wien-Flug drei Passagiere gesucht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kronen Zeitung</font>",
+      "scanned_at": "2026-06-29T12:07:50.133126+00:00"
     },
     {
       "id": "cs_9766b4224bac",
@@ -1128,7 +1122,34 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1NRLUlYZ29jYkR6SEFBTWZVTE02d2gtR01yTmhTZmFKbEtidzdsV0ZjMmJXcTB2anB3Y1RmNEl0MTRUSkx3Qzl0b2UzVWhOdnNyZDJuYUVXNzlRUGt1TWd0VGE3OWFQeE5ockxUQkU5RXFOVEdjWVc0cGdYZG83ZWZiM2RiV3EyV1o5SnV3?oc=5\" target=\"_blank\">French Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "scanned_at": "2026-06-29T07:01:00.513976+00:00"
+      "scanned_at": "2026-06-29T12:07:48.559544+00:00"
+    },
+    {
+      "id": "cs_150f1e3cf5cd",
+      "count": 1,
+      "status": "confirmed",
+      "location": {
+        "country": "France",
+        "city": "France",
+        "lat": 46.23,
+        "lng": 2.21
+      },
+      "date": "Mon, 11 May 2026 12:41:55 GMT",
+      "age": null,
+      "nationality": null,
+      "sex": null,
+      "flights": [],
+      "sources": [
+        {
+          "source": "Google News (EN)",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFMxMmtCNzJjaWlGMV9UZGh4RGNnNHdDbWV2cHZCS29CV2hCbURQMWdOZkV1eGhpYVFBRUZtQk1VREpZRm9CUk9BMUFiaWc3SkF1d2VNRWtPWDVpWURWOGRuelZ6a1ZYZzNkYjZLdmNQbXpmWTRzallJWmFrdnItVE1EWlMyNjUzSUlEQ2F6bElNZm9sbzVBdzJNOWZ6ZDA?oc=5",
+          "title": "More confirmed hantavirus cases: The situation in France - France 24",
+          "weight": 4
+        }
+      ],
+      "confidence": 0.4633333333333333,
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNMFMxMmtCNzJjaWlGMV9UZGh4RGNnNHdDbWV2cHZCS29CV2hCbURQMWdOZkV1eGhpYVFBRUZtQk1VREpZRm9CUk9BMUFiaWc3SkF1d2VNRWtPWDVpWURWOGRuelZ6a1ZYZzNkYjZLdmNQbXpmWTRzallJWmFrdnItVE1EWlMyNjUzSUlEQ2F6bElNZm9sbzVBdzJNOWZ6ZDA?oc=5\" target=\"_blank\">More confirmed hantavirus cases: The situation in France</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">France 24</font>",
+      "scanned_at": "2026-06-29T12:07:48.560358+00:00"
     },
     {
       "id": "cs_393cc5702750",
@@ -1155,7 +1176,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkxQODJSb3ZPSVVIWGFqdTBFVUJfVDU5YUw4MTdOLTBiZzBPX0FPSVRWNXRrV1pfSE1YSlRKNjdiYU12Y0QzM0dmNGt5bWdKWjNTbVFsU0ZRTUhLbmEycUVrRFItQ1pRWTZ4Y1ZtN3R0NXBReVNNYmRuU0hjc0sybDJqS3YxOFNHd3o5NzRSQTk?oc=5\" target=\"_blank\">Brasil teve uma morte por hantavírus confirmada em 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jovem Pan</font>",
-      "scanned_at": "2026-06-29T07:01:04.342140+00:00"
+      "scanned_at": "2026-06-29T12:07:52.687368+00:00"
     }
   ]
 }
