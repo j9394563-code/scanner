@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-07-03T01:23:35.160934+00:00",
+  "scanned_at": "2026-07-03T05:28:43.075229+00:00",
   "total": 28,
   "cases": [
     {
@@ -162,7 +162,7 @@
         "lat": 40.71,
         "lng": -74.01
       },
-      "date": "Thu, 02 Jul 2026 22:25:48 GMT",
+      "date": "Thu, 02 Jul 2026 22:00:43 GMT",
       "age": null,
       "nationality": null,
       "sex": null,
@@ -219,7 +219,7 @@
       ],
       "confidence": 0.58,
       "clinical_notes": "<p>CDC Acting Director Jay Bhattacharya: Protecting Americans is our highest responsibility. CDC’s hantavirus response officially concludes today, June 24, 2026. This response demonstrates the strength of a coordinated effort to detect and defend against infectious disease threats that occur outside of our borders. I am grateful for the world-class team at CDC whose dedication and swift action helped identify potential exposures, provide clear guidance, and protect the American people.</p>\n<img ",
-      "scanned_at": "2026-07-03T01:22:58.885416+00:00"
+      "scanned_at": "2026-07-03T05:28:13.972562+00:00"
     },
     {
       "id": "cs_0399c6e84f1e",
@@ -275,20 +275,20 @@
         },
         {
           "source": "Google News (EN)",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY24tUnh2UVMtSW9RWF80a0N1V0t2S3A2WFl4Q1lQY1NlZVVjMTg3VVN1LUxQMnNKV3lOVHVZQXRpcUJ2VGNZZWpmY1NPRXVDZ3VEWmRKMWtCeG05VzlYRzF3UmhuM216TWNucG5VMURUV0RLVVNHX1ZhTXdmQVE2RnlVTQ?oc=5",
-          "title": "Spanish citizen evacuated from hantavirus-hit cruise ship tests positive - CNN",
-          "weight": 4
-        },
-        {
-          "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWWRhSUJoQ0lTbnBQc2ZrMUN5dlE3OUF5WW9tSjVkWnFJOXY5ZktVb2xNOXZwQlVmN2hIbFlsYWgwYWU1OWZxOWVqNEZjWDY5ZWxXWi1KVTBIRDRsaGhJWk8wNFpOUXNtRjlaT3p0TzY0aHhzcjlSTDh6RnBCamNYLW10enlOM3hLWDc5dzZRVWdtNHprenFBTFBLaWYxQQ?oc=5",
           "title": "Spanish passenger from the MV Hondius cruise ship tests positive for hantavirus - CBC",
           "weight": 5
+        },
+        {
+          "source": "Google News (DE)",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1rN0VFZ0owbnA1NUgzTFZPeFFkbmg3N3laemxVVTJRUVdmRGVkcUszZnF4cEZoTUlGbm5sZWpTcUl2VU5zcnc?oc=5",
+          "title": "Zweiter bestätigter Hantavirus-Fall in Spanien - ORF",
+          "weight": 4
         }
       ],
       "confidence": 0.58,
       "clinical_notes": "<p>The <a href=\"https://nitter.net/search?f=tweets&amp;q=%23hantavirus\">#hantavirus</a> outbreak is over. <br />\n <br />\nHowever, <a href=\"https://nitter.net/WHO\" title=\"World Health Organization (WHO)\">@WHO</a> will continue working with governments and partners to advance our understanding of the cause of this outbreak and of hantavirus more generally.  <br />\n<br />\nMy thanks to all countries that supported the response, in line with the International Health Regulations: Argentina, Cabo Verde",
-      "scanned_at": "2026-07-03T01:23:05.321560+00:00"
+      "scanned_at": "2026-07-03T05:28:19.730358+00:00"
     },
     {
       "id": "cs_a2ac3832acae",
@@ -627,7 +627,7 @@
       ],
       "confidence": 0.4966666666666667,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa3pDZV80OUtIUmUtZ2ViUHNraWVFRXBnTHBDYTl4NWplTFFQSVR5NVVuR2JfcF9sXzFUbDdfaEc3dGIzSDJoMEpCa0d3VTQ5MS1hTzVGLWlsMVFxbGk4VDhQRlpwVjRVT2FnMl9aQVpuZ2kyLXUzdkhsVDRYWG02R09NbzV1T25ldUw5TkVYU0pua1NCX2doRzcyRmNYeXpvZXZUdERGV1pKczlhUm9RbGZUckNsaDBDNDNySENRVFlpT0hueHg2WmV5VUc5LWZ1Y0tUNTJHcG55Znow?oc=5\" target=\"_blank\">Thirty-eight Filipino crewmembers of MV Hondius, which was hit by an outbreak of Andes hantavirus during voyage, returned to the co",
-      "scanned_at": "2026-07-03T01:22:58.902674+00:00"
+      "scanned_at": "2026-07-03T05:28:13.990802+00:00"
     },
     {
       "id": "cs_5eaebdc4cc12",
@@ -803,6 +803,12 @@
         },
         {
           "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQXhsUW5wYkt1X2FHaUZLcXNXMEQxRmlTeUN1RmZ1SFZKNWhKTzNwS29MYWlHdlZoNm1hS2MwUDctaHhXUWQwZUFZUzZNUndpX3hzb0ZsOFNpcXhWakFkalVmQjc1MVd1X1NVWUdNM1NmalAyUk1QbW9aNkhqTENHSmZ4aEphQmNHNEw0RHFWY2cyT1IyQmhyQmluMEFKc09rS0lna1o0U2d6NnJrZHViM0FNTm5PTElaeFJVaF94TDZoNWVHN19GSE9lcjZBZEI20gHrAUFVX3lxTE8ybU42dWhCRVNXaXFUVEFEOENqYTBIMHVYbXppNHlHcEtHSHhRVlJsTHltbUFZQ0JYWHNvYXBha05mZVlXVHBNUG1QbERsZ0lRQTZxUEdDeFBQd0lCV1FzYV9ZRFZDZmZzOVoxTXVaWUJDUk1YeUVfaWdZcmNhVlM0ZHloYkpjc2o4SDVLLXZzZkw3cUd2ZF9sT1JMaXZoWEhwc0tUYTBUM0ZnYzdSd1ZHNXhiOXpsRHJFaFdfRDNtN1JiajAxVVZ3SnNWNTBjX3FLQ0NoQUY5dnRMMlF6TUNTRFAzOGZ4SDd1S1U?oc=5",
+          "title": "Hantavirus de los Andes: qué tan peligroso es y por qué México emitió un aviso epidemiológico - Infobae",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY3RVbjRReDZUYVhFXzcxM0dsZWJ5eEJpeVZrejhPZ3FVXzhJZDE0SGU2VUl5X1E3WDlCU29aZFM4NFpLQ3hFeVQwV2R4VjcydkpCbjdpWkhNQ2NqM1FXMk4yRWZBQmhpa1pxRUtKWUN1V1dvMnVZdHJ6dU5DMVVqQURfWGdWRkV2Q3Z1c2RGZ2gtT0IxdEdFVGdJNkJaRUxpRHJaRmtKeGtfOTAwMERMWEFYbXZBdzJIMFhBR2dkMmRaTmfSAd4BQVVfeXFMTzc5YjRFRXNtM2VmRnUtcDczbmVrV0tJYWRDRUtkdURWOV8zNzI3LV9VdUQ1TW9sTWRfWU5vUE1vRGpIS0c5VHVlT09LdjRtbzhZa1IwYVZDcnVvSlB3MjVLbHc1TG9DOXY0dmktMXEyODl0Y0NxMUJueTQwTmQ5NWttYVR1WlMtbjlyTmRTWXZXWm96akprU0RwTlJScmJ0SWxrQWJaVElWWmRCVlRhLXpRanBmaEM3OFI4dlZ1ZllSdkxuYS1hMWlEZk5zM2podzlLSF9DUVVBVnd4NkxB?oc=5",
           "title": "Hantavirus en México 2026: activan alerta sanitaria aunque no hay casos confirmados - Infobae",
           "weight": 4
@@ -810,7 +816,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQdEVHNFVxQ0VwQjhycDI4RlpOMFF3MWJlNWZJSEI4R2xtQmllc3ZwbXhKc2JmLU1LV0JvMzJjb3pzendwS3dxUXFGZzdHdUhNc245YnBHblczMENiTUdmUUVRUC1icDlMbXZ4a1ZnVzRKd2JFNXlHWUpHTDBQbjFJLTRCdVdvY0E2T21YOEw3UjFFemVRZ09KTTZ6TGzSAZwBQVVfeXFMTms4SURvbjl5X0tTVWUzMEctX0RDZGsyRGNPRTg0VU1fa1VyMHo0eXVvSzJpNnktZEdXd1c2cW1DRDRieTBRZXpJeENWUXAwMWFPSkRpaWF3MmRBd3IzTk1tLW9MaU80VEhmWUZVT0JyazRTN3RQblZRUTFyOGUzVXV5c1NYa18taUd0R01TQ09aeDBFbF8tSTFSQ2sx?oc=5\" target=\"_blank\">¡Ll",
-      "scanned_at": "2026-07-03T01:23:02.843970+00:00"
+      "scanned_at": "2026-07-03T05:28:18.045457+00:00"
     },
     {
       "id": "cs_be6e8120928f",
@@ -1014,7 +1020,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkxaUkdQa2pnZS02aU5jbmNOaUpaRE50LTFKcVktR2tTWUtJZWpYc2lua1kyX3I2WjIwdnlQTDhPM3VkMnUzZllvYXhFUi1MeDA3NHNOMDZIY3BHMGliTW1JaGduNzN6T0FfRkNGUDd3d091QW52a1VpSE9ZOUhzbVNEYll3QUp6MDJ3OGlqVGtpTHNnMVJpd0ltWDRITFpYdExKWHd3NDBSRElHMi0yWUlIb3pSWDZIZVRneFFSaXBzUUJJMG9mbXdxdG91QQ?oc=5\" target=\"_blank\">Ausbruch auf Kreuzfahrtschiff - WHO bestätigt 6 Hantavirus-Fälle – neuer Verdachtsfall in Spanien</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SRF</font>",
-      "scanned_at": "2026-07-03T01:23:00.681657+00:00"
+      "scanned_at": "2026-07-03T05:28:15.747888+00:00"
     },
     {
       "id": "cs_75ff5666b9c9",
@@ -1047,7 +1053,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxPbXNqRHRKLTJra1d4b2FKU1JmQ1N6Unh4N2tpanBUd3V1dkRFTUktc1htaFNxMW9VbzZUM0hBRll3UjdMcmZQV0ZGaUxXTnk3NGhvN0tLRFM0NHJTakFtUWNRUFNET1VqTTk2YTRQOWttOTFBVURmZXRlS2psalgzdzRUbWprU2hxTFVFXzVnc2xkZm5yM2lnNV85RlQ4U0tpay1ieXZKcnhod095SmlJN0szYjRXMWc0UkZsWmRUdVlrOWU4c1FNQWo2SmNRQWZrazV6RUdDTUlhelZMTDRvcjJ5aktaMzE1bmhJMFhUVjhPOGNZNHU3aEc5YkljQlJlVXJIZjRnUV9vRV9SUXduYW1FRTdQVGxhdzMxNkpsVkRtS0JuMkVSVUJYdUdMOWVZWWMtZGhTZkNEWGZhQlNmUU9YTlZQSVZFX1lQTHpZaz",
-      "scanned_at": "2026-07-03T01:23:04.122107+00:00"
+      "scanned_at": "2026-07-03T05:28:19.301511+00:00"
     },
     {
       "id": "cs_f61ebade30d1",
@@ -1068,13 +1074,13 @@
         {
           "source": "Google News (DE)",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGdVWC1FSWRHNVFfeUdhM1o2cVVxRGd1S2VrQVZwRnE5Q2Z0ckZZVFdQbjc4WkE3Qy1OaTAxNmdBRWM4TkhjR1FlMXV3UnFOUnprWlMzZDR1RzdaTVRJX3J4a3pUb0U3YThYVmpoS3BnUV9tWDNQMl9EZDB2MDVqLTlMQXFyTG02TVhaTTlpWG91TXBfWTFreGZZSFdqNWtMb3Riak94Qk1PX1BWMWc2SVpiOUw?oc=5",
-          "title": "Erster Verdachtsfall auf Hantavirus in Portugal bestätigt sich nicht - Euronews.com",
+          "title": "Erster Verdachtsfall auf Hantavirus in Portugal bestätigt sich nicht - Euronews",
           "weight": 4
         }
       ],
       "confidence": 0.4633333333333333,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGdVWC1FSWRHNVFfeUdhM1o2cVVxRGd1S2VrQVZwRnE5Q2Z0ckZZVFdQbjc4WkE3Qy1OaTAxNmdBRWM4TkhjR1FlMXV3UnFOUnprWlMzZDR1RzdaTVRJX3J4a3pUb0U3YThYVmpoS3BnUV9tWDNQMl9EZDB2MDVqLTlMQXFyTG02TVhaTTlpWG91TXBfWTFreGZZSFdqNWtMb3Riak94Qk1PX1BWMWc2SVpiOUw?oc=5\" target=\"_blank\">Erster Verdachtsfall auf Hantavirus in Portugal bestätigt sich nicht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "scanned_at": "2026-07-03T01:23:01.150785+00:00"
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGdVWC1FSWRHNVFfeUdhM1o2cVVxRGd1S2VrQVZwRnE5Q2Z0ckZZVFdQbjc4WkE3Qy1OaTAxNmdBRWM4TkhjR1FlMXV3UnFOUnprWlMzZDR1RzdaTVRJX3J4a3pUb0U3YThYVmpoS3BnUV9tWDNQMl9EZDB2MDVqLTlMQXFyTG02TVhaTTlpWG91TXBfWTFreGZZSFdqNWtMb3Riak94Qk1PX1BWMWc2SVpiOUw?oc=5\" target=\"_blank\">Erster Verdachtsfall auf Hantavirus in Portugal bestätigt sich nicht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews</font>",
+      "scanned_at": "2026-07-03T05:28:16.181742+00:00"
     },
     {
       "id": "cs_804a25922135",
@@ -1101,7 +1107,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxQV1BydVhVdjNwOWxsSF9CRTUwaklEZVA3UFYtUXVHTi1WYmxKZUNtS05TaDFrak1meDMydlVoWjV2ZjlTbG91Q3hFZmU0dnFPM05ieTFnT1ItUHNoOVlpNjZWYkZvOW1LU1RzbnRWU2xPLVVPU1drQjllNjlNY0NZY0FudlkzZFNGNjNBR3RHem5uRklYMjBqREE2dV9wd1JZdXJDMTVCeTdFVkNHMTd2VS1ERzBGQVJBcGp4ZWZxdzN4WkV2a245UWtQeHNvRHNmUkZWSzdINWxiTTh2ZzJpeV8tVi1rNmM2ZHdySkdFRVBDX0pLdjJiZklIRmtWWDJVV1IwZDdzY3cxY1Fhb0pRT2JXSmtRODBMeTZNYmoyc1d1aDBoaWhJZjBR?oc=5\" target=\"_blank\">Hantavirus : un cas confirm",
-      "scanned_at": "2026-07-03T01:23:04.086973+00:00"
+      "scanned_at": "2026-07-03T05:28:19.259821+00:00"
     },
     {
       "id": "cs_1f176582eb7f",
@@ -1128,7 +1134,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QNXk4eHlMaXBrbi1RR0RZXzJ0d1VHc19JRll5T0FhYVZsYk5FWWticy1QMkQ0bjlKb2F6UFVnNVRCUQ?oc=5\" target=\"_blank\">Patientin verstorben - Hantavirus: Nach Wien-Flug drei Passagiere gesucht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kronen Zeitung</font>",
-      "scanned_at": "2026-07-03T01:23:00.735906+00:00"
+      "scanned_at": "2026-07-03T05:28:15.797047+00:00"
     },
     {
       "id": "cs_9766b4224bac",
@@ -1155,7 +1161,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1NRLUlYZ29jYkR6SEFBTWZVTE02d2gtR01yTmhTZmFKbEtidzdsV0ZjMmJXcTB2anB3Y1RmNEl0MTRUSkx3Qzl0b2UzVWhOdnNyZDJuYUVXNzlRUGt1TWd0VGE3OWFQeE5ockxUQkU5RXFOVEdjWVc0cGdYZG83ZWZiM2RiV3EyV1o5SnV3?oc=5\" target=\"_blank\">French Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "scanned_at": "2026-07-03T01:22:59.664803+00:00"
+      "scanned_at": "2026-07-03T05:28:14.674730+00:00"
     },
     {
       "id": "cs_393cc5702750",
@@ -1182,7 +1188,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkxQODJSb3ZPSVVIWGFqdTBFVUJfVDU5YUw4MTdOLTBiZzBPX0FPSVRWNXRrV1pfSE1YSlRKNjdiYU12Y0QzM0dmNGt5bWdKWjNTbVFsU0ZRTUhLbmEycUVrRFItQ1pRWTZ4Y1ZtN3R0NXBReVNNYmRuU0hjc0sybDJqS3YxOFNHd3o5NzRSQTk?oc=5\" target=\"_blank\">Brasil teve uma morte por hantavírus confirmada em 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jovem Pan</font>",
-      "scanned_at": "2026-07-03T01:23:03.459146+00:00"
+      "scanned_at": "2026-07-03T05:28:18.655107+00:00"
     }
   ]
 }
