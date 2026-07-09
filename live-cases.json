@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-07-09T12:10:30.453555+00:00",
-  "total": 30,
+  "scanned_at": "2026-07-09T15:34:15.211217+00:00",
+  "total": 31,
   "cases": [
     {
       "id": "cs_dffc759425b2",
@@ -153,6 +153,39 @@
       "scanned_at": "2026-06-16T07:40:54.112297+00:00"
     },
     {
+      "id": "cs_48dc43382c60",
+      "count": 3,
+      "status": "deceased",
+      "location": {
+        "country": "USA",
+        "city": "Us",
+        "lat": 37.09,
+        "lng": -95.71
+      },
+      "date": "Thu, 02 Jul 2026 19:31:20 GMT",
+      "age": null,
+      "nationality": null,
+      "sex": null,
+      "flights": [],
+      "sources": [
+        {
+          "source": "Google News (EN)",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWVFIYnZfZ2N6aDNzanhrY0dwaC15eGs2dHUyUnhjZDUzSVVfcm5QSzlFSjNBd3NOb3lkaUgxS2hlYnFfbHdtUkQ5anAtS25BbENXWmhZRnNIaXY1RWFleHlHNjZ3SkU2YWRWNUlGUkFfeTRENEI5UnZlRURMTi1haGdrRnpYbHdQemZlOGRzcHZqbFd2N3lkWG9MdUxFT3NzQU56V09iNGh3VnNlM1FSU2xGUU9LRUdIN09RVmlyeWFoMWlVLXFCbHNpWHUxaWNVbXpsaUlyRXdUOTJXNkN0bklsY1NXVVRuVmZ0LVJPbG96am45SHc?oc=5",
+          "title": "WHO declares end of hantavirus outbreak on MV Hondius cruise chip after three deaths and more than 650 close contacts - voz.us",
+          "weight": 5
+        },
+        {
+          "source": "Google News (EN)",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
+          "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
+          "weight": 4
+        }
+      ],
+      "confidence": 0.5966666666666668,
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWVFIYnZfZ2N6aDNzanhrY0dwaC15eGs2dHUyUnhjZDUzSVVfcm5QSzlFSjNBd3NOb3lkaUgxS2hlYnFfbHdtUkQ5anAtS25BbENXWmhZRnNIaXY1RWFleHlHNjZ3SkU2YWRWNUlGUkFfeTRENEI5UnZlRURMTi1haGdrRnpYbHdQemZlOGRzcHZqbFd2N3lkWG9MdUxFT3NzQU56V09iNGh3VnNlM1FSU2xGUU9LRUdIN09RVmlyeWFoMWlVLXFCbHNpWHUxaWNVbXpsaUlyRXdUOTJXNkN0bklsY1NXVVRuVmZ0LVJPbG96am45SHc?oc=5\" target=\"_blank\">WHO declares end of hantavirus outbreak on MV Hondius cruise chip after three deaths and more th",
+      "scanned_at": "2026-07-09T15:33:42.843970+00:00"
+    },
+    {
       "id": "cs_eac4181ef439",
       "count": 1,
       "status": "suspected",
@@ -219,7 +252,7 @@
       ],
       "confidence": 0.58,
       "clinical_notes": "<p>CDC Acting Director Jay Bhattacharya: Protecting Americans is our highest responsibility. CDC’s hantavirus response officially concludes today, June 24, 2026. This response demonstrates the strength of a coordinated effort to detect and defend against infectious disease threats that occur outside of our borders. I am grateful for the world-class team at CDC whose dedication and swift action helped identify potential exposures, provide clear guidance, and protect the American people.</p>\n<img ",
-      "scanned_at": "2026-07-09T12:09:53.887336+00:00"
+      "scanned_at": "2026-07-09T15:33:40.535163+00:00"
     },
     {
       "id": "cs_0399c6e84f1e",
@@ -370,7 +403,7 @@
           "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHFmYWZTLTIwaWg3N3JKUjAyZEpjalVOUW5FZWRXVnBBOXl4clFkUDRvWGJqZ1REbEFBYVBGbUtYMzdOYjZTdEhRaXR0aGQwdDNmQ2dzdURQaVBSRXR2ck1LVzNxdFFrdHEtTERILXJ5MTl2M3dzYml6WFZIbTVGREg0Q19ZRVpMNklqZzBjNnRjZXQt?oc=5",
           "title": "Video: WHO declares hantavirus outbreak that started on Dutch cruise ship over - NL Times",
-          "weight": 4
+          "weight": 5
         },
         {
           "source": "Google News (EN)",
@@ -417,7 +450,7 @@
       ],
       "confidence": 0.4966666666666667,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa3pDZV80OUtIUmUtZ2ViUHNraWVFRXBnTHBDYTl4NWplTFFQSVR5NVVuR2JfcF9sXzFUbDdfaEc3dGIzSDJoMEpCa0d3VTQ5MS1hTzVGLWlsMVFxbGk4VDhQRlpwVjRVT2FnMl9aQVpuZ2kyLXUzdkhsVDRYWG02R09NbzV1T25ldUw5TkVYU0pua1NCX2doRzcyRmNYeXpvZXZUdERGV1pKczlhUm9RbGZUckNsaDBDNDNySENRVFlpT0hueHg2WmV5VUc5LWZ1Y0tUNTJHcG55Znow?oc=5\" target=\"_blank\">Thirty-eight Filipino crewmembers of MV Hondius, which was hit by an outbreak of Andes hantavirus during voyage, returned to the co",
-      "scanned_at": "2026-07-09T12:09:54.523381+00:00"
+      "scanned_at": "2026-07-09T15:33:42.874505+00:00"
     },
     {
       "id": "cs_698ae43ae0fb",
@@ -999,33 +1032,6 @@
       "scanned_at": "2026-06-15T02:05:50.970716+00:00"
     },
     {
-      "id": "cs_ed62f8147921",
-      "count": 1,
-      "status": "deceased",
-      "location": {
-        "country": "USA",
-        "city": "Arizona",
-        "lat": 34.05,
-        "lng": -111.09
-      },
-      "date": "Tue, 02 Jun 2026 07:00:00 GMT",
-      "age": null,
-      "nationality": null,
-      "sex": null,
-      "flights": [],
-      "sources": [
-        {
-          "source": "Google News (EN)",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5",
-          "title": "First hantavirus death reported in Arizona in 2026 - AZ Family",
-          "weight": 4
-        }
-      ],
-      "confidence": 0.4633333333333333,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLUxGajNGNzdpTGV6QS1NZDl3ajJNX3RBWGhnVDdCLV9UN05GV3NFLWp0dVRrWm9qQ0ZwS1JISEkyZHd5UDZTMVVObWx2X1dUX01iSG9OQWJhOFFxcWY3ZzJXWVoxdkIwNUpXa0VrX1plcGtEdDRtdWhMeG9zbng5R0RLZjBtZ2Jq0gGcAUFVX3lxTE84Y3pTRG4tdmo4czhTQjh3eEtrdWdneElWYXpHWFhMeWZUTi11QUtVM0hpRHYwaVBRVk5RQnlZMFhtOHVZLW9ESW5mZDBBaU9rSEV1Y1RwZ0tnYmo1MFI5STZNc0ZOR3lfWTYwVlpCZWhHa1Z2cXp6SmwwT2E5OVlYMWtfTlVXdzhTUFNoV3l1UmlQYzlqRjQzYlo0cg?oc=5\" target=\"_blank\">First hantavirus death report",
-      "scanned_at": "2026-07-09T12:09:53.915147+00:00"
-    },
-    {
       "id": "cs_9f027ea419e6",
       "count": 1,
       "status": "confirmed",
@@ -1056,7 +1062,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkxaUkdQa2pnZS02aU5jbmNOaUpaRE50LTFKcVktR2tTWUtJZWpYc2lua1kyX3I2WjIwdnlQTDhPM3VkMnUzZllvYXhFUi1MeDA3NHNOMDZIY3BHMGliTW1JaGduNzN6T0FfRkNGUDd3d091QW52a1VpSE9ZOUhzbVNEYll3QUp6MDJ3OGlqVGtpTHNnMVJpd0ltWDRITFpYdExKWHd3NDBSRElHMi0yWUlIb3pSWDZIZVRneFFSaXBzUUJJMG9mbXdxdG91QQ?oc=5\" target=\"_blank\">Ausbruch auf Kreuzfahrtschiff - WHO bestätigt 6 Hantavirus-Fälle – neuer Verdachtsfall in Spanien</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SRF</font>",
-      "scanned_at": "2026-07-09T12:09:56.293155+00:00"
+      "scanned_at": "2026-07-09T15:33:43.543682+00:00"
     },
     {
       "id": "cs_75ff5666b9c9",
@@ -1089,7 +1095,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi4AJBVV95cUxPbXNqRHRKLTJra1d4b2FKU1JmQ1N6Unh4N2tpanBUd3V1dkRFTUktc1htaFNxMW9VbzZUM0hBRll3UjdMcmZQV0ZGaUxXTnk3NGhvN0tLRFM0NHJTakFtUWNRUFNET1VqTTk2YTRQOWttOTFBVURmZXRlS2psalgzdzRUbWprU2hxTFVFXzVnc2xkZm5yM2lnNV85RlQ4U0tpay1ieXZKcnhod095SmlJN0szYjRXMWc0UkZsWmRUdVlrOWU4c1FNQWo2SmNRQWZrazV6RUdDTUlhelZMTDRvcjJ5aktaMzE1bmhJMFhUVjhPOGNZNHU3aEc5YkljQlJlVXJIZjRnUV9vRV9SUXduYW1FRTdQVGxhdzMxNkpsVkRtS0JuMkVSVUJYdUdMOWVZWWMtZGhTZkNEWGZhQlNmUU9YTlZQSVZFX1lQTHpZaz",
-      "scanned_at": "2026-07-09T12:09:59.846609+00:00"
+      "scanned_at": "2026-07-09T15:33:47.606343+00:00"
     },
     {
       "id": "cs_f61ebade30d1",
@@ -1116,7 +1122,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGdVWC1FSWRHNVFfeUdhM1o2cVVxRGd1S2VrQVZwRnE5Q2Z0ckZZVFdQbjc4WkE3Qy1OaTAxNmdBRWM4TkhjR1FlMXV3UnFOUnprWlMzZDR1RzdaTVRJX3J4a3pUb0U3YThYVmpoS3BnUV9tWDNQMl9EZDB2MDVqLTlMQXFyTG02TVhaTTlpWG91TXBfWTFreGZZSFdqNWtMb3Riak94Qk1PX1BWMWc2SVpiOUw?oc=5\" target=\"_blank\">Erster Verdachtsfall auf Hantavirus in Portugal bestätigt sich nicht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "scanned_at": "2026-07-09T12:09:56.725093+00:00"
+      "scanned_at": "2026-07-09T15:33:44.062338+00:00"
     },
     {
       "id": "cs_804a25922135",
@@ -1143,7 +1149,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxQV1BydVhVdjNwOWxsSF9CRTUwaklEZVA3UFYtUXVHTi1WYmxKZUNtS05TaDFrak1meDMydlVoWjV2ZjlTbG91Q3hFZmU0dnFPM05ieTFnT1ItUHNoOVlpNjZWYkZvOW1LU1RzbnRWU2xPLVVPU1drQjllNjlNY0NZY0FudlkzZFNGNjNBR3RHem5uRklYMjBqREE2dV9wd1JZdXJDMTVCeTdFVkNHMTd2VS1ERzBGQVJBcGp4ZWZxdzN4WkV2a245UWtQeHNvRHNmUkZWSzdINWxiTTh2ZzJpeV8tVi1rNmM2ZHdySkdFRVBDX0pLdjJiZklIRmtWWDJVV1IwZDdzY3cxY1Fhb0pRT2JXSmtRODBMeTZNYmoyc1d1aDBoaWhJZjBR?oc=5\" target=\"_blank\">Hantavirus : un cas confirm",
-      "scanned_at": "2026-07-09T12:09:59.852668+00:00"
+      "scanned_at": "2026-07-09T15:33:47.615024+00:00"
     },
     {
       "id": "cs_1f176582eb7f",
@@ -1170,7 +1176,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9QNXk4eHlMaXBrbi1RR0RZXzJ0d1VHc19JRll5T0FhYVZsYk5FWWticy1QMkQ0bjlKb2F6UFVnNVRCUQ?oc=5\" target=\"_blank\">Patientin verstorben - Hantavirus: Nach Wien-Flug drei Passagiere gesucht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kronen Zeitung</font>",
-      "scanned_at": "2026-07-09T12:09:56.753447+00:00"
+      "scanned_at": "2026-07-09T15:33:44.111972+00:00"
     },
     {
       "id": "cs_9766b4224bac",
@@ -1197,7 +1203,34 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1NRLUlYZ29jYkR6SEFBTWZVTE02d2gtR01yTmhTZmFKbEtidzdsV0ZjMmJXcTB2anB3Y1RmNEl0MTRUSkx3Qzl0b2UzVWhOdnNyZDJuYUVXNzlRUGt1TWd0VGE3OWFQeE5ockxUQkU5RXFOVEdjWVc0cGdYZG83ZWZiM2RiV3EyV1o5SnV3?oc=5\" target=\"_blank\">French Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
-      "scanned_at": "2026-07-09T12:09:55.277531+00:00"
+      "scanned_at": "2026-07-09T15:33:42.085478+00:00"
+    },
+    {
+      "id": "cs_8d2350e4c715",
+      "count": 1,
+      "status": "confirmed",
+      "location": {
+        "country": "USA",
+        "city": "Usa",
+        "lat": 37.09,
+        "lng": -95.71
+      },
+      "date": "Mon, 11 May 2026 07:00:00 GMT",
+      "age": null,
+      "nationality": null,
+      "sex": null,
+      "flights": [],
+      "sources": [
+        {
+          "source": "Google News (DE)",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSFZkcDNKTFJRb09ldzB0Zl9pRGpid2RNOU43dVRNX3c4U25FQ2JYVE0wY0pYdWtuR3k0WEtOOWY1YWVISU13eGRZWGtmdmdhRWI1YW0zQUYtQW1JM2lhb0p4dGhJMC04NUgyNElYWHhqWUE1amtpV2Y5Wk1mbG9ScEpVaGFLLWNwdmdJaDgxYm5ibThkY2V4MUFPb21hX3dYdFFDRGhZVkdWcTNvNkZGZjhoNkhlVDVRY190ZnpqeHV3YURNLWdNeUstUU9lcXRlSGpsSWxLbmZ0TlNscDQ3ZmZCU1JYcHdNS3l2bnhDMnk3NE9keWZjZGhkOA?oc=5",
+          "title": "Hantavirus: Grund zur Panik? Ein Amerikaner wurde positiv getestet, ein weiterer Verdachtsfall nach der Rückführung von 17 Passagieren in die USA – Interview - ENTREVUE.FR",
+          "weight": 4
+        }
+      ],
+      "confidence": 0.4633333333333333,
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSFZkcDNKTFJRb09ldzB0Zl9pRGpid2RNOU43dVRNX3c4U25FQ2JYVE0wY0pYdWtuR3k0WEtOOWY1YWVISU13eGRZWGtmdmdhRWI1YW0zQUYtQW1JM2lhb0p4dGhJMC04NUgyNElYWHhqWUE1amtpV2Y5Wk1mbG9ScEpVaGFLLWNwdmdJaDgxYm5ibThkY2V4MUFPb21hX3dYdFFDRGhZVkdWcTNvNkZGZjhoNkhlVDVRY190ZnpqeHV3YURNLWdNeUstUU9lcXRlSGpsSWxLbmZ0TlNscDQ3ZmZCU1JYcHdNS3l2bnhDMnk3NE9keWZjZGhkOA?oc=5\" target=\"_blank\">Hantavirus: Grund zur Panik? Ein Amerikaner wurde positiv getestet, ein weiterer Verdacht",
+      "scanned_at": "2026-07-09T15:33:44.600970+00:00"
     },
     {
       "id": "cs_393cc5702750",
@@ -1224,7 +1257,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkxQODJSb3ZPSVVIWGFqdTBFVUJfVDU5YUw4MTdOLTBiZzBPX0FPSVRWNXRrV1pfSE1YSlRKNjdiYU12Y0QzM0dmNGt5bWdKWjNTbVFsU0ZRTUhLbmEycUVrRFItQ1pRWTZ4Y1ZtN3R0NXBReVNNYmRuU0hjc0sybDJqS3YxOFNHd3o5NzRSQTk?oc=5\" target=\"_blank\">Brasil teve uma morte por hantavírus confirmada em 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jovem Pan</font>",
-      "scanned_at": "2026-07-09T12:09:59.296107+00:00"
+      "scanned_at": "2026-07-09T15:33:46.813011+00:00"
     }
   ]
 }
