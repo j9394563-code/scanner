@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-07-15T08:28:36.613499+00:00",
-  "total": 1016,
+  "scanned_at": "2026-07-15T10:23:41.584815+00:00",
+  "total": 1013,
   "items": [
     {
       "id": "scan_44bc2fd00570",
@@ -15,7 +15,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:03.804482+00:00"
+      "scanned_at": "2026-07-15T10:23:13.045992+00:00"
     },
     {
       "id": "scan_aed91c15556c",
@@ -30,7 +30,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.682022+00:00"
+      "scanned_at": "2026-07-15T10:23:10.089010+00:00"
     },
     {
       "id": "scan_06fe2e2e8430",
@@ -45,7 +45,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:01.399689+00:00"
+      "scanned_at": "2026-07-15T10:23:10.683238+00:00"
     },
     {
       "id": "scan_2f3e41c69c46",
@@ -75,7 +75,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:01.393826+00:00"
+      "scanned_at": "2026-07-15T10:23:10.677288+00:00"
     },
     {
       "id": "scan_5848e10afa8c",
@@ -155,7 +155,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.198914+00:00"
+      "scanned_at": "2026-07-15T10:23:13.432424+00:00"
     },
     {
       "id": "scan_baa538aaf195",
@@ -463,21 +463,6 @@
       "scanned_at": "2026-07-09T12:09:55.871888+00:00"
     },
     {
-      "id": "scan_876baf9b1c3f",
-      "title": "Hantavirus outbreak on MV Hondius cruise ship officially over: WHO - Global News",
-      "title_de": "Hantavirus-Ausbruch auf MV Hondius Kreuzfahrtschiff offiziell vorbei: WHO - Global News",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblNIb25tUy1RYlVVc3h6c3p6RkRKTVZ0RWRxMDN3SkhqX1JQeHpUVm1LYnlXdjdwRW8yZnZEZG1SWGdzWkw5clFxTm84RlpDX1pUdEJrdDVuekcteTdnOFNpRXZjRnlTX2ZIUWJWQ1NsT3R1VldGWkpibmw4QU80b0xDYw?oc=5",
-      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQblNIb25tUy1RYlVVc3h6c3p6RkRKTVZ0RWRxMDN3SkhqX1JQeHpUVm1LYnlXdjdwRW8yZnZEZG1SWGdzWkw5clFxTm84RlpDX1pUdEJrdDVuekcteTdnOFNpRXZjRnlTX2ZIUWJWQ1NsT3R1VldGWkpibmw4QU80b0xDYw?oc=5\" target=\"_blank\">Hantavirus outbreak on MV Hondius cruise ship officially over: WHO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:02.868685+00:00"
-    },
-    {
       "id": "scan_3c51012d14e2",
       "title": "WHO declares end to MV Hondius hantavirus outbreak - MSN",
       "title_de": "WER erklärt das Ende des MV Hondius Hantavirus-Ausbruchs - MSN",
@@ -490,7 +475,22 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:02.871479+00:00"
+      "scanned_at": "2026-07-15T10:23:11.993454+00:00"
+    },
+    {
+      "id": "scan_876baf9b1c3f",
+      "title": "Hantavirus outbreak on MV Hondius cruise ship officially over: WHO - Global News",
+      "title_de": "Hantavirus-Ausbruch auf MV Hondius Kreuzfahrtschiff offiziell vorbei: WHO - Global News",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblNIb25tUy1RYlVVc3h6c3p6RkRKTVZ0RWRxMDN3SkhqX1JQeHpUVm1LYnlXdjdwRW8yZnZEZG1SWGdzWkw5clFxTm84RlpDX1pUdEJrdDVuekcteTdnOFNpRXZjRnlTX2ZIUWJWQ1NsT3R1VldGWkpibmw4QU80b0xDYw?oc=5",
+      "published": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 5,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQblNIb25tUy1RYlVVc3h6c3p6RkRKTVZ0RWRxMDN3SkhqX1JQeHpUVm1LYnlXdjdwRW8yZnZEZG1SWGdzWkw5clFxTm84RlpDX1pUdEJrdDVuekcteTdnOFNpRXZjRnlTX2ZIUWJWQ1NsT3R1VldGWkpibmw4QU80b0xDYw?oc=5\" target=\"_blank\">Hantavirus outbreak on MV Hondius cruise ship officially over: WHO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Global News</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-07-15T10:23:11.998834+00:00"
     },
     {
       "id": "scan_a1c3441494d1",
@@ -505,7 +505,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:02.878612+00:00"
+      "scanned_at": "2026-07-15T10:23:12.000337+00:00"
     },
     {
       "id": "scan_5d05e85dc889",
@@ -785,7 +785,7 @@
         "match": "GENEVA"
       },
       "safe_signal": true,
-      "scanned_at": "2026-07-15T08:27:34.598052+00:00"
+      "scanned_at": "2026-07-15T10:22:44.869284+00:00"
     },
     {
       "id": "scan_cbd125f38638",
@@ -1250,7 +1250,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.852017+00:00"
+      "scanned_at": "2026-07-15T10:23:14.039916+00:00"
     },
     {
       "id": "scan_d1f22a3edbd5",
@@ -1770,7 +1770,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.853892+00:00"
+      "scanned_at": "2026-07-15T10:23:14.041969+00:00"
     },
     {
       "id": "scan_cd614a11d6bb",
@@ -1800,7 +1800,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.876782+00:00"
+      "scanned_at": "2026-07-15T10:23:14.067267+00:00"
     },
     {
       "id": "scan_eac4181ef439",
@@ -1820,7 +1820,7 @@
         "match": "New York"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.655901+00:00"
+      "scanned_at": "2026-07-15T10:23:10.062816+00:00"
     },
     {
       "id": "scan_732a3809e9a7",
@@ -1835,7 +1835,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.657198+00:00"
+      "scanned_at": "2026-07-15T10:23:10.064125+00:00"
     },
     {
       "id": "scan_4e3a0a956a9d",
@@ -1850,7 +1850,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.665102+00:00"
+      "scanned_at": "2026-07-15T10:23:10.072286+00:00"
     },
     {
       "id": "scan_cd4ca50824ac",
@@ -1865,7 +1865,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:01.417729+00:00"
+      "scanned_at": "2026-07-15T10:23:10.700471+00:00"
     },
     {
       "id": "scan_f5368b15cb1d",
@@ -1880,7 +1880,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:01.421828+00:00"
+      "scanned_at": "2026-07-15T10:23:10.704715+00:00"
     },
     {
       "id": "scan_1c4bbc016813",
@@ -1895,7 +1895,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:01.424222+00:00"
+      "scanned_at": "2026-07-15T10:23:10.707164+00:00"
     },
     {
       "id": "scan_37cb18b5baf4",
@@ -1910,7 +1910,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:03.358228+00:00"
+      "scanned_at": "2026-07-15T10:23:12.485082+00:00"
     },
     {
       "id": "scan_ae25fe5eaaed",
@@ -1925,7 +1925,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.845498+00:00"
+      "scanned_at": "2026-07-15T10:23:14.032834+00:00"
     },
     {
       "id": "scan_28069279d337",
@@ -1945,7 +1945,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:06.179229+00:00"
+      "scanned_at": "2026-07-15T10:23:15.280713+00:00"
     },
     {
       "id": "scan_100410968a2c",
@@ -2340,7 +2340,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.869295+00:00"
+      "scanned_at": "2026-07-15T10:23:14.058961+00:00"
     },
     {
       "id": "scan_ea7d7580cac2",
@@ -2370,7 +2370,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.840342+00:00"
+      "scanned_at": "2026-07-15T10:23:14.027241+00:00"
     },
     {
       "id": "scan_24f7a6e62890",
@@ -2675,7 +2675,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:05.561894+00:00"
+      "scanned_at": "2026-07-15T10:23:14.694851+00:00"
     },
     {
       "id": "scan_6bed75a5e28a",
@@ -3090,7 +3090,7 @@
         "match": "American"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:08.878463+00:00"
+      "scanned_at": "2026-07-15T10:23:18.429968+00:00"
     },
     {
       "id": "scan_c19720ab4e06",
@@ -3545,7 +3545,7 @@
         "match": "American"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.655466+00:00"
+      "scanned_at": "2026-07-15T10:23:10.062373+00:00"
     },
     {
       "id": "scan_956c5e8c1fca",
@@ -3565,7 +3565,7 @@
         "match": "US"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.660446+00:00"
+      "scanned_at": "2026-07-15T10:23:10.067464+00:00"
     },
     {
       "id": "scan_a0f4f19d1aeb",
@@ -3585,7 +3585,7 @@
         "match": "Dutch"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.661553+00:00"
+      "scanned_at": "2026-07-15T10:23:10.068609+00:00"
     },
     {
       "id": "scan_a33a5535436b",
@@ -3600,7 +3600,22 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.710465+00:00"
+      "scanned_at": "2026-07-15T10:23:10.115724+00:00"
+    },
+    {
+      "id": "scan_c4d8474e9697",
+      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5\" target=\"_blank\">HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HHS.gov</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-07-15T10:23:11.399457+00:00"
     },
     {
       "id": "scan_0a61cc4fc651",
@@ -3615,7 +3630,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:02.861800+00:00"
+      "scanned_at": "2026-07-15T10:23:11.985066+00:00"
     },
     {
       "id": "scan_9d0d013d48b7",
@@ -3630,7 +3645,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:03.333272+00:00"
+      "scanned_at": "2026-07-15T10:23:12.460016+00:00"
     },
     {
       "id": "scan_b52cbfd3a5a9",
@@ -3645,7 +3660,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:05.582847+00:00"
+      "scanned_at": "2026-07-15T10:23:14.701093+00:00"
     },
     {
       "id": "scan_4d1ebf1dd94c",
@@ -3660,7 +3675,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:05.599361+00:00"
+      "scanned_at": "2026-07-15T10:23:14.733158+00:00"
     },
     {
       "id": "scan_6a96c66c177e",
@@ -3676,21 +3691,6 @@
       "geo": null,
       "safe_signal": false,
       "scanned_at": "2026-07-15T05:58:00.340202+00:00"
-    },
-    {
-      "id": "scan_c4d8474e9697",
-      "title": "HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case - HHS.gov",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPUXJaVTd0OUlXd1hjeTl6R204QkhveEczZ2lWbmR5RXZZblVvOGhRN2FITnRRc2lLU1NDbGFnazJCLW9hWnQwTXR2TGx4enRuVk1yejZyb3pTcVZEeFRrMFZGbnRweGx0V1E4eFVfZFd4Y2JiekJIMlFZdVZtSXkzR2E4QmFHdVY0UUtHYUpnV0JfNms?oc=5\" target=\"_blank\">HHS Successfully Concludes Hantavirus Response Effort; Monitoring Ends with No Positive U.S. Case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">HHS.gov</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-07-12T23:28:24.470005+00:00"
     },
     {
       "id": "scan_7d3fdf260de8",
@@ -3958,21 +3958,6 @@
       "scanned_at": "2026-06-26T23:43:38.160372+00:00"
     },
     {
-      "id": "scan_4cb702d4b965",
-      "title": "Tras la muerte por hantavirus, investigan si hubo un contagio interhumano y envían muestras al Malbrán - Diario El Cordillerano",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVzRLZzh6RFllU1RKZ2FySzRFTGUxTm4yRnB5STUyWDdfa2FLcWttdDBOX0YxbTJNcmIyeHNLa1JpVUxadGgxT3BQTDlSRWhhMy1qNWYzMzNsbE5QMGF1a1FDOHpPZTR0dF9PT1Z1YWFsVURILWJ0VGJFNmhQbTlLOUE1a0t3Z0tHb1BVdU1ZVzE0elQ2OGFIMVJSc1AzcGg1bTJnQ0ZCLV82U0lweThKZlRJU1BZUFZIaktRX1BkWnljY2Z1MlZ6Qmc4Qm9zN2NQdEJqVXdOTk05WU9maUZDUnRIOTdxOGhmLVBvajdpaGpSUU000gH6AUFVX3lxTE1yRDlnZ2lXTzBfaVAwbUJuYm9hVnFiQlhVN1V0RkxoekhWX3dTLWJ3eWl6eEJzNTBNS291dVctc2oteVFLNzhnRWI1QlBWcllPeEZ0R3dRZE8xOFI1S25vZ2djalBxTWlpUDNNU3p4LUV6NjN1azlIVGpvZVYwd2tfcHozbUVuUlZxQ1hHZzZrd1JsSjZETkYwU3RPSVBiRnR5N0pHbXRJLVZRdUZSRXAxc3pjN19qMlB1c2Yya3BmMXlCS095aHJCMi0tUHZnUnkyTHBaQWVpVHZHWEJZTFlSX2prM2J0UVhBczQtVVNFRm4wRmo2MnFYZlE?oc=5",
-      "published": "Tue, 23 Jun 2026 13:23:59 GMT",
-      "source": "Google News (ES)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVzRLZzh6RFllU1RKZ2FySzRFTGUxTm4yRnB5STUyWDdfa2FLcWttdDBOX0YxbTJNcmIyeHNLa1JpVUxadGgxT3BQTDlSRWhhMy1qNWYzMzNsbE5QMGF1a1FDOHpPZTR0dF9PT1Z1YWFsVURILWJ0VGJFNmhQbTlLOUE1a0t3Z0tHb1BVdU1ZVzE0elQ2OGFIMVJSc1AzcGg1bTJnQ0ZCLV82U0lweThKZlRJU1BZUFZIaktRX1BkWnljY2Z1MlZ6Qmc4Qm9zN2NQdEJqVXdOTk05WU9maUZDUnRIOTdxOGhmLVBvajdpaGpSUU000gH6AUFVX3lxTE1yRDlnZ2lXTzBfaVAwbUJuYm9hVnFiQlhVN1V0RkxoekhWX3dTLWJ3eWl6eEJzNTBNS291dVctc2oteVFLNzhnRWI1QlBWcllPeEZ0R3dRZE8xOFI1S25vZ2djalBxTWlpUDNNU3p4LUV6NjN1azlIVGpvZVYwd2tfcHozbUVuUlZxQ1hHZzZrd1JsSjZETkYwU3RPSVBiRnR5N0",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-06-23T17:29:12.866704+00:00"
-    },
-    {
       "id": "scan_f5d2030d6961",
       "title": "Hantavirus outbreak \"close to end\", says WHO director-general, after more than 80% of contacts have concluded quarantine - Gamereactor UK",
       "title_de": "Hantavirus-Ausbruch \"kurz vor dem Ende\", SAGT WHO-GENERALDIREKTOR, nachdem mehr als 80% der Kontakte die Quarantäne abgeschlossen haben - Gamereactor UK",
@@ -4008,6 +3993,26 @@
       "scanned_at": "2026-06-25T22:51:23.582736+00:00"
     },
     {
+      "id": "scan_7eb87a547a7c",
+      "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska - The Guardian",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVhVLUFrQkotUGt1dVRrdUJEcTg5aVZKeU5TejFha2stMlcyMTFBQUhqWVVvLU42T0tma2pEa2UzNDdDNmVfQTAtOS0tUjNUMmw5TFpOZk1NeG5QYm5kcVAzZjhubnJjMVFyb2hGZ3RmdTJjZVdrQVNJdVNmWVhhWDJKQkZITndIN2hR?oc=5",
+      "published": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVhVLUFrQkotUGt1dVRrdUJEcTg5aVZKeU5TejFha2stMlcyMTFBQUhqWVVvLU42T0tma2pEa2UzNDdDNmVfQTAtOS0tUjNUMmw5TFpOZk1NeG5QYm5kcVAzZjhubnJjMVFyb2hGZ3RmdTJjZVdrQVNJdVNmWVhhWDJKQkZITndIN2hR?oc=5\" target=\"_blank\">Hantavirus quarantine ends for Americans held for six weeks in Nebraska</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": {
+        "country": "USA",
+        "lat": 41.49,
+        "lng": -99.9,
+        "match": "Nebraska"
+      },
+      "safe_signal": false,
+      "scanned_at": "2026-07-15T10:23:10.081563+00:00"
+    },
+    {
       "id": "scan_8b6139332ebe",
       "title": "All US passengers from hantavirus-hit ship return to home states - Reuters",
       "title_de": "",
@@ -4025,7 +4030,7 @@
         "match": "US"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:02.167094+00:00"
+      "scanned_at": "2026-07-15T10:23:11.350718+00:00"
     },
     {
       "id": "scan_4979d7138232",
@@ -4040,7 +4045,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:02.859338+00:00"
+      "scanned_at": "2026-07-15T10:23:11.983840+00:00"
     },
     {
       "id": "scan_0e87691563f7",
@@ -4055,7 +4060,22 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:02.866028+00:00"
+      "scanned_at": "2026-07-15T10:23:11.987873+00:00"
+    },
+    {
+      "id": "scan_4cb702d4b965",
+      "title": "Tras la muerte por hantavirus, investigan si hubo un contagio interhumano y envían muestras al Malbrán - Diario El Cordillerano",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVzRLZzh6RFllU1RKZ2FySzRFTGUxTm4yRnB5STUyWDdfa2FLcWttdDBOX0YxbTJNcmIyeHNLa1JpVUxadGgxT3BQTDlSRWhhMy1qNWYzMzNsbE5QMGF1a1FDOHpPZTR0dF9PT1Z1YWFsVURILWJ0VGJFNmhQbTlLOUE1a0t3Z0tHb1BVdU1ZVzE0elQ2OGFIMVJSc1AzcGg1bTJnQ0ZCLV82U0lweThKZlRJU1BZUFZIaktRX1BkWnljY2Z1MlZ6Qmc4Qm9zN2NQdEJqVXdOTk05WU9maUZDUnRIOTdxOGhmLVBvajdpaGpSUU000gH6AUFVX3lxTE1yRDlnZ2lXTzBfaVAwbUJuYm9hVnFiQlhVN1V0RkxoekhWX3dTLWJ3eWl6eEJzNTBNS291dVctc2oteVFLNzhnRWI1QlBWcllPeEZ0R3dRZE8xOFI1S25vZ2djalBxTWlpUDNNU3p4LUV6NjN1azlIVGpvZVYwd2tfcHozbUVuUlZxQ1hHZzZrd1JsSjZETkYwU3RPSVBiRnR5N0pHbXRJLVZRdUZSRXAxc3pjN19qMlB1c2Yya3BmMXlCS095aHJCMi0tUHZnUnkyTHBaQWVpVHZHWEJZTFlSX2prM2J0UVhBczQtVVNFRm4wRmo2MnFYZlE?oc=5",
+      "published": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "source": "Google News (ES)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVzRLZzh6RFllU1RKZ2FySzRFTGUxTm4yRnB5STUyWDdfa2FLcWttdDBOX0YxbTJNcmIyeHNLa1JpVUxadGgxT3BQTDlSRWhhMy1qNWYzMzNsbE5QMGF1a1FDOHpPZTR0dF9PT1Z1YWFsVURILWJ0VGJFNmhQbTlLOUE1a0t3Z0tHb1BVdU1ZVzE0elQ2OGFIMVJSc1AzcGg1bTJnQ0ZCLV82U0lweThKZlRJU1BZUFZIaktRX1BkWnljY2Z1MlZ6Qmc4Qm9zN2NQdEJqVXdOTk05WU9maUZDUnRIOTdxOGhmLVBvajdpaGpSUU000gH6AUFVX3lxTE1yRDlnZ2lXTzBfaVAwbUJuYm9hVnFiQlhVN1V0RkxoekhWX3dTLWJ3eWl6eEJzNTBNS291dVctc2oteVFLNzhnRWI1QlBWcllPeEZ0R3dRZE8xOFI1S25vZ2djalBxTWlpUDNNU3p4LUV6NjN1azlIVGpvZVYwd2tfcHozbUVuUlZxQ1hHZzZrd1JsSjZETkYwU3RPSVBiRnR5N0",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-07-15T10:23:14.078361+00:00"
     },
     {
       "id": "scan_c95f32a0106e",
@@ -4075,27 +4095,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.886666+00:00"
-    },
-    {
-      "id": "scan_7eb87a547a7c",
-      "title": "Hantavirus quarantine ends for Americans held for six weeks in Nebraska - The Guardian",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVhVLUFrQkotUGt1dVRrdUJEcTg5aVZKeU5TejFha2stMlcyMTFBQUhqWVVvLU42T0tma2pEa2UzNDdDNmVfQTAtOS0tUjNUMmw5TFpOZk1NeG5QYm5kcVAzZjhubnJjMVFyb2hGZ3RmdTJjZVdrQVNJdVNmWVhhWDJKQkZITndIN2hR?oc=5",
-      "published": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMVhVLUFrQkotUGt1dVRrdUJEcTg5aVZKeU5TejFha2stMlcyMTFBQUhqWVVvLU42T0tma2pEa2UzNDdDNmVfQTAtOS0tUjNUMmw5TFpOZk1NeG5QYm5kcVAzZjhubnJjMVFyb2hGZ3RmdTJjZVdrQVNJdVNmWVhhWDJKQkZITndIN2hR?oc=5\" target=\"_blank\">Hantavirus quarantine ends for Americans held for six weeks in Nebraska</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": {
-        "country": "USA",
-        "lat": 41.49,
-        "lng": -99.9,
-        "match": "Nebraska"
-      },
-      "safe_signal": false,
-      "scanned_at": "2026-07-14T23:14:34.659365+00:00"
+      "scanned_at": "2026-07-15T10:23:14.078908+00:00"
     },
     {
       "id": "scan_34544bc209eb",
@@ -4785,7 +4785,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.666472+00:00"
+      "scanned_at": "2026-07-15T10:23:10.073735+00:00"
     },
     {
       "id": "scan_f11208a1cbe2",
@@ -4805,7 +4805,7 @@
         "match": "Nebraska"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.666859+00:00"
+      "scanned_at": "2026-07-15T10:23:10.074144+00:00"
     },
     {
       "id": "scan_2859b4aa6c92",
@@ -4820,7 +4820,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:02.857837+00:00"
+      "scanned_at": "2026-07-15T10:23:11.982328+00:00"
     },
     {
       "id": "scan_38d3c15d0d4e",
@@ -4835,7 +4835,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:02.893642+00:00"
+      "scanned_at": "2026-07-15T10:23:12.023307+00:00"
     },
     {
       "id": "scan_5f1002b0c8c7",
@@ -4850,7 +4850,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:03.766574+00:00"
+      "scanned_at": "2026-07-15T10:23:13.009175+00:00"
     },
     {
       "id": "scan_32a086441394",
@@ -4865,7 +4865,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.841887+00:00"
+      "scanned_at": "2026-07-15T10:23:14.028860+00:00"
     },
     {
       "id": "scan_07dd3dbfb67f",
@@ -4885,7 +4885,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.845977+00:00"
+      "scanned_at": "2026-07-15T10:23:14.033351+00:00"
     },
     {
       "id": "scan_18f5c16706b8",
@@ -4905,7 +4905,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.854415+00:00"
+      "scanned_at": "2026-07-15T10:23:14.042534+00:00"
     },
     {
       "id": "scan_8e94d771d50c",
@@ -4925,7 +4925,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.857586+00:00"
+      "scanned_at": "2026-07-15T10:23:14.046005+00:00"
     },
     {
       "id": "scan_e7dc7742746d",
@@ -5120,7 +5120,7 @@
         "match": "New York"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.691687+00:00"
+      "scanned_at": "2026-07-15T10:23:10.093711+00:00"
     },
     {
       "id": "scan_420aa0f9fb82",
@@ -5140,7 +5140,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.850047+00:00"
+      "scanned_at": "2026-07-15T10:23:14.037784+00:00"
     },
     {
       "id": "scan_862bf02ac002",
@@ -5160,7 +5160,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.856218+00:00"
+      "scanned_at": "2026-07-15T10:23:14.044496+00:00"
     },
     {
       "id": "scan_74b6028f9704",
@@ -5295,7 +5295,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.700995+00:00"
+      "scanned_at": "2026-07-15T10:23:10.105767+00:00"
     },
     {
       "id": "scan_d7508fe80873",
@@ -5555,7 +5555,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:06.738038+00:00"
+      "scanned_at": "2026-07-15T10:23:15.958753+00:00"
     },
     {
       "id": "scan_6552af49db9b",
@@ -5770,7 +5770,7 @@
         "match": "Nebraska"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:02.875451+00:00"
+      "scanned_at": "2026-07-15T10:23:12.013270+00:00"
     },
     {
       "id": "scan_75f8b7dc269f",
@@ -6115,7 +6115,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.843813+00:00"
+      "scanned_at": "2026-07-15T10:23:14.030977+00:00"
     },
     {
       "id": "scan_bca6e6dcae2d",
@@ -6395,7 +6395,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.691327+00:00"
+      "scanned_at": "2026-07-15T10:23:10.097976+00:00"
     },
     {
       "id": "scan_2ac4d8338b81",
@@ -6555,7 +6555,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:02.132146+00:00"
+      "scanned_at": "2026-07-15T10:23:11.355763+00:00"
     },
     {
       "id": "scan_c5496ea3d1e7",
@@ -7080,7 +7080,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.706516+00:00"
+      "scanned_at": "2026-07-15T10:23:10.111560+00:00"
     },
     {
       "id": "scan_04bdf55c86f0",
@@ -7395,7 +7395,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:01.433483+00:00"
+      "scanned_at": "2026-07-15T10:23:10.716759+00:00"
     },
     {
       "id": "scan_3e6943cd6594",
@@ -7895,7 +7895,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.884665+00:00"
+      "scanned_at": "2026-07-15T10:23:14.075602+00:00"
     },
     {
       "id": "scan_c70052c30dad",
@@ -7912,7 +7912,7 @@
       ],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.888126+00:00"
+      "scanned_at": "2026-07-15T10:23:14.080476+00:00"
     },
     {
       "id": "scan_817a81e94e2b",
@@ -7932,7 +7932,7 @@
         "match": "Marseille"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:06.778262+00:00"
+      "scanned_at": "2026-07-15T10:23:15.998316+00:00"
     },
     {
       "id": "scan_9b6c1c4b74c5",
@@ -8937,7 +8937,7 @@
         "match": "Texas"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:02.906523+00:00"
+      "scanned_at": "2026-07-15T10:23:12.031616+00:00"
     },
     {
       "id": "scan_e019f2d6b9f2",
@@ -8957,7 +8957,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:06.742292+00:00"
+      "scanned_at": "2026-07-15T10:23:15.956506+00:00"
     },
     {
       "id": "scan_2d6e1be859b3",
@@ -8972,7 +8972,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:06.803514+00:00"
+      "scanned_at": "2026-07-15T10:23:16.023502+00:00"
     },
     {
       "id": "scan_09814bf36f25",
@@ -9462,7 +9462,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:02.908081+00:00"
+      "scanned_at": "2026-07-15T10:23:12.018041+00:00"
     },
     {
       "id": "scan_eb6015a57ddc",
@@ -9477,7 +9477,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:06.735855+00:00"
+      "scanned_at": "2026-07-15T10:23:15.955044+00:00"
     },
     {
       "id": "scan_fdcd2f572ba5",
@@ -9492,7 +9492,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:06.751328+00:00"
+      "scanned_at": "2026-07-15T10:23:15.970823+00:00"
     },
     {
       "id": "scan_dbaa43567464",
@@ -9512,7 +9512,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:06.758779+00:00"
+      "scanned_at": "2026-07-15T10:23:15.978607+00:00"
     },
     {
       "id": "scan_21bd6f4adb87",
@@ -9527,7 +9527,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:06.772499+00:00"
+      "scanned_at": "2026-07-15T10:23:15.992460+00:00"
     },
     {
       "id": "scan_adb92dc81961",
@@ -9847,7 +9847,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:04.873866+00:00"
+      "scanned_at": "2026-07-15T10:23:14.064049+00:00"
     },
     {
       "id": "scan_6604f589feab",
@@ -9862,7 +9862,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:06.768202+00:00"
+      "scanned_at": "2026-07-15T10:23:15.988105+00:00"
     },
     {
       "id": "scan_44b0e9157d55",
@@ -10037,7 +10037,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-15T08:28:00.662834+00:00"
+      "scanned_at": "2026-07-15T10:23:10.069959+00:00"
     },
     {
       "id": "scan_b06d8150f26e",
