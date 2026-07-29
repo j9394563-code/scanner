@@ -1,7 +1,27 @@
 {
-  "scanned_at": "2026-07-29T20:04:58.262545+00:00",
-  "total": 966,
+  "scanned_at": "2026-07-29T21:11:51.131137+00:00",
+  "total": 1003,
   "items": [
+    {
+      "id": "scan_8000f05ad15c",
+      "title": "Alerta sanitaria en Chile por hantavirus: cuáles son las nuevas medidas del Ministerio de Salud - Infobae",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlZ2ZERlN3VPT0dCal9vU3pROElwcEpNekxRNksxdDY3c0w5X3ZGdVpITmxxMURhSlVyTXprUlVTUHRxNDIycEtScFRLa3hqeHVEb3hFUnRNeEo1VS15UlVlZFptNmVuTEJnSW9mb01tbmhNWWRldl9JVGo2dUxGczllMkFjRWhKMnpFY1JDTmJybHpzQUtPaXZUbTRwb2M3MTdtTmIxRDJjSzZOU3ZCY1EtRHRCcjZDX3lmWGJHWdIB2gFBVV95cUxPX29IdnBSZXJ0dUU0ZTBWajRuQzVrM0NhS0tOdjY4b19BNmhCZ2tKdzNXb2pDb2dQdmdxWWRUTDJwdWp3Q3RDaW9ZUVpCWGxTaXFucEIxUGZWUHZacE9ySUFSTmxqX0hub282dlhCcWNka0w5SldKMFZpSzNYaFRKamI5d3NIWDhtOVpGSEZjem5tUGRSMFdqVURHSzR6X1dVcmJBZ1h2RWJEYVl4Q1Q5WWw1U2docUJpS1ZibERxZEFzelhXVUt3TG1zRTV2bzlCWjdHTGR5ZllDZw?oc=5",
+      "published": "Wed, 29 Jul 2026 18:05:00 GMT",
+      "source": "Google News (ES)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlZ2ZERlN3VPT0dCal9vU3pROElwcEpNekxRNksxdDY3c0w5X3ZGdVpITmxxMURhSlVyTXprUlVTUHRxNDIycEtScFRLa3hqeHVEb3hFUnRNeEo1VS15UlVlZFptNmVuTEJnSW9mb01tbmhNWWRldl9JVGo2dUxGczllMkFjRWhKMnpFY1JDTmJybHpzQUtPaXZUbTRwb2M3MTdtTmIxRDJjSzZOU3ZCY1EtRHRCcjZDX3lmWGJHWdIB2gFBVV95cUxPX29IdnBSZXJ0dUU0ZTBWajRuQzVrM0NhS0tOdjY4b19BNmhCZ2tKdzNXb2pDb2dQdmdxWWRUTDJwdWp3Q3RDaW9ZUVpCWGxTaXFucEIxUGZWUHZacE9ySUFSTmxqX0hub282dlhCcWNka0w5SldKMFZpSzNYaFRKamI5d3NIWDhtOVpGSEZjem5tUGRSMFdqVURHSzR6X1dVcmJBZ1h2RWJEYVl4Q1Q5WWw1U2docUJpS1ZibERxZEFzelhXVUt3TG1zRTV2bzlCWjdHTGR5Zl",
+      "status": "suspected",
+      "flights": [],
+      "geo": {
+        "country": "Chile",
+        "lat": -35.68,
+        "lng": -71.54,
+        "match": "Chile"
+      },
+      "safe_signal": false,
+      "scanned_at": "2026-07-29T21:11:16.464477+00:00"
+    },
     {
       "id": "scan_8b74697916cb",
       "title": "Após 18 mortes, Chile decreta alerta sanitário por hantavírus - radio93.com.br",
@@ -20,27 +40,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:27.444912+00:00"
-    },
-    {
-      "id": "scan_8000f05ad15c",
-      "title": "Alerta sanitaria en Chile por hantavirus: cuáles son las nuevas medidas del Ministerio de Salud - Infobae",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlZ2ZERlN3VPT0dCal9vU3pROElwcEpNekxRNksxdDY3c0w5X3ZGdVpITmxxMURhSlVyTXprUlVTUHRxNDIycEtScFRLa3hqeHVEb3hFUnRNeEo1VS15UlVlZFptNmVuTEJnSW9mb01tbmhNWWRldl9JVGo2dUxGczllMkFjRWhKMnpFY1JDTmJybHpzQUtPaXZUbTRwb2M3MTdtTmIxRDJjSzZOU3ZCY1EtRHRCcjZDX3lmWGJHWdIB2gFBVV95cUxPX29IdnBSZXJ0dUU0ZTBWajRuQzVrM0NhS0tOdjY4b19BNmhCZ2tKdzNXb2pDb2dQdmdxWWRUTDJwdWp3Q3RDaW9ZUVpCWGxTaXFucEIxUGZWUHZacE9ySUFSTmxqX0hub282dlhCcWNka0w5SldKMFZpSzNYaFRKamI5d3NIWDhtOVpGSEZjem5tUGRSMFdqVURHSzR6X1dVcmJBZ1h2RWJEYVl4Q1Q5WWw1U2docUJpS1ZibERxZEFzelhXVUt3TG1zRTV2bzlCWjdHTGR5ZllDZw?oc=5",
-      "published": "Wed, 29 Jul 2026 17:08:18 GMT",
-      "source": "Google News (ES)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlZ2ZERlN3VPT0dCal9vU3pROElwcEpNekxRNksxdDY3c0w5X3ZGdVpITmxxMURhSlVyTXprUlVTUHRxNDIycEtScFRLa3hqeHVEb3hFUnRNeEo1VS15UlVlZFptNmVuTEJnSW9mb01tbmhNWWRldl9JVGo2dUxGczllMkFjRWhKMnpFY1JDTmJybHpzQUtPaXZUbTRwb2M3MTdtTmIxRDJjSzZOU3ZCY1EtRHRCcjZDX3lmWGJHWdIB2gFBVV95cUxPX29IdnBSZXJ0dUU0ZTBWajRuQzVrM0NhS0tOdjY4b19BNmhCZ2tKdzNXb2pDb2dQdmdxWWRUTDJwdWp3Q3RDaW9ZUVpCWGxTaXFucEIxUGZWUHZacE9ySUFSTmxqX0hub282dlhCcWNka0w5SldKMFZpSzNYaFRKamI5d3NIWDhtOVpGSEZjem5tUGRSMFdqVURHSzR6X1dVcmJBZ1h2RWJEYVl4Q1Q5WWw1U2docUJpS1ZibERxZEFzelhXVUt3TG1zRTV2bzlCWjdHTGR5Zl",
-      "status": "suspected",
-      "flights": [],
-      "geo": {
-        "country": "Chile",
-        "lat": -35.68,
-        "lng": -71.54,
-        "match": "Chile"
-      },
-      "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.091227+00:00"
+      "scanned_at": "2026-07-29T21:11:17.584447+00:00"
     },
     {
       "id": "scan_9e8e49c7a1b9",
@@ -60,7 +60,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.092540+00:00"
+      "scanned_at": "2026-07-29T21:11:16.465983+00:00"
     },
     {
       "id": "scan_44bc2fd00570",
@@ -75,7 +75,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:24.998553+00:00"
+      "scanned_at": "2026-07-29T21:11:15.590224+00:00"
     },
     {
       "id": "scan_737399b44433",
@@ -118,6 +118,21 @@
       "scanned_at": "2026-07-29T14:42:55.207246+00:00"
     },
     {
+      "id": "scan_9c2d23eb2dbb",
+      "title": "Greek MV Hondius Passenger Faces 45-Day Hantavirus Quarantine - tovima.com",
+      "title_de": "Griechische MV Hondius Passagiergesichter 45-tägige Hantavirus-Quarantäne - tovima.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHVLaGlpR0xMeHU4bWNrdFlsanlvX2JZM0YyN3ZwdG4xRUYwVXNVZVNrbnVBTnJMdDFoWGJkaDA2UllVcWtSMS05bWNyeGlvYTJXeE84MFpwNmRNalhhM2hKMG03MTNaT0Q1eEIxOHctUzZfX2NoWnhUZ011VTc0WVgzY3dRX2EzTkJPQjFrVHFvT0c3cVN0SdIBngFBVV95cUxPQzhFeTU5MnlzZzRMcGRhU255Nk1ROXNwS1V3Z1VDbDY5N3dkTW52c3dDUXpxZmdmdWhiWEhZTWRwVV9HX21GTTRaR3E1ZkdPSk5IVnZoeld5SEVvRXBSUXdyOWo5eDlXOE1RNl95V0d0X2YzenprSzd6TlktY183XzlNOXZZTjFUMzNiOXNkS3gyM2daWUpyNy1kUTBFUQ?oc=5",
+      "published": "Wed, 29 Jul 2026 06:24:16 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 5,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQWHVLaGlpR0xMeHU4bWNrdFlsanlvX2JZM0YyN3ZwdG4xRUYwVXNVZVNrbnVBTnJMdDFoWGJkaDA2UllVcWtSMS05bWNyeGlvYTJXeE84MFpwNmRNalhhM2hKMG03MTNaT0Q1eEIxOHctUzZfX2NoWnhUZ011VTc0WVgzY3dRX2EzTkJPQjFrVHFvT0c3cVN0SdIBngFBVV95cUxPQzhFeTU5MnlzZzRMcGRhU255Nk1ROXNwS1V3Z1VDbDY5N3dkTW52c3dDUXpxZmdmdWhiWEhZTWRwVV9HX21GTTRaR3E1ZkdPSk5IVnZoeld5SEVvRXBSUXdyOWo5eDlXOE1RNl95V0d0X2YzenprSzd6TlktY183XzlNOXZZTjFUMzNiOXNkS3gyM2daWUpyNy1kUTBFUQ?oc=5\" target=\"_blank\">Greek MV Hondius Passenger Faces 45-Day Hantavirus Quarantine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tovima",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-07-29T21:11:14.767158+00:00"
+    },
+    {
       "id": "scan_26e56f3bf0e6",
       "title": "Chile declara por primera vez una alerta sanitaria preventiva por hantavirus; descartan una epidemia - lineadirectaportal.com",
       "title_de": "",
@@ -155,7 +170,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.829298+00:00"
+      "scanned_at": "2026-07-29T21:11:17.073236+00:00"
     },
     {
       "id": "scan_0840b4cc799e",
@@ -195,7 +210,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.095375+00:00"
+      "scanned_at": "2026-07-29T21:11:16.467717+00:00"
     },
     {
       "id": "scan_75dba0211860",
@@ -360,7 +375,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.869040+00:00"
+      "scanned_at": "2026-07-29T21:11:17.128815+00:00"
     },
     {
       "id": "scan_9dd4f341bdb1",
@@ -585,7 +600,7 @@
         "match": "Buenos Aires"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.102351+00:00"
+      "scanned_at": "2026-07-29T21:11:16.476321+00:00"
     },
     {
       "id": "scan_83e998c89d11",
@@ -600,7 +615,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.866300+00:00"
+      "scanned_at": "2026-07-29T21:11:17.125217+00:00"
     },
     {
       "id": "scan_3b195c0b5000",
@@ -615,7 +630,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:21.894560+00:00"
+      "scanned_at": "2026-07-29T21:11:12.742058+00:00"
     },
     {
       "id": "scan_60fd41192008",
@@ -675,7 +690,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:21.893450+00:00"
+      "scanned_at": "2026-07-29T21:11:12.740533+00:00"
     },
     {
       "id": "scan_bbf26c3f8667",
@@ -750,7 +765,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:22.754907+00:00"
+      "scanned_at": "2026-07-29T21:11:13.454814+00:00"
     },
     {
       "id": "scan_144db07aba6c",
@@ -1010,7 +1025,7 @@
         "match": "American"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:27.448679+00:00"
+      "scanned_at": "2026-07-29T21:11:17.589397+00:00"
     },
     {
       "id": "scan_698ae43ae0fb",
@@ -1495,7 +1510,7 @@
         "match": "GENEVA"
       },
       "safe_signal": true,
-      "scanned_at": "2026-07-29T20:03:54.388010+00:00"
+      "scanned_at": "2026-07-29T21:10:41.247503+00:00"
     },
     {
       "id": "scan_cbd125f38638",
@@ -1880,7 +1895,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.129515+00:00"
+      "scanned_at": "2026-07-29T21:11:16.507742+00:00"
     },
     {
       "id": "scan_d1f22a3edbd5",
@@ -2430,7 +2445,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:21.900723+00:00"
+      "scanned_at": "2026-07-29T21:11:12.750059+00:00"
     },
     {
       "id": "scan_f5368b15cb1d",
@@ -2445,22 +2460,27 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:21.904417+00:00"
+      "scanned_at": "2026-07-29T21:11:12.755007+00:00"
     },
     {
       "id": "scan_eac4181ef439",
-      "title": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says - nytimes.com",
+      "title": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says - The New York Times",
       "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "source": "Google News (EN)",
       "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5\" target=\"_blank\">Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5\" target=\"_blank\">Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
       "status": "suspected",
       "flights": [],
-      "geo": null,
+      "geo": {
+        "country": "USA",
+        "lat": 40.71,
+        "lng": -74.01,
+        "match": "New York"
+      },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:22.758636+00:00"
+      "scanned_at": "2026-07-29T21:11:13.458587+00:00"
     },
     {
       "id": "scan_1c4bbc016813",
@@ -2475,7 +2495,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:22.766858+00:00"
+      "scanned_at": "2026-07-29T21:11:13.471086+00:00"
     },
     {
       "id": "scan_4e3a0a956a9d",
@@ -2490,7 +2510,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:22.774062+00:00"
+      "scanned_at": "2026-07-29T21:11:13.478679+00:00"
     },
     {
       "id": "scan_37cb18b5baf4",
@@ -2505,7 +2525,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:24.967211+00:00"
+      "scanned_at": "2026-07-29T21:11:15.554156+00:00"
     },
     {
       "id": "scan_839f45eb257a",
@@ -2520,7 +2540,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.121120+00:00"
+      "scanned_at": "2026-07-29T21:11:16.498121+00:00"
     },
     {
       "id": "scan_ae25fe5eaaed",
@@ -2535,7 +2555,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.126214+00:00"
+      "scanned_at": "2026-07-29T21:11:16.503925+00:00"
     },
     {
       "id": "scan_8f20dcd90769",
@@ -2552,7 +2572,7 @@
       ],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.144092+00:00"
+      "scanned_at": "2026-07-29T21:11:16.525846+00:00"
     },
     {
       "id": "scan_28069279d337",
@@ -2572,7 +2592,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:27.456364+00:00"
+      "scanned_at": "2026-07-29T21:11:17.599576+00:00"
     },
     {
       "id": "scan_ac00028c18f5",
@@ -3157,7 +3177,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.101362+00:00"
+      "scanned_at": "2026-07-29T21:11:16.474731+00:00"
     },
     {
       "id": "scan_2602cb9fe47b",
@@ -3477,7 +3497,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.835513+00:00"
+      "scanned_at": "2026-07-29T21:11:17.082183+00:00"
     },
     {
       "id": "scan_39a2484fb112",
@@ -3492,7 +3512,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:27.509522+00:00"
+      "scanned_at": "2026-07-29T21:11:17.668491+00:00"
     },
     {
       "id": "scan_6bed75a5e28a",
@@ -4347,7 +4367,7 @@
         "match": "American"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:21.898418+00:00"
+      "scanned_at": "2026-07-29T21:11:12.747046+00:00"
     },
     {
       "id": "scan_c4d8474e9697",
@@ -4362,7 +4382,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:21.923855+00:00"
+      "scanned_at": "2026-07-29T21:11:12.780254+00:00"
     },
     {
       "id": "scan_956c5e8c1fca",
@@ -4382,7 +4402,7 @@
         "match": "US"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:21.936303+00:00"
+      "scanned_at": "2026-07-29T21:11:12.797902+00:00"
     },
     {
       "id": "scan_a0f4f19d1aeb",
@@ -4402,7 +4422,7 @@
         "match": "Dutch"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:22.770911+00:00"
+      "scanned_at": "2026-07-29T21:11:13.474592+00:00"
     },
     {
       "id": "scan_9d0d013d48b7",
@@ -4417,7 +4437,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:24.984658+00:00"
+      "scanned_at": "2026-07-29T21:11:15.573262+00:00"
     },
     {
       "id": "scan_b52cbfd3a5a9",
@@ -4432,7 +4452,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.864612+00:00"
+      "scanned_at": "2026-07-29T21:11:17.123040+00:00"
     },
     {
       "id": "scan_4d1ebf1dd94c",
@@ -4831,18 +4851,18 @@
     },
     {
       "id": "scan_4979d7138232",
-      "title": "Andes virus cases on MV Hondius highlight hidden risks of confined travel - News-Medical",
+      "title": "Andes virus cases on MV Hondius highlight hidden risks of confined travel - news-medical.net",
       "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUREbmkwTUxfTGhRY0VNZVpKN1J2SUF2M1I1aFdhNHR1SlhFeHdmNnQzWWw1REwxMVJpd20tZUNTaUtsN1RMUk5nR053c3NwN0NVaHlDZGp3MUtBeGJvRFhTZ2U1bjN0Y0RILV9FaGFicmU3c3VrOTctVTVaQXdFYnQxUmtOOEVaenNodDhLMjh6UTZWM19hTXJLUnVWdTdVQ3NxRlk1bUw5YUFadGRSS1BLTmpJOE43MEo1TXJB?oc=5",
       "published": "Tue, 23 Jun 2026 07:00:00 GMT",
       "source": "Google News (EN)",
       "source_weight": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUREbmkwTUxfTGhRY0VNZVpKN1J2SUF2M1I1aFdhNHR1SlhFeHdmNnQzWWw1REwxMVJpd20tZUNTaUtsN1RMUk5nR053c3NwN0NVaHlDZGp3MUtBeGJvRFhTZ2U1bjN0Y0RILV9FaGFicmU3c3VrOTctVTVaQXdFYnQxUmtOOEVaenNodDhLMjh6UTZWM19hTXJLUnVWdTdVQ3NxRlk1bUw5YUFadGRSS1BLTmpJOE43MEo1TXJB?oc=5\" target=\"_blank\">Andes virus cases on MV Hondius highlight hidden risks of confined travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">News-Medical</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUUREbmkwTUxfTGhRY0VNZVpKN1J2SUF2M1I1aFdhNHR1SlhFeHdmNnQzWWw1REwxMVJpd20tZUNTaUtsN1RMUk5nR053c3NwN0NVaHlDZGp3MUtBeGJvRFhTZ2U1bjN0Y0RILV9FaGFicmU3c3VrOTctVTVaQXdFYnQxUmtOOEVaenNodDhLMjh6UTZWM19hTXJLUnVWdTdVQ3NxRlk1bUw5YUFadGRSS1BLTmpJOE43MEo1TXJB?oc=5\" target=\"_blank\">Andes virus cases on MV Hondius highlight hidden risks of confined travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news-medical.net</font>",
       "status": "suspected",
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:24.204653+00:00"
+      "scanned_at": "2026-07-29T21:11:14.816905+00:00"
     },
     {
       "id": "scan_5d0f46081428",
@@ -4862,7 +4882,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.132828+00:00"
+      "scanned_at": "2026-07-29T21:11:16.511526+00:00"
     },
     {
       "id": "scan_8b6139332ebe",
@@ -5662,7 +5682,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:24.196634+00:00"
+      "scanned_at": "2026-07-29T21:11:14.806189+00:00"
     },
     {
       "id": "scan_5f1002b0c8c7",
@@ -5677,7 +5697,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:24.977629+00:00"
+      "scanned_at": "2026-07-29T21:11:15.564810+00:00"
     },
     {
       "id": "scan_32a086441394",
@@ -5692,7 +5712,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.096698+00:00"
+      "scanned_at": "2026-07-29T21:11:16.469307+00:00"
     },
     {
       "id": "scan_07dd3dbfb67f",
@@ -5712,7 +5732,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.111876+00:00"
+      "scanned_at": "2026-07-29T21:11:16.475626+00:00"
     },
     {
       "id": "scan_8e94d771d50c",
@@ -5732,7 +5752,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.122912+00:00"
+      "scanned_at": "2026-07-29T21:11:16.500178+00:00"
     },
     {
       "id": "scan_18f5c16706b8",
@@ -5752,7 +5772,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.141921+00:00"
+      "scanned_at": "2026-07-29T21:11:16.521896+00:00"
     },
     {
       "id": "scan_2c95c7a5d2ca",
@@ -5997,7 +6017,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.109464+00:00"
+      "scanned_at": "2026-07-29T21:11:16.484786+00:00"
     },
     {
       "id": "scan_420aa0f9fb82",
@@ -6017,7 +6037,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.123576+00:00"
+      "scanned_at": "2026-07-29T21:11:16.500888+00:00"
     },
     {
       "id": "scan_d972bd0940c2",
@@ -6037,7 +6057,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.135651+00:00"
+      "scanned_at": "2026-07-29T21:11:16.514765+00:00"
     },
     {
       "id": "scan_03105236a8ee",
@@ -6181,18 +6201,18 @@
     },
     {
       "id": "scan_e0a870d65f51",
-      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine - The Guardian",
+      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine - theguardian.com",
       "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5",
       "published": "Sat, 20 Jun 2026 07:00:00 GMT",
       "source": "Google News (EN)",
       "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5\" target=\"_blank\">‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5\" target=\"_blank\">‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">theguardian.com</font>",
       "status": "suspected",
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:23.595546+00:00"
+      "scanned_at": "2026-07-29T21:11:14.202644+00:00"
     },
     {
       "id": "scan_c8df8bf14d0d",
@@ -6452,7 +6472,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:28.052361+00:00"
+      "scanned_at": "2026-07-29T21:11:18.149527+00:00"
     },
     {
       "id": "scan_6552af49db9b",
@@ -6667,7 +6687,7 @@
         "match": "Nebraska"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:24.178134+00:00"
+      "scanned_at": "2026-07-29T21:11:14.781831+00:00"
     },
     {
       "id": "scan_75f8b7dc269f",
@@ -7012,7 +7032,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.107261+00:00"
+      "scanned_at": "2026-07-29T21:11:16.482160+00:00"
     },
     {
       "id": "scan_bca6e6dcae2d",
@@ -7292,7 +7312,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:21.933963+00:00"
+      "scanned_at": "2026-07-29T21:11:12.794762+00:00"
     },
     {
       "id": "scan_2ac4d8338b81",
@@ -7452,7 +7472,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:21.937571+00:00"
+      "scanned_at": "2026-07-29T21:11:12.799634+00:00"
     },
     {
       "id": "scan_c5496ea3d1e7",
@@ -7977,7 +7997,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:21.925200+00:00"
+      "scanned_at": "2026-07-29T21:11:12.782002+00:00"
     },
     {
       "id": "scan_04bdf55c86f0",
@@ -8292,7 +8312,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:22.779712+00:00"
+      "scanned_at": "2026-07-29T21:11:13.486197+00:00"
     },
     {
       "id": "scan_3e6943cd6594",
@@ -8307,7 +8327,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:28.087990+00:00"
+      "scanned_at": "2026-07-29T21:11:18.195407+00:00"
     },
     {
       "id": "scan_e2758a395f4f",
@@ -8322,7 +8342,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:28.089316+00:00"
+      "scanned_at": "2026-07-29T21:11:18.197052+00:00"
     },
     {
       "id": "scan_486edda2a903",
@@ -8807,7 +8827,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.127875+00:00"
+      "scanned_at": "2026-07-29T21:11:16.505835+00:00"
     },
     {
       "id": "scan_82857124a1c0",
@@ -8822,7 +8842,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:26.141489+00:00"
+      "scanned_at": "2026-07-29T21:11:16.521423+00:00"
     },
     {
       "id": "scan_a2d064d09fde",
@@ -9282,7 +9302,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:22.782722+00:00"
+      "scanned_at": "2026-07-29T21:11:13.490123+00:00"
     },
     {
       "id": "scan_d0460c7b4bc2",
@@ -9472,7 +9492,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:23.594141+00:00"
+      "scanned_at": "2026-07-29T21:11:14.200894+00:00"
     },
     {
       "id": "scan_a5f5ba06066d",
@@ -9842,7 +9862,7 @@
         "match": "Texas"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:24.206520+00:00"
+      "scanned_at": "2026-07-29T21:11:14.819361+00:00"
     },
     {
       "id": "scan_e019f2d6b9f2",
@@ -9862,7 +9882,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:28.048000+00:00"
+      "scanned_at": "2026-07-29T21:11:18.144082+00:00"
     },
     {
       "id": "scan_2d6e1be859b3",
@@ -9877,7 +9897,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-07-29T20:04:28.073174+00:00"
+      "scanned_at": "2026-07-29T21:11:18.176288+00:00"
     },
     {
       "id": "scan_09814bf36f25",
@@ -10068,26 +10088,6 @@
       },
       "safe_signal": false,
       "scanned_at": "2026-06-06T23:47:48.798091+00:00"
-    },
-    {
-      "id": "scan_4b004ecfca7a",
-      "title": "Argentina expands hantavirus probe, sending teams to trap and test rats in Mendoza - DC News Now",
-      "title_de": "Argentinien erweitert die Hantavirus-Sonde und entsendet Teams, um Ratten in Mendoza zu fangen und zu testen - DC News Now",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbHh3d0Jnd1RpSVU1VHZ6OF9mdk1oN0JZZkwtUEZhOVVmZVU5QkQyc2RibXBpMEdpdWl3RFdaRUowVVdzb3l3U2Rna1I3bU15eHpQYlBWakl0d2pIbDNLVEtaLWVEYXB5eUVMSGhWLV9UeWdJazVxcGsyS0d2OU1EbDN4Y3ZlWV9nempFNWI3NU9qYWMzcUduNXoxOS0xMzh6c2RsRFlBcnpPcjZoVzlSQlRjVm1tZEJqTFZzY29pVDIxc1FIRFdPUFd4Rk1fUdIB0wFBVV95cUxQTTltUUhSRmlJMlNyNDJNZ2tTSTBMNmJZdVE3cTI2N2lHOFZVMVNCY2VuNDBkeEFxQ3RHUDRTRHhIRFFBR1Awc2lwd0I4bDktODZtT2k1MHZXR0pxNnA2UkxLZW9hMGx3akVPS0xNOGlUbVlaTFhPeEhRd3Y1and6amF6QnA4dlNicl9tMzF2RVpRVHh6Q25HQU1fbnNXTm9kd3I4UTI0akp0QUVWU2FLWVFDSFQwY0NWMUZ1ckdhS0tsb18xbDQ3RGVkVW1ablZjYmZr?oc=5",
-      "published": "Fri, 05 Jun 2026 23:27:32 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNbHh3d0Jnd1RpSVU1VHZ6OF9mdk1oN0JZZkwtUEZhOVVmZVU5QkQyc2RibXBpMEdpdWl3RFdaRUowVVdzb3l3U2Rna1I3bU15eHpQYlBWakl0d2pIbDNLVEtaLWVEYXB5eUVMSGhWLV9UeWdJazVxcGsyS0d2OU1EbDN4Y3ZlWV9nempFNWI3NU9qYWMzcUduNXoxOS0xMzh6c2RsRFlBcnpPcjZoVzlSQlRjVm1tZEJqTFZzY29pVDIxc1FIRFdPUFd4Rk1fUdIB0wFBVV95cUxQTTltUUhSRmlJMlNyNDJNZ2tTSTBMNmJZdVE3cTI2N2lHOFZVMVNCY2VuNDBkeEFxQ3RHUDRTRHhIRFFBR1Awc2lwd0I4bDktODZtT2k1MHZXR0pxNnA2UkxLZW9hMGx3akVPS0xNOGlUbVlaTFhPeEhRd3Y1and6amF6QnA4dlNicl9tMzF2RVpRVHh6Q25HQU1fbnNXTm9kd3I4UTI0akp0QUVWU2FLWVFDSFQwY0NWMUZ1ckdhS0tsb18xbDQ3RG",
-      "status": "suspected",
-      "flights": [],
-      "geo": {
-        "country": "Argentina",
-        "lat": -38.42,
-        "lng": -63.62,
-        "match": "Argentina"
-      },
-      "safe_signal": false,
-      "scanned_at": "2026-06-06T11:54:50.023850+00:00"
     }
   ]
 }
