@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-08-17T16:04:00.310161+00:00",
-  "total": 971,
+  "scanned_at": "2026-08-17T16:43:28.156459+00:00",
+  "total": 969,
   "items": [
     {
       "id": "scan_56f95773b3ef",
@@ -15,7 +15,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.898568+00:00"
+      "scanned_at": "2026-08-17T16:43:00.436998+00:00"
     },
     {
       "id": "scan_c6f5e0f81196",
@@ -50,7 +50,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:31.973008+00:00"
+      "scanned_at": "2026-08-17T16:43:02.345451+00:00"
     },
     {
       "id": "scan_2f3e41c69c46",
@@ -197,7 +197,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:31.977771+00:00"
+      "scanned_at": "2026-08-17T16:43:02.350225+00:00"
     },
     {
       "id": "scan_97f562830644",
@@ -243,6 +243,26 @@
       "geo": null,
       "safe_signal": false,
       "scanned_at": "2026-08-14T13:56:15.764404+00:00"
+    },
+    {
+      "id": "scan_3636f81f3131",
+      "title": "Hantavirus : cas contacts, lien avec l’épidémie de mai, risque de transmission… Ce que l’on sait que du touriste contaminé ayant transité en France - Midi Libre",
+      "title_de": "Hantavirus : cas contacts, lien avec l 'épidémie de mai, risque de transmission… Ce que l' on sait que du touriste contaminé ayant transité en France - Midi Libre",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPUTF5c0UyUlM4bHJjUjFjQzM3WFdfZjdXblJxQnNRd3lzX2hrZV9DbzlJdlhOSm9nd0JMM0psbktRMENnMnBOaDBNUDlYYVNZS054X1NyRnRoWk1jenpKM2MyMlAtVWFKTVZxMU9MQldZcnBILUhBTG5NdHIxX3daY0NYRG82MkczRGkzU3liUHNSUXlIOThiOWpQVWV2TFp6RThfMVJiU0JuRmpCUHlod3pzMU1QdXp5R0sxVlRWRVRfNERwdktBXzJnOUdxcndtcTQtRmRaNHNDcFFob3ZNVFh2YzRmT0xfZVg0Q3pBZjY4c0xlTkpueUkzem9sS2xoR284TjNpaWxJQVk4ZWU2NW1jc1RQWXR3?oc=5",
+      "published": "Fri, 07 Aug 2026 13:01:00 GMT",
+      "source": "Google News (FR)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPUTF5c0UyUlM4bHJjUjFjQzM3WFdfZjdXblJxQnNRd3lzX2hrZV9DbzlJdlhOSm9nd0JMM0psbktRMENnMnBOaDBNUDlYYVNZS054X1NyRnRoWk1jenpKM2MyMlAtVWFKTVZxMU9MQldZcnBILUhBTG5NdHIxX3daY0NYRG82MkczRGkzU3liUHNSUXlIOThiOWpQVWV2TFp6RThfMVJiU0JuRmpCUHlod3pzMU1QdXp5R0sxVlRWRVRfNERwdktBXzJnOUdxcndtcTQtRmRaNHNDcFFob3ZNVFh2YzRmT0xfZVg0Q3pBZjY4c0xlTkpueUkzem9sS2xoR284TjNpaWxJQVk4ZWU2NW1jc1RQWXR3?oc=5\" target=\"_blank\">Hantavirus : cas contacts, lien avec l’épidémie de mai, risque de transmission… Ce que l’on sait que du touriste contaminé ayant transité en France</a>",
+      "status": "suspected",
+      "flights": [],
+      "geo": {
+        "country": "France",
+        "lat": 46.23,
+        "lng": 2.21,
+        "match": "France"
+      },
+      "safe_signal": false,
+      "scanned_at": "2026-08-17T16:43:02.348909+00:00"
     },
     {
       "id": "scan_72eda0b6cfdf",
@@ -318,26 +338,6 @@
       "geo": null,
       "safe_signal": false,
       "scanned_at": "2026-08-12T18:11:40.028323+00:00"
-    },
-    {
-      "id": "scan_3636f81f3131",
-      "title": "Hantavirus : cas contacts, lien avec l’épidémie de mai, risque de transmission… Ce que l’on sait que du touriste contaminé ayant transité en France - midilibre.fr",
-      "title_de": "Hantavirus : cas contacts, lien avec l 'épidémie de mai, risque de transmission… Ce que l' on sait que du touriste contaminé ayant transité en France - midilibre.fr",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPUTF5c0UyUlM4bHJjUjFjQzM3WFdfZjdXblJxQnNRd3lzX2hrZV9DbzlJdlhOSm9nd0JMM0psbktRMENnMnBOaDBNUDlYYVNZS054X1NyRnRoWk1jenpKM2MyMlAtVWFKTVZxMU9MQldZcnBILUhBTG5NdHIxX3daY0NYRG82MkczRGkzU3liUHNSUXlIOThiOWpQVWV2TFp6RThfMVJiU0JuRmpCUHlod3pzMU1QdXp5R0sxVlRWRVRfNERwdktBXzJnOUdxcndtcTQtRmRaNHNDcFFob3ZNVFh2YzRmT0xfZVg0Q3pBZjY4c0xlTkpueUkzem9sS2xoR284TjNpaWxJQVk4ZWU2NW1jc1RQWXR3?oc=5",
-      "published": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "source": "Google News (FR)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxPUTF5c0UyUlM4bHJjUjFjQzM3WFdfZjdXblJxQnNRd3lzX2hrZV9DbzlJdlhOSm9nd0JMM0psbktRMENnMnBOaDBNUDlYYVNZS054X1NyRnRoWk1jenpKM2MyMlAtVWFKTVZxMU9MQldZcnBILUhBTG5NdHIxX3daY0NYRG82MkczRGkzU3liUHNSUXlIOThiOWpQVWV2TFp6RThfMVJiU0JuRmpCUHlod3pzMU1QdXp5R0sxVlRWRVRfNERwdktBXzJnOUdxcndtcTQtRmRaNHNDcFFob3ZNVFh2YzRmT0xfZVg0Q3pBZjY4c0xlTkpueUkzem9sS2xoR284TjNpaWxJQVk4ZWU2NW1jc1RQWXR3?oc=5\" target=\"_blank\">Hantavirus : cas contacts, lien avec l’épidémie de mai, risque de transmission… Ce que l’on sait que du touriste contaminé ayant transité en France</a>",
-      "status": "suspected",
-      "flights": [],
-      "geo": {
-        "country": "France",
-        "lat": 46.23,
-        "lng": 2.21,
-        "match": "France"
-      },
-      "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:31.976432+00:00"
     },
     {
       "id": "scan_31069d59ba83",
@@ -532,7 +532,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:30.656426+00:00"
+      "scanned_at": "2026-08-17T16:43:01.172659+00:00"
     },
     {
       "id": "scan_42206c839c94",
@@ -547,7 +547,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:31.303243+00:00"
+      "scanned_at": "2026-08-17T16:43:01.721472+00:00"
     },
     {
       "id": "scan_aacc489f1075",
@@ -562,7 +562,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:31.305008+00:00"
+      "scanned_at": "2026-08-17T16:43:01.723213+00:00"
     },
     {
       "id": "scan_5b07e37ccf32",
@@ -582,7 +582,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:31.974587+00:00"
+      "scanned_at": "2026-08-17T16:43:02.347038+00:00"
     },
     {
       "id": "scan_2bbdc5d9950b",
@@ -667,7 +667,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:31.300133+00:00"
+      "scanned_at": "2026-08-17T16:43:01.718374+00:00"
     },
     {
       "id": "scan_2cd32e46985f",
@@ -732,7 +732,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.909544+00:00"
+      "scanned_at": "2026-08-17T16:43:00.446321+00:00"
     },
     {
       "id": "scan_685fb02d1c58",
@@ -997,7 +997,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:30.604756+00:00"
+      "scanned_at": "2026-08-17T16:43:01.117311+00:00"
     },
     {
       "id": "scan_dc7b0d2853eb",
@@ -1292,7 +1292,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:25.767463+00:00"
+      "scanned_at": "2026-08-17T16:42:56.531457+00:00"
     },
     {
       "id": "scan_2da98ea4c6bb",
@@ -1517,7 +1517,7 @@
         "match": "Buenos Aires"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.912678+00:00"
+      "scanned_at": "2026-08-17T16:43:00.450916+00:00"
     },
     {
       "id": "scan_8fd5ceb47619",
@@ -1532,7 +1532,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.920324+00:00"
+      "scanned_at": "2026-08-17T16:43:00.458153+00:00"
     },
     {
       "id": "scan_c5bfd78e7585",
@@ -1552,7 +1552,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.946722+00:00"
+      "scanned_at": "2026-08-17T16:43:00.481887+00:00"
     },
     {
       "id": "scan_83e998c89d11",
@@ -1662,7 +1662,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:25.751175+00:00"
+      "scanned_at": "2026-08-17T16:42:56.514996+00:00"
     },
     {
       "id": "scan_c2d79b4d3319",
@@ -2432,7 +2432,7 @@
         "match": "GENEVA"
       },
       "safe_signal": true,
-      "scanned_at": "2026-08-17T16:02:54.878539+00:00"
+      "scanned_at": "2026-08-17T16:42:31.426535+00:00"
     },
     {
       "id": "scan_cbd125f38638",
@@ -2802,7 +2802,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.935814+00:00"
+      "scanned_at": "2026-08-17T16:43:00.471495+00:00"
     },
     {
       "id": "scan_d1f22a3edbd5",
@@ -3340,6 +3340,21 @@
       "scanned_at": "2026-07-11T09:52:09.311196+00:00"
     },
     {
+      "id": "scan_cd4ca50824ac",
+      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5\" target=\"_blank\">Hantavirus outbreak linked to cruise ship over after",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-08-17T16:42:57.150531+00:00"
+    },
+    {
       "id": "scan_1c4bbc016813",
       "title": "WHO declares Hantavirus outbreak linked to cruise ship is over - BBC",
       "title_de": "",
@@ -3352,7 +3367,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:27.124756+00:00"
+      "scanned_at": "2026-08-17T16:42:57.801903+00:00"
     },
     {
       "id": "scan_732a3809e9a7",
@@ -3367,27 +3382,22 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:27.157781+00:00"
+      "scanned_at": "2026-08-17T16:42:57.824248+00:00"
     },
     {
       "id": "scan_eac4181ef439",
-      "title": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says - The New York Times",
+      "title": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says - nytimes.com",
       "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "source": "Google News (EN)",
       "source_weight": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5\" target=\"_blank\">Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5\" target=\"_blank\">Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
       "status": "suspected",
       "flights": [],
-      "geo": {
-        "country": "USA",
-        "lat": 40.71,
-        "lng": -74.01,
-        "match": "New York"
-      },
+      "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:27.799344+00:00"
+      "scanned_at": "2026-08-17T16:42:58.419793+00:00"
     },
     {
       "id": "scan_37cb18b5baf4",
@@ -3402,7 +3412,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:28.309121+00:00"
+      "scanned_at": "2026-08-17T16:42:59.007971+00:00"
     },
     {
       "id": "scan_ae25fe5eaaed",
@@ -3417,7 +3427,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.911811+00:00"
+      "scanned_at": "2026-08-17T16:43:00.448472+00:00"
     },
     {
       "id": "scan_839f45eb257a",
@@ -3432,7 +3442,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.957971+00:00"
+      "scanned_at": "2026-08-17T16:43:00.492712+00:00"
     },
     {
       "id": "scan_13fbd30427cc",
@@ -3447,7 +3457,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:30.631228+00:00"
+      "scanned_at": "2026-08-17T16:43:01.146634+00:00"
     },
     {
       "id": "scan_28069279d337",
@@ -3467,37 +3477,22 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:31.314783+00:00"
+      "scanned_at": "2026-08-17T16:43:01.732780+00:00"
     },
     {
       "id": "scan_720566e22b2d",
-      "title": "Hantavirus : après 650 cas contacts et trois morts recensés, l’épidémie sur un navire de croisière est officiellement terminée - midilibre.fr",
+      "title": "Hantavirus : après 650 cas contacts et trois morts recensés, l’épidémie sur un navire de croisière est officiellement terminée - Midi Libre",
       "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQd1VHYlRQUVdoUzF1cThib3FpbnNWSWZqQXUwMF9xUS1SQURUV010MG0xcjlCc3h0ekdFYnRORld5cHpndUJ2c3IyQVQySVV4M21LMUMtdXd4aUF0aVhvaHhCbnU3Q0pNYkhiWjhqYjRrMnFZU2FnOWZveHMyYVR6SWRibHVTajNhM3Y3bUN3QzhUemtoUlhZSjA4WDlSYXNWanpuWUxrWUp3bGNBeXNZOE5FOWV3c0lZUnVrdXVobThPVF9BM0J5a3J3MWl0VFMxM2pWcnpKVVJPZlZLVGhtTVlGcnh3eVlmM1U5cHQ0TUlXemdUdGMySGFleVZfbnpl?oc=5",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "source": "Google News (FR)",
       "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQd1VHYlRQUVdoUzF1cThib3FpbnNWSWZqQXUwMF9xUS1SQURUV010MG0xcjlCc3h0ekdFYnRORld5cHpndUJ2c3IyQVQySVV4M21LMUMtdXd4aUF0aVhvaHhCbnU3Q0pNYkhiWjhqYjRrMnFZU2FnOWZveHMyYVR6SWRibHVTajNhM3Y3bUN3QzhUemtoUlhZSjA4WDlSYXNWanpuWUxrWUp3bGNBeXNZOE5FOWV3c0lZUnVrdXVobThPVF9BM0J5a3J3MWl0VFMxM2pWcnpKVVJPZlZLVGhtTVlGcnh3eVlmM1U5cHQ0TUlXemdUdGMySGFleVZfbnpl?oc=5\" target=\"_blank\">Hantavirus : après 650 cas contacts et trois morts recensés, l’épidémie sur un navire de croisière est officiellement terminée</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">midilibre.fr</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxQd1VHYlRQUVdoUzF1cThib3FpbnNWSWZqQXUwMF9xUS1SQURUV010MG0xcjlCc3h0ekdFYnRORld5cHpndUJ2c3IyQVQySVV4M21LMUMtdXd4aUF0aVhvaHhCbnU3Q0pNYkhiWjhqYjRrMnFZU2FnOWZveHMyYVR6SWRibHVTajNhM3Y3bUN3QzhUemtoUlhZSjA4WDlSYXNWanpuWUxrWUp3bGNBeXNZOE5FOWV3c0lZUnVrdXVobThPVF9BM0J5a3J3MWl0VFMxM2pWcnpKVVJPZlZLVGhtTVlGcnh3eVlmM1U5cHQ0TUlXemdUdGMySGFleVZfbnpl?oc=5\" target=\"_blank\">Hantavirus : après 650 cas contacts et trois morts recensés, l’épidémie sur un navire de croisière est officiellement terminée</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Midi Libre</font>",
       "status": "suspected",
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:32.022065+00:00"
-    },
-    {
-      "id": "scan_cd4ca50824ac",
-      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5\" target=\"_blank\">Hantavirus outbreak linked to cruise ship over after",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-08-17T11:36:56.564409+00:00"
+      "scanned_at": "2026-08-17T16:43:02.395167+00:00"
     },
     {
       "id": "scan_f5368b15cb1d",
@@ -4054,7 +4049,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.953266+00:00"
+      "scanned_at": "2026-08-17T16:43:00.488161+00:00"
     },
     {
       "id": "scan_ea7d7580cac2",
@@ -4073,7 +4068,7 @@
     },
     {
       "id": "scan_f812ba05d759",
-      "title": "Hantavirus en Santa Fe: confirmaron el primer caso de 2026 - ellitoral.com",
+      "title": "Hantavirus en Santa Fe: confirmaron el primer caso de 2026 - El Litoral",
       "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORjd5Vm1EUVJoSl95LXNJT19VM3JBV2NiTEtXYnZNb1VHM3kyZ0ZVSHh4SFh5blFzdVFsR3YwZGNRVnVjNnhyeHZXZ2RYOG96cGZwZW02b3R6Wl9wODBlVkdjc3c0MnJ0OE9oQW1fdTlHOTlpZjZFdG1uWm5aRjZfRHk4RVg0NlNKN2JCTkZyS0ZELWZSaVdxdkQ4aWpOd0p1U0VGNjd6SXdtb3gxdWh5TVZrT0p6OC1sNy1fU0xuM3VNNjRNU3pfcFRpY0U4ZUFDVklTVWJPQnhQYmFkeXhkWTgzTdIB6AFBVV95cUxNOXBsV1BpUzNKNTNVTGJMdUQxam1kSFpiaEFOUnBKLXpkbFFGUTdRbVR3UkJTdzJvMjdBNWx3RFJtcVFwdXg2eUg4WWNTeHNuYVppWjdRQkdNUHpHMVNmVlNlaEN1MTFUZTNWTHZ1QVhnOE9fd3RvRF9LNU11aDNKWUZ1NUFXV0s3aEhZTkYxX3BZR1lBbmVZZGI0VF9hVk5hSGpNa3RMN2tBZy0yaGFzRnpIVGtSOS1JRlNWQm5aRXdzSDY3SWFCQklNanJVNmJFOVN0M3ZWd0xNYTB3cnJpczJ6bkJMMS1H?oc=5",
       "published": "Mon, 29 Jun 2026 07:00:00 GMT",
@@ -4084,7 +4079,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.903584+00:00"
+      "scanned_at": "2026-08-17T16:43:00.442004+00:00"
     },
     {
       "id": "scan_2602cb9fe47b",
@@ -4404,7 +4399,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:30.607624+00:00"
+      "scanned_at": "2026-08-17T16:43:01.120268+00:00"
     },
     {
       "id": "scan_39a2484fb112",
@@ -5269,7 +5264,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:25.723847+00:00"
+      "scanned_at": "2026-08-17T16:42:56.487088+00:00"
     },
     {
       "id": "scan_a0f4f19d1aeb",
@@ -5289,52 +5284,7 @@
         "match": "Dutch"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:26.367675+00:00"
-    },
-    {
-      "id": "scan_9d0d013d48b7",
-      "title": "WHO: Tödlicher Hantavirus-Ausbruch soll am 2. Juli enden - Euronews.com",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFQ2VllJU3B1bUpTbE00RUprdXdmZWlpVW5BLXBsODZfTkZZWmU0RXlwdmtCXzV0T3RLXzM2MUJDTlo3aTVjSGxFV0YzbHNMbWw0SFVyZGlrWDlBOEZ2Y2hQaWtXTGpUVzN3Mkp1NUs4TzRXMXdUQUlRcnFQZWpTbWFrMHY1SVQ1ZTZxQ3RpZ2dkSTR4cHl2Y3ZQWjZjdmw1cXc?oc=5",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "source": "Google News (DE)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFQ2VllJU3B1bUpTbE00RUprdXdmZWlpVW5BLXBsODZfTkZZWmU0RXlwdmtCXzV0T3RLXzM2MUJDTlo3aTVjSGxFV0YzbHNMbWw0SFVyZGlrWDlBOEZ2Y2hQaWtXTGpUVzN3Mkp1NUs4TzRXMXdUQUlRcnFQZWpTbWFrMHY1SVQ1ZTZxQ3RpZ2dkSTR4cHl2Y3ZQWjZjdmw1cXc?oc=5\" target=\"_blank\">WHO: Tödlicher Hantavirus-Ausbruch soll am 2. Juli enden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:28.269562+00:00"
-    },
-    {
-      "id": "scan_b52cbfd3a5a9",
-      "title": "La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio - Euronews.com",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjRqZHVHQUVuQjczVy14SFFkRDRuVk5zU0FzZl8wOWI5NTVYZzB2X0d6emtDenhDTTVFcTV3emVQZ2UxRWwxcEFYTFlNS09WRXJJLTUzdmVLWDFxandEOGNteGl1YmFCYnE4eHNIb0FBREpuSE1TTmgyaDNacjdLeng0N3NDNFFKX3dicDltM0pqNVJ3Yi10bjhScHFfbGMtbXB0NXI3WmVNYzg?oc=5",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "source": "Google News (ES)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjRqZHVHQUVuQjczVy14SFFkRDRuVk5zU0FzZl8wOWI5NTVYZzB2X0d6emtDenhDTTVFcTV3emVQZ2UxRWwxcEFYTFlNS09WRXJJLTUzdmVLWDFxandEOGNteGl1YmFCYnE4eHNIb0FBREpuSE1TTmgyaDNacjdLeng0N3NDNFFKX3dicDltM0pqNVJ3Yi10bjhScHFfbGMtbXB0NXI3WmVNYzg?oc=5\" target=\"_blank\">La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:30.653317+00:00"
-    },
-    {
-      "id": "scan_352453ec1be7",
-      "title": "Santé. Hantavirus : l'épidémie devrait officiellement prendre fin le 2 juillet, selon l’OMS - Le Dauphiné Libéré",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1JWd3Y1UzhrLXVzV0tudjlVeE9ELUQwR0NvczZxY1lUb2hTS0h4RGZMMER5QkVQY0J3M0ptd2NwNGZBcklsLWZURkhxbG5nUDkySDZGcWJobTZ3a2J5Sm10aHJrajFHNll0b2ZNZFFJYmRiYlJ3MDlyVUdEUlhCSERBdDZEM3RVUFhEWjdLNWJHdms2UHFjNUVielJpYTdxVWdBWXltQjdRNlNBdEJkUWRDRE5NYkdrRHZMOFkwTFU0N2s?oc=5",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "source": "Google News (FR)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1JWd3Y1UzhrLXVzV0tudjlVeE9ELUQwR0NvczZxY1lUb2hTS0h4RGZMMER5QkVQY0J3M0ptd2NwNGZBcklsLWZURkhxbG5nUDkySDZGcWJobTZ3a2J5Sm10aHJrajFHNll0b2ZNZFFJYmRiYlJ3MDlyVUdEUlhCSERBdDZEM3RVUFhEWjdLNWJHdms2UHFjNUVielJpYTdxVWdBWXltQjdRNlNBdEJkUWRDRE5NYkdrRHZMOFkwTFU0N2s?oc=5\" target=\"_blank\">Santé. Hantavirus : l'épidémie devrait officiellement prendre fin le 2 juillet, selon l’OMS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Le Dauphiné Libéré</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:32.019734+00:00"
+      "scanned_at": "2026-08-17T16:42:57.111389+00:00"
     },
     {
       "id": "scan_956c5e8c1fca",
@@ -5354,7 +5304,52 @@
         "match": "US"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-16T23:53:43.724027+00:00"
+      "scanned_at": "2026-08-17T16:42:57.852176+00:00"
+    },
+    {
+      "id": "scan_9d0d013d48b7",
+      "title": "WHO: Tödlicher Hantavirus-Ausbruch soll am 2. Juli enden - Euronews.com",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFQ2VllJU3B1bUpTbE00RUprdXdmZWlpVW5BLXBsODZfTkZZWmU0RXlwdmtCXzV0T3RLXzM2MUJDTlo3aTVjSGxFV0YzbHNMbWw0SFVyZGlrWDlBOEZ2Y2hQaWtXTGpUVzN3Mkp1NUs4TzRXMXdUQUlRcnFQZWpTbWFrMHY1SVQ1ZTZxQ3RpZ2dkSTR4cHl2Y3ZQWjZjdmw1cXc?oc=5",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "source": "Google News (DE)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFQ2VllJU3B1bUpTbE00RUprdXdmZWlpVW5BLXBsODZfTkZZWmU0RXlwdmtCXzV0T3RLXzM2MUJDTlo3aTVjSGxFV0YzbHNMbWw0SFVyZGlrWDlBOEZ2Y2hQaWtXTGpUVzN3Mkp1NUs4TzRXMXdUQUlRcnFQZWpTbWFrMHY1SVQ1ZTZxQ3RpZ2dkSTR4cHl2Y3ZQWjZjdmw1cXc?oc=5\" target=\"_blank\">WHO: Tödlicher Hantavirus-Ausbruch soll am 2. Juli enden</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-08-17T16:42:58.968307+00:00"
+    },
+    {
+      "id": "scan_b52cbfd3a5a9",
+      "title": "La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio - Euronews.com",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjRqZHVHQUVuQjczVy14SFFkRDRuVk5zU0FzZl8wOWI5NTVYZzB2X0d6emtDenhDTTVFcTV3emVQZ2UxRWwxcEFYTFlNS09WRXJJLTUzdmVLWDFxandEOGNteGl1YmFCYnE4eHNIb0FBREpuSE1TTmgyaDNacjdLeng0N3NDNFFKX3dicDltM0pqNVJ3Yi10bjhScHFfbGMtbXB0NXI3WmVNYzg?oc=5",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "source": "Google News (ES)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjRqZHVHQUVuQjczVy14SFFkRDRuVk5zU0FzZl8wOWI5NTVYZzB2X0d6emtDenhDTTVFcTV3emVQZ2UxRWwxcEFYTFlNS09WRXJJLTUzdmVLWDFxandEOGNteGl1YmFCYnE4eHNIb0FBREpuSE1TTmgyaDNacjdLeng0N3NDNFFKX3dicDltM0pqNVJ3Yi10bjhScHFfbGMtbXB0NXI3WmVNYzg?oc=5\" target=\"_blank\">La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-08-17T16:43:01.169472+00:00"
+    },
+    {
+      "id": "scan_352453ec1be7",
+      "title": "Santé. Hantavirus : l'épidémie devrait officiellement prendre fin le 2 juillet, selon l’OMS - Le Dauphiné Libéré",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1JWd3Y1UzhrLXVzV0tudjlVeE9ELUQwR0NvczZxY1lUb2hTS0h4RGZMMER5QkVQY0J3M0ptd2NwNGZBcklsLWZURkhxbG5nUDkySDZGcWJobTZ3a2J5Sm10aHJrajFHNll0b2ZNZFFJYmRiYlJ3MDlyVUdEUlhCSERBdDZEM3RVUFhEWjdLNWJHdms2UHFjNUVielJpYTdxVWdBWXltQjdRNlNBdEJkUWRDRE5NYkdrRHZMOFkwTFU0N2s?oc=5",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "source": "Google News (FR)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1JWd3Y1UzhrLXVzV0tudjlVeE9ELUQwR0NvczZxY1lUb2hTS0h4RGZMMER5QkVQY0J3M0ptd2NwNGZBcklsLWZURkhxbG5nUDkySDZGcWJobTZ3a2J5Sm10aHJrajFHNll0b2ZNZFFJYmRiYlJ3MDlyVUdEUlhCSERBdDZEM3RVUFhEWjdLNWJHdms2UHFjNUVielJpYTdxVWdBWXltQjdRNlNBdEJkUWRDRE5NYkdrRHZMOFkwTFU0N2s?oc=5\" target=\"_blank\">Santé. Hantavirus : l'épidémie devrait officiellement prendre fin le 2 juillet, selon l’OMS</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Le Dauphiné Libéré</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-08-17T16:43:02.392788+00:00"
     },
     {
       "id": "scan_0a61cc4fc651",
@@ -5779,7 +5774,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:27.849356+00:00"
+      "scanned_at": "2026-08-17T16:42:58.472894+00:00"
     },
     {
       "id": "scan_5d0f46081428",
@@ -6599,7 +6594,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:28.782832+00:00"
+      "scanned_at": "2026-08-17T16:42:59.447247+00:00"
     },
     {
       "id": "scan_32a086441394",
@@ -6614,7 +6609,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.901420+00:00"
+      "scanned_at": "2026-08-17T16:43:00.439855+00:00"
     },
     {
       "id": "scan_07dd3dbfb67f",
@@ -6634,7 +6629,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.930597+00:00"
+      "scanned_at": "2026-08-17T16:43:00.466372+00:00"
     },
     {
       "id": "scan_8e94d771d50c",
@@ -6654,7 +6649,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.944977+00:00"
+      "scanned_at": "2026-08-17T16:43:00.480232+00:00"
     },
     {
       "id": "scan_18f5c16706b8",
@@ -6674,7 +6669,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T15:45:36.555607+00:00"
+      "scanned_at": "2026-08-17T16:43:00.505491+00:00"
     },
     {
       "id": "scan_2859b4aa6c92",
@@ -6918,23 +6913,18 @@
     },
     {
       "id": "scan_03105236a8ee",
-      "title": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship - The New York Times",
+      "title": "Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship - nytimes.com",
       "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvcmEzdUhfUGNHa3M0LWJzTGY3TFV4QU1oMzhmcDJRc3lBUjZEcUxYdnFXVDNZSTF6SXFKNl9TdmdCLVd1amQxWlNTRWo5ak12N01hSjF1d2VfN0FrUlBxQXY2WW95R1E5eGk1dWJJM0p1aXRDUzdB?oc=5",
       "published": "Sun, 21 Jun 2026 07:00:00 GMT",
       "source": "Google News (EN)",
       "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBvcmEzdUhfUGNHa3M0LWJzTGY3TFV4QU1oMzhmcDJRc3lBUjZEcUxYdnFXVDNZSTF6SXFKNl9TdmdCLVd1amQxWlNTRWo5ak12N01hSjF1d2VfN0FrUlBxQXY2WW95R1E5eGk1dWJJM0p1aXRDUzdB?oc=5\" target=\"_blank\">Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The New York Times</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTFBvcmEzdUhfUGNHa3M0LWJzTGY3TFV4QU1oMzhmcDJRc3lBUjZEcUxYdnFXVDNZSTF6SXFKNl9TdmdCLVd1amQxWlNTRWo5ak12N01hSjF1d2VfN0FrUlBxQXY2WW95R1E5eGk1dWJJM0p1aXRDUzdB?oc=5\" target=\"_blank\">Hantavirus Quarantine Ends for 18 Americans Exposed on a Cruise Ship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nytimes.com</font>",
       "status": "suspected",
       "flights": [],
-      "geo": {
-        "country": "USA",
-        "lat": 40.71,
-        "lng": -74.01,
-        "match": "New York"
-      },
+      "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:25.750119+00:00"
+      "scanned_at": "2026-08-17T16:42:56.513950+00:00"
     },
     {
       "id": "scan_862bf02ac002",
@@ -6954,7 +6944,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.925748+00:00"
+      "scanned_at": "2026-08-17T16:43:00.463344+00:00"
     },
     {
       "id": "scan_420aa0f9fb82",
@@ -6974,7 +6964,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.940356+00:00"
+      "scanned_at": "2026-08-17T16:43:00.475809+00:00"
     },
     {
       "id": "scan_74b6028f9704",
@@ -6989,7 +6979,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:31.981092+00:00"
+      "scanned_at": "2026-08-17T16:43:02.353551+00:00"
     },
     {
       "id": "scan_d972bd0940c2",
@@ -7419,7 +7409,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:31.994864+00:00"
+      "scanned_at": "2026-08-17T16:43:02.367660+00:00"
     },
     {
       "id": "scan_aeed3b87a12d",
@@ -7618,23 +7608,18 @@
     },
     {
       "id": "scan_82f6e68ba8b7",
-      "title": "Two more former MV Hondius passengers released after five weeks - Central Nebraska Today",
+      "title": "Two more former MV Hondius passengers released after five weeks - centralnebraskatoday.com",
       "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ09ld2NtRzdWbTI4V2xrLXc3Xy1fOVk3LUVGR1hfM0JoZFN3THNhdHpPS01JWWpTcWRyT0JwOTIyaVNGNlZuV0ZLNUdzRllCd0d4VFU3bnJJWHh4UElDX2c0anUwR25xc2RLbUNNeWpnMWVkVy1fY3RqOWQwa0U3dHl5S1FVRi1UUk55Z2FUQTd2b1B3LVp1SVVlYmhFbTlUeDlQRUQ5U2xScDR2Zmo2SFJ3?oc=5",
       "published": "Thu, 18 Jun 2026 07:00:00 GMT",
       "source": "Google News (EN)",
       "source_weight": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ09ld2NtRzdWbTI4V2xrLXc3Xy1fOVk3LUVGR1hfM0JoZFN3THNhdHpPS01JWWpTcWRyT0JwOTIyaVNGNlZuV0ZLNUdzRllCd0d4VFU3bnJJWHh4UElDX2c0anUwR25xc2RLbUNNeWpnMWVkVy1fY3RqOWQwa0U3dHl5S1FVRi1UUk55Z2FUQTd2b1B3LVp1SVVlYmhFbTlUeDlQRUQ5U2xScDR2Zmo2SFJ3?oc=5\" target=\"_blank\">Two more former MV Hondius passengers released after five weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Central Nebraska Today</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ09ld2NtRzdWbTI4V2xrLXc3Xy1fOVk3LUVGR1hfM0JoZFN3THNhdHpPS01JWWpTcWRyT0JwOTIyaVNGNlZuV0ZLNUdzRllCd0d4VFU3bnJJWHh4UElDX2c0anUwR25xc2RLbUNNeWpnMWVkVy1fY3RqOWQwa0U3dHl5S1FVRi1UUk55Z2FUQTd2b1B3LVp1SVVlYmhFbTlUeDlQRUQ5U2xScDR2Zmo2SFJ3?oc=5\" target=\"_blank\">Two more former MV Hondius passengers released after five weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">centralnebraskatoday.com</font>",
       "status": "suspected",
       "flights": [],
-      "geo": {
-        "country": "USA",
-        "lat": 41.49,
-        "lng": -99.9,
-        "match": "Nebraska"
-      },
+      "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:27.818590+00:00"
+      "scanned_at": "2026-08-17T16:42:58.441828+00:00"
     },
     {
       "id": "scan_75f8b7dc269f",
@@ -7979,7 +7964,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.914891+00:00"
+      "scanned_at": "2026-08-17T16:43:00.452983+00:00"
     },
     {
       "id": "scan_bca6e6dcae2d",
@@ -8259,7 +8244,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:25.775601+00:00"
+      "scanned_at": "2026-08-17T16:42:56.539344+00:00"
     },
     {
       "id": "scan_2ac4d8338b81",
@@ -8419,7 +8404,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:27.137056+00:00"
+      "scanned_at": "2026-08-17T16:42:57.800778+00:00"
     },
     {
       "id": "scan_c5496ea3d1e7",
@@ -8944,7 +8929,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:25.764530+00:00"
+      "scanned_at": "2026-08-17T16:42:56.528294+00:00"
     },
     {
       "id": "scan_04bdf55c86f0",
@@ -9259,7 +9244,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:25.771730+00:00"
+      "scanned_at": "2026-08-17T16:42:56.535491+00:00"
     },
     {
       "id": "scan_3e6943cd6594",
@@ -9274,22 +9259,22 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:32.030705+00:00"
+      "scanned_at": "2026-08-17T16:43:02.403630+00:00"
     },
     {
       "id": "scan_e2758a395f4f",
-      "title": "Hantavirus : un nouveau cas positif détecté par le Royaume-Uni chez un ancien passager du MV Hondius - L'Humanité",
+      "title": "Hantavirus : un nouveau cas positif détecté par le Royaume-Uni chez un ancien passager du MV Hondius - humanite.fr",
       "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbVVvX2M3djBBQ0NoNWFWaHRrbmEweEVOOENTNUhTOGdULWVMVWMzaUZRbkZGTkdMa0ZGcWE4bFVUa1hWR1M5VkNWelladXJhTEhlbVVqRDB5bzV6XzF3UTJTckhTZ1JldlFrWVFCZmRtNFUxQTAxRUtRRWpORGktb3ZsQnZQeW9jbjVReW1JeERnRGljLTBwZnlCT0hKeUNpYUYxeDVqSUljaUZUNnlFOFZleU1XYXdPVlQxcmw5VWhQbVZuM2RRNndpT3djQ3pKNkZYRQ?oc=5",
       "published": "Thu, 11 Jun 2026 07:00:00 GMT",
       "source": "Google News (FR)",
       "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbVVvX2M3djBBQ0NoNWFWaHRrbmEweEVOOENTNUhTOGdULWVMVWMzaUZRbkZGTkdMa0ZGcWE4bFVUa1hWR1M5VkNWelladXJhTEhlbVVqRDB5bzV6XzF3UTJTckhTZ1JldlFrWVFCZmRtNFUxQTAxRUtRRWpORGktb3ZsQnZQeW9jbjVReW1JeERnRGljLTBwZnlCT0hKeUNpYUYxeDVqSUljaUZUNnlFOFZleU1XYXdPVlQxcmw5VWhQbVZuM2RRNndpT3djQ3pKNkZYRQ?oc=5\" target=\"_blank\">Hantavirus : un nouveau cas positif détecté par le Royaume-Uni chez un ancien passager du MV Hondius</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">L'Humanité</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbVVvX2M3djBBQ0NoNWFWaHRrbmEweEVOOENTNUhTOGdULWVMVWMzaUZRbkZGTkdMa0ZGcWE4bFVUa1hWR1M5VkNWelladXJhTEhlbVVqRDB5bzV6XzF3UTJTckhTZ1JldlFrWVFCZmRtNFUxQTAxRUtRRWpORGktb3ZsQnZQeW9jbjVReW1JeERnRGljLTBwZnlCT0hKeUNpYUYxeDVqSUljaUZUNnlFOFZleU1XYXdPVlQxcmw5VWhQbVZuM2RRNndpT3djQ3pKNkZYRQ?oc=5\" target=\"_blank\">Hantavirus : un nouveau cas positif détecté par le Royaume-Uni chez un ancien passager du MV Hondius</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">humanite.fr</font>",
       "status": "suspected",
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:32.044272+00:00"
+      "scanned_at": "2026-08-17T16:43:02.417166+00:00"
     },
     {
       "id": "scan_486edda2a903",
@@ -9774,7 +9759,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.939548+00:00"
+      "scanned_at": "2026-08-17T16:43:00.475033+00:00"
     },
     {
       "id": "scan_82857124a1c0",
@@ -9789,7 +9774,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.950932+00:00"
+      "scanned_at": "2026-08-17T16:43:00.485916+00:00"
     },
     {
       "id": "scan_c70052c30dad",
@@ -9804,22 +9789,22 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.963492+00:00"
+      "scanned_at": "2026-08-17T16:43:00.496253+00:00"
     },
     {
       "id": "scan_9b6c1c4b74c5",
-      "title": "Hantavirus: ya se confirmaron 47 casos en lo que va de 2026 y más de 100 durante la temporada - Canal 12 Web",
+      "title": "Hantavirus: ya se confirmaron 47 casos en lo que va de 2026 y más de 100 durante la temporada - canal12web.com",
       "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0Nabjd2TVRPQWZfb1pIek1Wak5fZFIwR0MtbDluMTFGOFBldTZ6WGM3YXVmbVhrcTI3V0UtRDl5S29wWS1IdXZzS1BCSG9JbTA3S01nS3pnNnNqd1ZnM084X0hpRjdXa2x3QjRIaG1QYmdzakNLWEhSb3I2cnBaNkVST0F5b251Ui00dVJKamdEN3ZwSjdBa3dkZlhYaDBCODUtVk8weWJqRzExcGtIWnFQYWhFbWM?oc=5",
       "published": "Wed, 10 Jun 2026 07:00:00 GMT",
       "source": "Google News (ES)",
       "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0Nabjd2TVRPQWZfb1pIek1Wak5fZFIwR0MtbDluMTFGOFBldTZ6WGM3YXVmbVhrcTI3V0UtRDl5S29wWS1IdXZzS1BCSG9JbTA3S01nS3pnNnNqd1ZnM084X0hpRjdXa2x3QjRIaG1QYmdzakNLWEhSb3I2cnBaNkVST0F5b251Ui00dVJKamdEN3ZwSjdBa3dkZlhYaDBCODUtVk8weWJqRzExcGtIWnFQYWhFbWM?oc=5\" target=\"_blank\">Hantavirus: ya se confirmaron 47 casos en lo que va de 2026 y más de 100 durante la temporada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Canal 12 Web</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0Nabjd2TVRPQWZfb1pIek1Wak5fZFIwR0MtbDluMTFGOFBldTZ6WGM3YXVmbVhrcTI3V0UtRDl5S29wWS1IdXZzS1BCSG9JbTA3S01nS3pnNnNqd1ZnM084X0hpRjdXa2x3QjRIaG1QYmdzakNLWEhSb3I2cnBaNkVST0F5b251Ui00dVJKamdEN3ZwSjdBa3dkZlhYaDBCODUtVk8weWJqRzExcGtIWnFQYWhFbWM?oc=5\" target=\"_blank\">Hantavirus: ya se confirmaron 47 casos en lo que va de 2026 y más de 100 durante la temporada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">canal12web.com</font>",
       "status": "suspected",
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:29.968733+00:00"
+      "scanned_at": "2026-08-17T16:43:00.501239+00:00"
     },
     {
       "id": "scan_a2d064d09fde",
@@ -10059,7 +10044,7 @@
         "match": "US"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T16:03:27.853106+00:00"
+      "scanned_at": "2026-08-17T16:42:58.476650+00:00"
     }
   ]
 }
