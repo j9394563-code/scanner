@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-08-17T23:30:44.735494+00:00",
-  "total": 967,
+  "scanned_at": "2026-08-17T23:51:53.195160+00:00",
+  "total": 968,
   "items": [
     {
       "id": "scan_56f95773b3ef",
@@ -15,7 +15,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.012342+00:00"
+      "scanned_at": "2026-08-17T23:51:23.297472+00:00"
     },
     {
       "id": "scan_c6f5e0f81196",
@@ -50,7 +50,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:17.097761+00:00"
+      "scanned_at": "2026-08-17T23:51:25.147826+00:00"
     },
     {
       "id": "scan_2f3e41c69c46",
@@ -197,7 +197,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:17.109937+00:00"
+      "scanned_at": "2026-08-17T23:51:25.159895+00:00"
     },
     {
       "id": "scan_97f562830644",
@@ -337,7 +337,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:17.106347+00:00"
+      "scanned_at": "2026-08-17T23:51:25.156384+00:00"
     },
     {
       "id": "scan_31069d59ba83",
@@ -532,7 +532,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.848260+00:00"
+      "scanned_at": "2026-08-17T23:51:24.097931+00:00"
     },
     {
       "id": "scan_42206c839c94",
@@ -547,7 +547,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:16.448987+00:00"
+      "scanned_at": "2026-08-17T23:51:24.579505+00:00"
     },
     {
       "id": "scan_aacc489f1075",
@@ -562,7 +562,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:16.451992+00:00"
+      "scanned_at": "2026-08-17T23:51:24.582433+00:00"
     },
     {
       "id": "scan_5b07e37ccf32",
@@ -582,7 +582,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:17.099363+00:00"
+      "scanned_at": "2026-08-17T23:51:25.149349+00:00"
     },
     {
       "id": "scan_2bbdc5d9950b",
@@ -655,6 +655,21 @@
       "scanned_at": "2026-08-14T13:56:16.315314+00:00"
     },
     {
+      "id": "scan_98389ff57163",
+      "title": "SC confirma primeiro caso de hantavírus em 2026 e afasta relação com navio - NSC Total",
+      "title_de": "SC confirmma primeiro caso de hantavírus em 2026 e afasta relação com navio - NSC Total",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPamkzLTNNU3NHQ1VwWEpfM20xbEotZWxuVFFIQU80VGRHOXJVVkRmYlBURnRVY2NaQ3pjYjh3QUhubkdsU1QzYWczbktpZHQyRTRJSUJKVHlBR19mN0swVm1jMDFHbmZIXzJ3cXJmSTNQaHRFbFhTVzlFdm1vejBockxYc0YtVUdGMVkzZHdtcGJRYVVlQ2RHa1d2aFNnWmRUX0hvT1pEUVE0cGdN?oc=5",
+      "published": "Thu, 06 Aug 2026 03:38:00 GMT",
+      "source": "Google News (PT)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPamkzLTNNU3NHQ1VwWEpfM20xbEotZWxuVFFIQU80VGRHOXJVVkRmYlBURnRVY2NaQ3pjYjh3QUhubkdsU1QzYWczbktpZHQyRTRJSUJKVHlBR19mN0swVm1jMDFHbmZIXzJ3cXJmSTNQaHRFbFhTVzlFdm1vejBockxYc0YtVUdGMVkzZHdtcGJRYVVlQ2RHa1d2aFNnWmRUX0hvT1pEUVE0cGdN?oc=5\" target=\"_blank\">SC confirma primeiro caso de hantavírus em 2026 e afasta relação com navio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NSC Total</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-08-17T23:51:24.576545+00:00"
+    },
+    {
       "id": "scan_2cd32e46985f",
       "title": "Confirman dos nuevos casos de hantavirus en Aysén - diarioregionalaysen.cl",
       "title_de": "",
@@ -717,22 +732,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.020425+00:00"
-    },
-    {
-      "id": "scan_98389ff57163",
-      "title": "SC confirma primeiro caso de hantavírus em 2026 e afasta relação com navio - NSC Total",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPamkzLTNNU3NHQ1VwWEpfM20xbEotZWxuVFFIQU80VGRHOXJVVkRmYlBURnRVY2NaQ3pjYjh3QUhubkdsU1QzYWczbktpZHQyRTRJSUJKVHlBR19mN0swVm1jMDFHbmZIXzJ3cXJmSTNQaHRFbFhTVzlFdm1vejBockxYc0YtVUdGMVkzZHdtcGJRYVVlQ2RHa1d2aFNnWmRUX0hvT1pEUVE0cGdN?oc=5",
-      "published": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "source": "Google News (PT)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPamkzLTNNU3NHQ1VwWEpfM20xbEotZWxuVFFIQU80VGRHOXJVVkRmYlBURnRVY2NaQ3pjYjh3QUhubkdsU1QzYWczbktpZHQyRTRJSUJKVHlBR19mN0swVm1jMDFHbmZIXzJ3cXJmSTNQaHRFbFhTVzlFdm1vejBockxYc0YtVUdGMVkzZHdtcGJRYVVlQ2RHa1d2aFNnWmRUX0hvT1pEUVE0cGdN?oc=5\" target=\"_blank\">SC confirma primeiro caso de hantavírus em 2026 e afasta relação com navio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NSC Total</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:16.445922+00:00"
+      "scanned_at": "2026-08-17T23:51:23.305737+00:00"
     },
     {
       "id": "scan_685fb02d1c58",
@@ -997,7 +997,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.793225+00:00"
+      "scanned_at": "2026-08-17T23:51:24.027029+00:00"
     },
     {
       "id": "scan_dc7b0d2853eb",
@@ -1132,7 +1132,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.789102+00:00"
+      "scanned_at": "2026-08-17T23:51:24.022435+00:00"
     },
     {
       "id": "scan_75dba0211860",
@@ -1517,7 +1517,7 @@
         "match": "Buenos Aires"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.026235+00:00"
+      "scanned_at": "2026-08-17T23:51:23.311663+00:00"
     },
     {
       "id": "scan_8fd5ceb47619",
@@ -1532,7 +1532,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.052095+00:00"
+      "scanned_at": "2026-08-17T23:51:23.337328+00:00"
     },
     {
       "id": "scan_c5bfd78e7585",
@@ -1552,7 +1552,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.053829+00:00"
+      "scanned_at": "2026-08-17T23:51:23.339001+00:00"
     },
     {
       "id": "scan_83e998c89d11",
@@ -1662,7 +1662,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:10.487642+00:00"
+      "scanned_at": "2026-08-17T23:51:19.694079+00:00"
     },
     {
       "id": "scan_c2d79b4d3319",
@@ -2432,7 +2432,7 @@
         "match": "GENEVA"
       },
       "safe_signal": true,
-      "scanned_at": "2026-08-17T23:29:44.960450+00:00"
+      "scanned_at": "2026-08-17T23:50:44.080818+00:00"
     },
     {
       "id": "scan_cbd125f38638",
@@ -2802,7 +2802,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.042081+00:00"
+      "scanned_at": "2026-08-17T23:51:23.327292+00:00"
     },
     {
       "id": "scan_d1f22a3edbd5",
@@ -3352,7 +3352,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:10.483649+00:00"
+      "scanned_at": "2026-08-17T23:51:19.678787+00:00"
     },
     {
       "id": "scan_1c4bbc016813",
@@ -3367,7 +3367,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:11.152829+00:00"
+      "scanned_at": "2026-08-17T23:51:20.262611+00:00"
     },
     {
       "id": "scan_eac4181ef439",
@@ -3387,7 +3387,7 @@
         "match": "New York"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:12.716971+00:00"
+      "scanned_at": "2026-08-17T23:51:21.473943+00:00"
     },
     {
       "id": "scan_37cb18b5baf4",
@@ -3402,7 +3402,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:13.288851+00:00"
+      "scanned_at": "2026-08-17T23:51:21.894316+00:00"
     },
     {
       "id": "scan_ae25fe5eaaed",
@@ -3417,7 +3417,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.022580+00:00"
+      "scanned_at": "2026-08-17T23:51:23.307925+00:00"
     },
     {
       "id": "scan_839f45eb257a",
@@ -3432,7 +3432,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.062887+00:00"
+      "scanned_at": "2026-08-17T23:51:23.348206+00:00"
     },
     {
       "id": "scan_13fbd30427cc",
@@ -3447,7 +3447,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.823817+00:00"
+      "scanned_at": "2026-08-17T23:51:24.064671+00:00"
     },
     {
       "id": "scan_28069279d337",
@@ -3467,7 +3467,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:16.460203+00:00"
+      "scanned_at": "2026-08-17T23:51:24.590326+00:00"
     },
     {
       "id": "scan_720566e22b2d",
@@ -3482,7 +3482,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:17.144319+00:00"
+      "scanned_at": "2026-08-17T23:51:25.193901+00:00"
     },
     {
       "id": "scan_cd4ca50824ac",
@@ -4054,7 +4054,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.058425+00:00"
+      "scanned_at": "2026-08-17T23:51:23.343700+00:00"
     },
     {
       "id": "scan_ea7d7580cac2",
@@ -4084,7 +4084,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.016101+00:00"
+      "scanned_at": "2026-08-17T23:51:23.301334+00:00"
     },
     {
       "id": "scan_2602cb9fe47b",
@@ -4404,7 +4404,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.796046+00:00"
+      "scanned_at": "2026-08-17T23:51:24.030862+00:00"
     },
     {
       "id": "scan_39a2484fb112",
@@ -5269,7 +5269,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:10.461737+00:00"
+      "scanned_at": "2026-08-17T23:51:19.667138+00:00"
     },
     {
       "id": "scan_a0f4f19d1aeb",
@@ -5289,7 +5289,7 @@
         "match": "Dutch"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:11.164383+00:00"
+      "scanned_at": "2026-08-17T23:51:20.274241+00:00"
     },
     {
       "id": "scan_0a61cc4fc651",
@@ -5304,7 +5304,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:12.764230+00:00"
+      "scanned_at": "2026-08-17T23:51:21.521478+00:00"
     },
     {
       "id": "scan_9d0d013d48b7",
@@ -5319,22 +5319,22 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:13.250067+00:00"
+      "scanned_at": "2026-08-17T23:51:21.856667+00:00"
     },
     {
       "id": "scan_b52cbfd3a5a9",
-      "title": "La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio - Euronews.com",
+      "title": "La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio - Euronews",
       "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjRqZHVHQUVuQjczVy14SFFkRDRuVk5zU0FzZl8wOWI5NTVYZzB2X0d6emtDenhDTTVFcTV3emVQZ2UxRWwxcEFYTFlNS09WRXJJLTUzdmVLWDFxandEOGNteGl1YmFCYnE4eHNIb0FBREpuSE1TTmgyaDNacjdLeng0N3NDNFFKX3dicDltM0pqNVJ3Yi10bjhScHFfbGMtbXB0NXI3WmVNYzg?oc=5",
       "published": "Wed, 24 Jun 2026 07:00:00 GMT",
       "source": "Google News (ES)",
       "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjRqZHVHQUVuQjczVy14SFFkRDRuVk5zU0FzZl8wOWI5NTVYZzB2X0d6emtDenhDTTVFcTV3emVQZ2UxRWwxcEFYTFlNS09WRXJJLTUzdmVLWDFxandEOGNteGl1YmFCYnE4eHNIb0FBREpuSE1TTmgyaDNacjdLeng0N3NDNFFKX3dicDltM0pqNVJ3Yi10bjhScHFfbGMtbXB0NXI3WmVNYzg?oc=5\" target=\"_blank\">La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjRqZHVHQUVuQjczVy14SFFkRDRuVk5zU0FzZl8wOWI5NTVYZzB2X0d6emtDenhDTTVFcTV3emVQZ2UxRWwxcEFYTFlNS09WRXJJLTUzdmVLWDFxandEOGNteGl1YmFCYnE4eHNIb0FBREpuSE1TTmgyaDNacjdLeng0N3NDNFFKX3dicDltM0pqNVJ3Yi10bjhScHFfbGMtbXB0NXI3WmVNYzg?oc=5\" target=\"_blank\">La OMS prevé que el mortal brote de hantavirus acabe el 2 de julio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews</font>",
       "status": "suspected",
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.843866+00:00"
+      "scanned_at": "2026-08-17T23:51:24.092748+00:00"
     },
     {
       "id": "scan_352453ec1be7",
@@ -5349,7 +5349,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:17.147709+00:00"
+      "scanned_at": "2026-08-17T23:51:25.197239+00:00"
     },
     {
       "id": "scan_956c5e8c1fca",
@@ -5779,7 +5779,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:12.766776+00:00"
+      "scanned_at": "2026-08-17T23:51:21.523901+00:00"
     },
     {
       "id": "scan_5d0f46081428",
@@ -6599,7 +6599,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:13.770244+00:00"
+      "scanned_at": "2026-08-17T23:51:22.198618+00:00"
     },
     {
       "id": "scan_32a086441394",
@@ -6614,7 +6614,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.013951+00:00"
+      "scanned_at": "2026-08-17T23:51:23.299137+00:00"
     },
     {
       "id": "scan_07dd3dbfb67f",
@@ -6634,7 +6634,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.036911+00:00"
+      "scanned_at": "2026-08-17T23:51:23.322092+00:00"
     },
     {
       "id": "scan_8e94d771d50c",
@@ -6654,7 +6654,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.049931+00:00"
+      "scanned_at": "2026-08-17T23:51:23.335181+00:00"
     },
     {
       "id": "scan_18f5c16706b8",
@@ -6674,7 +6674,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.076493+00:00"
+      "scanned_at": "2026-08-17T23:51:23.361889+00:00"
     },
     {
       "id": "scan_2859b4aa6c92",
@@ -6934,7 +6934,7 @@
         "match": "New York"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:10.487979+00:00"
+      "scanned_at": "2026-08-17T23:51:19.696438+00:00"
     },
     {
       "id": "scan_862bf02ac002",
@@ -6954,7 +6954,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.036439+00:00"
+      "scanned_at": "2026-08-17T23:51:23.321620+00:00"
     },
     {
       "id": "scan_74b6028f9704",
@@ -6969,7 +6969,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:17.104476+00:00"
+      "scanned_at": "2026-08-17T23:51:25.154447+00:00"
     },
     {
       "id": "scan_420aa0f9fb82",
@@ -7419,7 +7419,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:17.118559+00:00"
+      "scanned_at": "2026-08-17T23:51:25.168259+00:00"
     },
     {
       "id": "scan_aeed3b87a12d",
@@ -7634,7 +7634,7 @@
         "match": "Nebraska"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:12.737341+00:00"
+      "scanned_at": "2026-08-17T23:51:21.494490+00:00"
     },
     {
       "id": "scan_75f8b7dc269f",
@@ -7979,7 +7979,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.029129+00:00"
+      "scanned_at": "2026-08-17T23:51:23.314491+00:00"
     },
     {
       "id": "scan_bca6e6dcae2d",
@@ -8259,7 +8259,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:10.511861+00:00"
+      "scanned_at": "2026-08-17T23:51:19.716784+00:00"
     },
     {
       "id": "scan_2ac4d8338b81",
@@ -8419,7 +8419,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:10.522123+00:00"
+      "scanned_at": "2026-08-17T23:51:19.706944+00:00"
     },
     {
       "id": "scan_c5496ea3d1e7",
@@ -8944,7 +8944,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:10.498381+00:00"
+      "scanned_at": "2026-08-17T23:51:19.704224+00:00"
     },
     {
       "id": "scan_04bdf55c86f0",
@@ -9259,7 +9259,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:10.505144+00:00"
+      "scanned_at": "2026-08-17T23:51:19.700735+00:00"
     },
     {
       "id": "scan_3e6943cd6594",
@@ -9274,7 +9274,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:17.166835+00:00"
+      "scanned_at": "2026-08-17T23:51:25.216290+00:00"
     },
     {
       "id": "scan_e2758a395f4f",
@@ -9289,7 +9289,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:17.175237+00:00"
+      "scanned_at": "2026-08-17T23:51:25.224338+00:00"
     },
     {
       "id": "scan_486edda2a903",
@@ -9774,7 +9774,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.045624+00:00"
+      "scanned_at": "2026-08-17T23:51:23.330840+00:00"
     },
     {
       "id": "scan_c70052c30dad",
@@ -9789,7 +9789,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.066421+00:00"
+      "scanned_at": "2026-08-17T23:51:23.351748+00:00"
     },
     {
       "id": "scan_9b6c1c4b74c5",
@@ -9804,7 +9804,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:15.072254+00:00"
+      "scanned_at": "2026-08-17T23:51:23.357636+00:00"
     },
     {
       "id": "scan_82857124a1c0",
@@ -10059,7 +10059,7 @@
         "match": "US"
       },
       "safe_signal": false,
-      "scanned_at": "2026-08-17T23:30:12.772032+00:00"
+      "scanned_at": "2026-08-17T23:51:21.529135+00:00"
     }
   ]
 }
