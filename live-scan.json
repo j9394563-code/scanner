@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-09-03T09:45:17.876321+00:00",
-  "total": 1005,
+  "scanned_at": "2026-09-03T13:58:59.385730+00:00",
+  "total": 638,
   "items": [
     {
       "id": "scan_91e886389799",
@@ -917,7 +917,7 @@
         "match": "Frankreich"
       },
       "safe_signal": false,
-      "scanned_at": "2026-09-03T09:44:44.585671+00:00"
+      "scanned_at": "2026-09-03T13:58:30.657617+00:00"
     },
     {
       "id": "scan_581679e01360",
@@ -1072,7 +1072,7 @@
         "match": "Frankreich"
       },
       "safe_signal": false,
-      "scanned_at": "2026-09-03T09:44:44.168874+00:00"
+      "scanned_at": "2026-09-03T13:58:30.626806+00:00"
     },
     {
       "id": "scan_61b49f31fbf4",
@@ -1092,7 +1092,7 @@
         "match": "Frankreich"
       },
       "safe_signal": false,
-      "scanned_at": "2026-09-03T09:44:44.589182+00:00"
+      "scanned_at": "2026-09-03T13:58:30.662856+00:00"
     },
     {
       "id": "scan_2bbdc5d9950b",
@@ -3117,7 +3117,7 @@
         "match": "GENEVA"
       },
       "safe_signal": true,
-      "scanned_at": "2026-09-03T09:43:23.553776+00:00"
+      "scanned_at": "2026-09-03T13:55:49.933619+00:00"
     },
     {
       "id": "scan_cbd125f38638",
@@ -3995,6 +3995,21 @@
       "scanned_at": "2026-07-11T09:52:09.311196+00:00"
     },
     {
+      "id": "scan_37cb18b5baf4",
+      "title": "Hantavirus auf Kreuzfahrtschiff: Drei Infizierte, drei Tote - NZZ – Neue Zürcher Zeitung",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbXFnVl9ZejZlTmxYMzhTYmpSSDFmbU40U05mNHdDTUlxRlNfeW96NWthczlnNE51ekl2UGJBMFBBRGp5V1dlTTBOZnNIZGt6UHNobjRidDlzRGxLN0JzUGM0SlpBcjVuSTZQdFJKclJvb2tVd0ctSEJsQjVOT2xEdWZEZWJLNzVucVRZRFJVT2drNlhCX3ZaemNWa3g3b0xTd0taLWpRWHV0MFlLcmFRLTNSck1DQ0JBLTJwM25WNk5CNDhGbkxUYzhHSExDWWQyUy1NVExpLW5xdWM2LVJIZllYdU9zRTFnNTcyamRZT3k?oc=5",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "source": "Google News (DE)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbXFnVl9ZejZlTmxYMzhTYmpSSDFmbU40U05mNHdDTUlxRlNfeW96NWthczlnNE51ekl2UGJBMFBBRGp5V1dlTTBOZnNIZGt6UHNobjRidDlzRGxLN0JzUGM0SlpBcjVuSTZQdFJKclJvb2tVd0ctSEJsQjVOT2xEdWZEZWJLNzVucVRZRFJVT2drNlhCX3ZaemNWa3g3b0xTd0taLWpRWHV0MFlLcmFRLTNSck1DQ0JBLTJwM25WNk5CNDhGbkxUYzhHSExDWWQyUy1NVExpLW5xdWM2LVJIZllYdU9zRTFnNTcyamRZT3k?oc=5\" target=\"_blank\">Hantavirus auf Kreuzfahrtschiff: Drei Infizierte, drei Tote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NZZ – Neue Zürcher Zeitung</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-09-03T13:58:30.634692+00:00"
+    },
+    {
       "id": "scan_108c6f10cc93",
       "title": "WHO declares hantavirus outbreak linked to cruise ship over - Reuters",
       "title_de": "",
@@ -4023,21 +4038,6 @@
       "geo": null,
       "safe_signal": false,
       "scanned_at": "2026-09-03T09:44:44.137242+00:00"
-    },
-    {
-      "id": "scan_37cb18b5baf4",
-      "title": "Hantavirus auf Kreuzfahrtschiff: Drei Infizierte, drei Tote - nzz.ch",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbXFnVl9ZejZlTmxYMzhTYmpSSDFmbU40U05mNHdDTUlxRlNfeW96NWthczlnNE51ekl2UGJBMFBBRGp5V1dlTTBOZnNIZGt6UHNobjRidDlzRGxLN0JzUGM0SlpBcjVuSTZQdFJKclJvb2tVd0ctSEJsQjVOT2xEdWZEZWJLNzVucVRZRFJVT2drNlhCX3ZaemNWa3g3b0xTd0taLWpRWHV0MFlLcmFRLTNSck1DQ0JBLTJwM25WNk5CNDhGbkxUYzhHSExDWWQyUy1NVExpLW5xdWM2LVJIZllYdU9zRTFnNTcyamRZT3k?oc=5",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "source": "Google News (DE)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbXFnVl9ZejZlTmxYMzhTYmpSSDFmbU40U05mNHdDTUlxRlNfeW96NWthczlnNE51ekl2UGJBMFBBRGp5V1dlTTBOZnNIZGt6UHNobjRidDlzRGxLN0JzUGM0SlpBcjVuSTZQdFJKclJvb2tVd0ctSEJsQjVOT2xEdWZEZWJLNzVucVRZRFJVT2drNlhCX3ZaemNWa3g3b0xTd0taLWpRWHV0MFlLcmFRLTNSck1DQ0JBLTJwM25WNk5CNDhGbkxUYzhHSExDWWQyUy1NVExpLW5xdWM2LVJIZllYdU9zRTFnNTcyamRZT3k?oc=5\" target=\"_blank\">Hantavirus auf Kreuzfahrtschiff: Drei Infizierte, drei Tote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">nzz.ch</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-09-03T09:44:44.154836+00:00"
     },
     {
       "id": "scan_839f45eb257a",
@@ -8152,7 +8152,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-09-03T09:44:44.569663+00:00"
+      "scanned_at": "2026-09-03T13:58:30.646775+00:00"
     },
     {
       "id": "scan_ce591dfb6f8e",
