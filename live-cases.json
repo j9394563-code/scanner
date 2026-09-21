@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-09-21T04:50:34.775113+00:00",
-  "total": 25,
+  "scanned_at": "2026-09-21T10:15:32.403598+00:00",
+  "total": 27,
   "cases": [
     {
       "id": "cs_dffc759425b2",
@@ -51,7 +51,7 @@
         {
           "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc3dEY19nZlY1dk1QcEFkS0FMWG1QTkZpV3B4UXFIQncxd3JKWDV5RzVYcHFoR3g4MERlU3JXWF9IU3F6N0JfS0FlQTVjNkxZakloaFU4emhxbVp5LVVCQ3A4XzBTMXpOakQySkh2VF9hRHhmRGx6b1FBNVNpbHdVbV82dDhwbExYNGNvWTNlNXQ1Q1pKY1ZfcQ?oc=5",
-          "title": "Nine UK citizens exposed to hantavirus returning to Britain - Sky News",
+          "title": "Nine UK citizens exposed to hantavirus returning to Britain - news.sky.com",
           "weight": 4
         },
         {
@@ -186,7 +186,7 @@
         {
           "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeERuT0pidkwwRDB1ZkcwYUc3OGFQUEtfOHZTTWt2R0MtOV92QUtaSEhOSDZxY2wxVi1hXzBMMU15bVpLUkFYZ1hCTk9ESzI3RmMydzJGNG5FZDlfU2l4azBkdjNzWXB2VWJBUFV6WUJMejI2TXFyNC1SdmgzaDl1VGxRaTMtS3pqQXdDVUZxYVJTejZybVl5M0d0a05uaUJIdUdmcWY1QlRxU0Vjbm5mMHp0ZU40UHNBbHNOeHF0Y3RIVDRUSHJYbF9B?oc=5",
-          "title": "Hantavirus: Tourist who transited France in July tests positive - Le Monde.fr",
+          "title": "Hantavirus: Tourist who transited France in July tests positive - lemonde.fr",
           "weight": 4
         }
       ],
@@ -408,76 +408,7 @@
       ],
       "confidence": 0.5133333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxObWN2X1hVY3puamdPRGtId01MX29rMXUwekZ5MkpFWUFyY1BoWmkwbzRaOVN4MU5LdG82bnFnNnhvS1ItQzNJdkNlOHI3REFhTlJOUGFkWDhDRWstX1NyNTYyYzg5b0k0Q0tCSlJUSnpHd1NIdWJyX0thNm9CQmNJUERhWTdvdmstVUNtcktUWGRfa3czWVNmVmdTX2k?oc=5\" target=\"_blank\">Alza de hantavirus en Chile: 49 casos y 19 fallecidos durante 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN Chile</font>",
-      "scanned_at": "2026-09-21T04:50:01.915299+00:00"
-    },
-    {
-      "id": "cs_be13cefa99c5",
-      "count": 18,
-      "status": "deceased",
-      "location": {
-        "country": "Argentina",
-        "city": "Neuquén",
-        "lat": -38.95,
-        "lng": -68.06
-      },
-      "date": "Wed, 19 Aug 2026 23:10:34 GMT",
-      "age": null,
-      "nationality": null,
-      "sex": null,
-      "flights": [],
-      "sources": [
-        {
-          "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZTFZdWMybi1lRGJGX24tN3dfR1E4R2tYMzgzaDJCV1VUU1RlUTBwajNLSFRTR1JpMGJrMEJ2Sm43eGFSQmxPdy1vRnNXSFFONG9sV01NTFZWcHJkMGdvc1ZXTE4wR21TcXdST21NU3JBQ1V6UmtPR3ozVkZPUFpGblZpcUowdDlnd29ZRXNBOXJ4STl4RjFjeVk0RE5oNTVaT3paamxsUTJSc0pidGg3ZGg4YXhMb1ZiVnJpZDNB?oc=5",
-          "title": "Hantavirus en Neuquén: murió un joven de 26 años y aislaron a 15 personas - Red43",
-          "weight": 4
-        },
-        {
-          "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSW11cXU2ck5mZFZWYm1MUjlManVNZnpqVFlTcUYyOWVOczBfaWdzcFNvaFZZVVRaQTQ5TlUwS2ZCcXVUN3Y5VlZpTnF1UnJpdmdoN0dFaG82N3NpWkZMYThPelEyR2l5SDVuMjMydUNLYnhIeUdGWVlPYVVkbVlnakNhZUxhM2J1MDRkeVd6WWJWZnhKQUZINjlDWVhUUVNEaHJ1S0NwNWp0QUZRVXozc3VZb040RE02bzh2ZTFIOVZtVDI0Qjc5LWNvbjluMXN4WXdF?oc=5",
-          "title": "Un joven de 26 años murió por hantavirus luego de contagiarse en una zona rural de Neuquén - Reconquista Radios",
-          "weight": 4
-        },
-        {
-          "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazVYSm1yMGdxMTUwUm1BNXQxdDh5b2QtZzdhTDdkT01IWFJZUWUyQXlkeS1Vc3RsYXpWYVY1Z1o3b0dJd014TWl3OTZKQWo3bmpRMkhESmxCb21KRHplc3pNZWF4WVV5MmJ0Q0VXTUkxRWFaMkZlcFJGMjdmXzdjUTZYd3pNd1dOR3RURldPdXIxQVBqdnl5SzNTRHpVUVdhS2xveDVRTlJMa2NFMTVjODlZN1NKT2p5bVdIcDVhSGk2cW5tMXhGbjU3OUI2ZHhs?oc=5",
-          "title": "Un joven de 26 años murió por hantavirus luego de contagiarse en una zona rural de Neuquén - lafolkargentina.com.ar",
-          "weight": 4
-        },
-        {
-          "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTVvd1BBUVVFQWk3dWg4RUdMbEkxLW1mNkNLei13U0wtNC1vdjl1T1lJeHNBQVIyYTRNLVZlQnRIb3UxelBzNEQxMmFmSDB4OW1haWNhMVR5MWtjR2phX2FscERGYUJSZXltMlUwWVlnQ3ViQ0pOTHNoeTBHdmRickZScXg0Rldmcml5X1FIWF9kY19BUGxaOW1iUkczSEwyNlYwZUtFbEViWEVmLVE?oc=5",
-          "title": "Murió un joven de 26 años tras ser internado por hantavirus en Neuquén - La 100",
-          "weight": 4
-        },
-        {
-          "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXBHVHpsRncwaXZSanlnWHlHdUFLNmRUcGRSV2RJYURvRjBYMlZaOTRCVUIwcDFEaTJzRTBYOHlfOWVXWUZWNlZvWU1IRGhhVjdQbnZVcGI5c05lVXNyeW9pRFNzSmNBZXBDZXJEMWdEZ1VvWk1NejFoWUNiWF9mLWFGZ1hBZC13UWlhR044dTlEOTVTM3ExaVZFTlE1OGJLX3o2aU9yd1Ywb2k0aTQ1WGZUWEhoQQ?oc=5",
-          "title": "Alerta en Neuquén: murió un joven de 26 años por hantavirus y crece la preocupación - Argentar Noticias",
-          "weight": 4
-        },
-        {
-          "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkpEbzNKUTM1cGtrRHVwSWN5WkRoc2doRU1KczE4eFFWdGZmdUdBUU1VcGVtZ01paV8wNnA3YmE4QmdnZ0kzNzVERElJbm5KUjV6c01BeE01REhZdzR6MVBiT0VyZ2pkajd6QlRSeXhRNnNDNGR2UFVMTEJwQTZxTGcyVTZKRm1NdG96bHQ3WmtrUzhtd291aTViWDZ2WTZ4M085VTBySkUxaENhTzhlSnUxR1p2STRTMWJV0gHPAUFVX3lxTE5kdEJIdjh2TUMxdVE0V3dsTnh0aVZYZTVlLTRxakRLS1ZtLThtVjFJMXpuNzdUd0QwSjRMdjktel9kVWhxVkVYYklibHp6NUQwTkJ2V2lkdS1xaWM5T1pFWXBBMWhzbk90eXlkblJWeTBPaUl6aUJYYTE4QVJVVjhjRjlUblYxTDZKT2RSOXd2RHBhRlQzR0sxcWp4YTZYVXM1SFpMcmQ1bUIzT0xEeFl6Q3hCb3N1MkpPX01MeUpVb0RuMU9yU2ZOZHFKZ1dUOA?oc=5",
-          "title": "Murió un joven de 26 años por hantavirus en Neuquén y hay 15 personas aisladas - eldoce",
-          "weight": 4
-        },
-        {
-          "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObVE4Y0tQekRBdVZrenBnNFB0LUg4SVVtdHUzRC02V0ZqaXlTWDBrV2J2RmYxMWlQOWkxUGxVVnZtTzIwR05VRmc0SkRWM05FUmlLVjBNQjJWSXZpbXAwSENvTjVNZkVGTnREaTFnR05wWWo2RnVGWFliZkE5NGczUDFWenVSODJ0dkFWZFlUOTNPaFR1eWZ0S1JYbVJNaWFFdWRSNWVEcFNhT1BYTFlwX2Q2bzVEZEdkQVRVX2NTX19RVERtQkNTZFFYOVdpVURuMlFjeWI4bXdWczkwUUhSVzNn?oc=5",
-          "title": "Neuquén: un joven de 26 años murió por hantavirus tras ser internado con fiebre y dificultad para respirar - La Radio 102.9",
-          "weight": 4
-        },
-        {
-          "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeU9XX3hPQW5DN1JGNXRDZXNVRVhsSEVjdUJrUkJ0NUpqRHNpZDJZZFc0NldhaU9DcE9YUldNeFY2QmJCb3FHM1hVSjVQUEZJY1FjS2JYVGtOdW1HbEU2ZWxQaWhBaG14dFJVYTNLYURfMHBYU3BKdHMyZUFwTTFTd1REdElKUlA3YXZ6Z3pfYUt1ckd3RmhhdEZmTGJZU2czUThPbC1R?oc=5",
-          "title": "Murió la mujer que estaba internada con hantavirus en Bariloche - Página|12",
-          "weight": 4
-        }
-      ],
-      "confidence": 0.5133333333333333,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSW11cXU2ck5mZFZWYm1MUjlManVNZnpqVFlTcUYyOWVOczBfaWdzcFNvaFZZVVRaQTQ5TlUwS2ZCcXVUN3Y5VlZpTnF1UnJpdmdoN0dFaG82N3NpWkZMYThPelEyR2l5SDVuMjMydUNLYnhIeUdGWVlPYVVkbVlnakNhZUxhM2J1MDRkeVd6WWJWZnhKQUZINjlDWVhUUVNEaHJ1S0NwNWp0QUZRVXozc3VZb040RE02bzh2ZTFIOVZtVDI0Qjc5LWNvbjluMXN4WXdF?oc=5\" target=\"_blank\">Un joven de 26 años murió por hantavirus luego de contagiarse en una zona rural de Neuquén</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reconquista Rad",
-      "scanned_at": "2026-08-24T18:21:57.647059+00:00"
+      "scanned_at": "2026-09-21T10:15:01.624707+00:00"
     },
     {
       "id": "cs_8d2d50433a1f",
@@ -572,6 +503,12 @@
         },
         {
           "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUUs0Q0t4UUQtaDU4b1BFWGZHTmg3RkVFdl8zTmFUQmtPZFFRX3dsTUZhek9pME1xeVRENnFvNjU2dWM1Q01sQlVxQ2Rob2k0cXBIQ0JhYUJ6WWlRVWpWOGU1ckhLcXF6QkxYZTNwTEdCcW1MSzNnUG1sVWlvbEYwZkVac3lVSWFUMEFTMzdyRUxMQ1AxWUlVZjc4ZHFncE1NYzRfMU1JNHlsTmFDai12WlVCZDZSMURU?oc=5",
+          "title": "Hantavirus: The Lancet destaca la respuesta de Argentina y la cooperación científica internacional - Argentina.gob.ar",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPamlUUF9NTWRZX1JXVHBqLTRrdlNCLUp5eHh0cklWQ1dobTlXdFdfOGlDT2ZReGVGNkM0ME50a3N3eUlNUHhNZm5QNDctNU9IRE9Bb0tndDFNQ3hnVVlPQ1R2ejFEbXIzSDVSU2JPWWp6bnB1RW5KNTlycUVON2hjdW1XSXJ0TVF2dnk4enhWWjFkM2hrMEp6SnNaeVBSQVE5WlhQOXhwbHFGSGg5dWZ4LVFPZ1lVbmtLaEh0dF91WWx0MnhDd05nZldmY091ZTNaUkFaTW1takZDQdIB9AFBVV95cUxNSENzVzRDeFg4X0tsX2kyMWZ0N0ZyUWtfaWJHdGlySXoxUWR6Q1FocFItbTVra0J2YzJQNFdRQ192bWM4dnBnREI2OTZWU0lGeW9aSGVZbENlSlUyRVZsNVMyQ1M3Y0k2TllIZjlEWngzbEFLWDVjbzJWeHZfcWJXX21ETjFoSWpFaG1YMXNVejhleTBfRlJoSUxLVnpxQWdPbjRwVHZsUWxzZ2REN1VmNkh1Ulh4U056RzlNcl8ydFRCYVpOcVJvWEpsaDRpTUxjWWQ2QWRzWGtoQ3ppMlh1dkloZERzeUFuN1Vkb0lrYy1MUzcy?oc=5",
           "title": "The Lancet destacó la respuesta de Argentina al brote de hantavirus en el crucero MV Hondius - Infobae",
           "weight": 4
@@ -597,12 +534,6 @@
         {
           "source": "Google News (ES)",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GRGp0WGw1a2g0SXhzdnVWQ3FWN1RCZHQ3WENJN3NvS1lPZWVxUEtxM2pMbThNM2JoOVpxTmJJcmpSdm9KWkFMQWZGMFRGVEhVUXhIYXFnYVNwcFJ3N2V1aTZHbW54NGJwaTY0QlIyaWllWmhIajZwNtIBeEFVX3lxTE9LR1VCenBneTJMQVhpQmx1TjhpbktZWDdCUjZ6U3lFVDJtLWhib2taWFB6YVlCT2U4S2FVaWQxNEdZbmZxT3JYX0xrdkdfZ2ljR0dybG5ORXN1aWd0N2hfMlRVSnBDZmF6ZEZZck9aWVVLV0xmU0lXVQ?oc=5",
-          "title": "Detectado un nuevo caso de hantavirus en España: aislado \"con su familia\" en Galicia un ciudadano que estuvo de viaje en Argentina - El Mundo",
-          "weight": 4
-        },
-        {
-          "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GRGp0WGw1a2g0SXhzdnVWQ3FWN1RCZHQ3WENJN3NvS1lPZWVxUEtxM2pMbThNM2JoOVpxTmJJcmpSdm9KWkFMQWZGMFRGVEhVUXhIYXFnYVNwcFJ3N2V1aTZHbW54NGJwaTY0QlIyaWllWmhIajZwNg?oc=5",
           "title": "Detectado un nuevo caso de hantavirus en España: aislado \"con su familia\" en Galicia un ciudadano que estuvo de viaje en Argentina - El Mundo",
           "weight": 4
         }
@@ -823,7 +754,7 @@
     },
     {
       "id": "cs_4e532ea0fc54",
-      "count": 7,
+      "count": 2,
       "status": "suspected",
       "location": {
         "country": "Brazil",
@@ -864,13 +795,13 @@
         {
           "source": "Google News (PT)",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGNlSU53NWM3czRmUm9BeHp6R01uOXFfaVJRNE94S25qc2ZaZWltNXgzeHZlVWdBTmthTTBYU3gtLWVmVnNqV29vY09yVzV2VHpDUGdUWnlaR1llLVU3VFpjamt4MEs5amtySXhSTC1UemdscmFEd2RCSkVEVTFLYWxZamVuQ0JEMEMyT09wdWhtYWJ5MGx2TXBpLUFBSVYwNWZ1a0pnMG5BWFh5VFBr?oc=5",
-          "title": "Hantavírus no Brasil: dados apontam tendência de redução de casos - cnnbrasil.com.br",
+          "title": "Hantavírus no Brasil: dados apontam tendência de redução de casos - CNN Brasil",
           "weight": 4
         },
         {
           "source": "Google News (PT)",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY1FSam5RSTFOT2RmdmxPcXE3VF95SEk4SUlWVEIxZ2w1blptVElCV29VdnV2Q1I1NURUamZ3NEk2Tm9QS0ZOOHpnRmltOVROUi1xZGpSaTB1SnpINzlaVlp4RDNhRUp2dTljN0FOeXBWQTRtSTFWejdiSV93NU1GM2JRaFcwX1BvQ0hoZ1p3Vzh0WEEtSU5odmRRakl6UkVB?oc=5",
-          "title": "Minas Gerais registra única morte por hantavírus no Brasil em 2026 - Afya | Home",
+          "title": "Minas Gerais registra única morte por hantavírus no Brasil em 2026 - portal.afya.com.br",
           "weight": 4
         },
         {
@@ -881,8 +812,8 @@
         },
         {
           "source": "Google News (PT)",
-          "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNDVTalNkN0l6NTBjWG9tQkpXQTRUcktSOWRDWk9mcERfbmNaSlZhakpMcEtQbWtXY0ktSnZsTmVqZWlvWWJsUXhMaUMyWmZsQlZCOU1OWXVqVjF3ZU9iRWl4N3FXbjhkM0dTd2FhMVVjOWpfcmdtam1pUmVMQVlvcUdKYmJNWmk0VVZFMmE3eWpHOW9pRG9yMlFOM2VtZE0xU0pHMDVuOGZNbnNIZXUwSE8wQlVVMG5IXzBjbmhDNEJCbEhEcVhJVXZnYnlpajAzUFJqUEFQb240QXpwb1BPLVNONDRJbmo0SnVZVmlEUjlKZDJhRjZN?oc=5",
-          "title": "Brasil tem 7 casos de hantavírus em 2026, mas sem relação com navio - Terra",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1RZczM1SG1JbTdDcEhjbmFPemZRb2VnLVUtSFBwcVNpc2V1RURIeTBWRjRZa3V1RXBlbVIwZThUUFZfVlhaRXhLNTl0UTVPV1lVQUs0U2E5WUtwdVl4dkFyZmpVRF9zN05KN19yVGNPYThhejJMQ01nU1BKTUd0TkU3V3ZGMklyQXBDbjdiM2xQbU1aZVV4UU5mbGlSRmRyV0VLMXZHdy0tbk1rZGpQWi1lWXlFZzJvYnRnTG5JcjZfYjgy?oc=5",
+          "title": "Casos de hantavírus registrados no Paraná são de variante diferente do surto da doença no navio - Jovem Pan",
           "weight": 4
         }
       ],
@@ -958,6 +889,75 @@
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd3E3T1B1Q1VJOU9PeXNlelBkNFBBQ2RrYVpWbXJ4d1BpMWxCeTl0b0c4R3pEQXZyR1BfTVN5R0YzQTdrbnJYZm5BZUFIWFJTeEZ5QlBua3NIeXlnLWlkX1RXN004SkhBQTZMWXN3V3dBM0NrMkQwWmoyckpZVU5YcjBvWXMzeEdfRGJrc0l0R3VkNnFPbHJFbDZOZW1YWWQzbXB3RFpKdEV6X1Rxb0FZdjNHNm9ELWJZZTM4RjJfWmE5UmZCSjl2R0ZKUGgzdll1X3c?oc=5\" target=\"_blank\">Hantavirus en Chile: aumentan los casos y expertos llaman a reforzar las medidas de prevención</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Canal 9 Bío ",
       "scanned_at": "2026-08-28T06:50:05.315295+00:00"
+    },
+    {
+      "id": "cs_be13cefa99c5",
+      "count": 1,
+      "status": "deceased",
+      "location": {
+        "country": "Argentina",
+        "city": "Neuquén",
+        "lat": -38.95,
+        "lng": -68.06
+      },
+      "date": "Wed, 19 Aug 2026 23:10:34 GMT",
+      "age": null,
+      "nationality": null,
+      "sex": null,
+      "flights": [],
+      "sources": [
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZTFZdWMybi1lRGJGX24tN3dfR1E4R2tYMzgzaDJCV1VUU1RlUTBwajNLSFRTR1JpMGJrMEJ2Sm43eGFSQmxPdy1vRnNXSFFONG9sV01NTFZWcHJkMGdvc1ZXTE4wR21TcXdST21NU3JBQ1V6UmtPR3ozVkZPUFpGblZpcUowdDlnd29ZRXNBOXJ4STl4RjFjeVk0RE5oNTVaT3paamxsUTJSc0pidGg3ZGg4YXhMb1ZiVnJpZDNB?oc=5",
+          "title": "Hantavirus en Neuquén: murió un joven de 26 años y aislaron a 15 personas - Red43",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSW11cXU2ck5mZFZWYm1MUjlManVNZnpqVFlTcUYyOWVOczBfaWdzcFNvaFZZVVRaQTQ5TlUwS2ZCcXVUN3Y5VlZpTnF1UnJpdmdoN0dFaG82N3NpWkZMYThPelEyR2l5SDVuMjMydUNLYnhIeUdGWVlPYVVkbVlnakNhZUxhM2J1MDRkeVd6WWJWZnhKQUZINjlDWVhUUVNEaHJ1S0NwNWp0QUZRVXozc3VZb040RE02bzh2ZTFIOVZtVDI0Qjc5LWNvbjluMXN4WXdF?oc=5",
+          "title": "Un joven de 26 años murió por hantavirus luego de contagiarse en una zona rural de Neuquén - Reconquista Radios",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazVYSm1yMGdxMTUwUm1BNXQxdDh5b2QtZzdhTDdkT01IWFJZUWUyQXlkeS1Vc3RsYXpWYVY1Z1o3b0dJd014TWl3OTZKQWo3bmpRMkhESmxCb21KRHplc3pNZWF4WVV5MmJ0Q0VXTUkxRWFaMkZlcFJGMjdmXzdjUTZYd3pNd1dOR3RURldPdXIxQVBqdnl5SzNTRHpVUVdhS2xveDVRTlJMa2NFMTVjODlZN1NKT2p5bVdIcDVhSGk2cW5tMXhGbjU3OUI2ZHhs?oc=5",
+          "title": "Un joven de 26 años murió por hantavirus luego de contagiarse en una zona rural de Neuquén - lafolkargentina.com.ar",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWTVvd1BBUVVFQWk3dWg4RUdMbEkxLW1mNkNLei13U0wtNC1vdjl1T1lJeHNBQVIyYTRNLVZlQnRIb3UxelBzNEQxMmFmSDB4OW1haWNhMVR5MWtjR2phX2FscERGYUJSZXltMlUwWVlnQ3ViQ0pOTHNoeTBHdmRickZScXg0Rldmcml5X1FIWF9kY19BUGxaOW1iUkczSEwyNlYwZUtFbEViWEVmLVE?oc=5",
+          "title": "Murió un joven de 26 años tras ser internado por hantavirus en Neuquén - La 100",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXBHVHpsRncwaXZSanlnWHlHdUFLNmRUcGRSV2RJYURvRjBYMlZaOTRCVUIwcDFEaTJzRTBYOHlfOWVXWUZWNlZvWU1IRGhhVjdQbnZVcGI5c05lVXNyeW9pRFNzSmNBZXBDZXJEMWdEZ1VvWk1NejFoWUNiWF9mLWFGZ1hBZC13UWlhR044dTlEOTVTM3ExaVZFTlE1OGJLX3o2aU9yd1Ywb2k0aTQ1WGZUWEhoQQ?oc=5",
+          "title": "Alerta en Neuquén: murió un joven de 26 años por hantavirus y crece la preocupación - Argentar Noticias",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkpEbzNKUTM1cGtrRHVwSWN5WkRoc2doRU1KczE4eFFWdGZmdUdBUU1VcGVtZ01paV8wNnA3YmE4QmdnZ0kzNzVERElJbm5KUjV6c01BeE01REhZdzR6MVBiT0VyZ2pkajd6QlRSeXhRNnNDNGR2UFVMTEJwQTZxTGcyVTZKRm1NdG96bHQ3WmtrUzhtd291aTViWDZ2WTZ4M085VTBySkUxaENhTzhlSnUxR1p2STRTMWJV0gHPAUFVX3lxTE5kdEJIdjh2TUMxdVE0V3dsTnh0aVZYZTVlLTRxakRLS1ZtLThtVjFJMXpuNzdUd0QwSjRMdjktel9kVWhxVkVYYklibHp6NUQwTkJ2V2lkdS1xaWM5T1pFWXBBMWhzbk90eXlkblJWeTBPaUl6aUJYYTE4QVJVVjhjRjlUblYxTDZKT2RSOXd2RHBhRlQzR0sxcWp4YTZYVXM1SFpMcmQ1bUIzT0xEeFl6Q3hCb3N1MkpPX01MeUpVb0RuMU9yU2ZOZHFKZ1dUOA?oc=5",
+          "title": "Murió un joven de 26 años por hantavirus en Neuquén y hay 15 personas aisladas - eldoce",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObVE4Y0tQekRBdVZrenBnNFB0LUg4SVVtdHUzRC02V0ZqaXlTWDBrV2J2RmYxMWlQOWkxUGxVVnZtTzIwR05VRmc0SkRWM05FUmlLVjBNQjJWSXZpbXAwSENvTjVNZkVGTnREaTFnR05wWWo2RnVGWFliZkE5NGczUDFWenVSODJ0dkFWZFlUOTNPaFR1eWZ0S1JYbVJNaWFFdWRSNWVEcFNhT1BYTFlwX2Q2bzVEZEdkQVRVX2NTX19RVERtQkNTZFFYOVdpVURuMlFjeWI4bXdWczkwUUhSVzNn?oc=5",
+          "title": "Neuquén: un joven de 26 años murió por hantavirus tras ser internado con fiebre y dificultad para respirar - La Radio 102.9",
+          "weight": 4
+        },
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeU9XX3hPQW5DN1JGNXRDZXNVRVhsSEVjdUJrUkJ0NUpqRHNpZDJZZFc0NldhaU9DcE9YUldNeFY2QmJCb3FHM1hVSjVQUEZJY1FjS2JYVGtOdW1HbEU2ZWxQaWhBaG14dFJVYTNLYURfMHBYU3BKdHMyZUFwTTFTd1REdElKUlA3YXZ6Z3pfYUt1ckd3RmhhdEZmTGJZU2czUThPbC1R?oc=5",
+          "title": "Murió la mujer que estaba internada con hantavirus en Bariloche - Página|12",
+          "weight": 4
+        }
+      ],
+      "confidence": 0.4633333333333333,
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSW11cXU2ck5mZFZWYm1MUjlManVNZnpqVFlTcUYyOWVOczBfaWdzcFNvaFZZVVRaQTQ5TlUwS2ZCcXVUN3Y5VlZpTnF1UnJpdmdoN0dFaG82N3NpWkZMYThPelEyR2l5SDVuMjMydUNLYnhIeUdGWVlPYVVkbVlnakNhZUxhM2J1MDRkeVd6WWJWZnhKQUZINjlDWVhUUVNEaHJ1S0NwNWp0QUZRVXozc3VZb040RE02bzh2ZTFIOVZtVDI0Qjc5LWNvbjluMXN4WXdF?oc=5\" target=\"_blank\">Un joven de 26 años murió por hantavirus luego de contagiarse en una zona rural de Neuquén</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reconquista Rad",
+      "scanned_at": "2026-08-24T18:21:57.647059+00:00"
     },
     {
       "id": "cs_72eda0b6cfdf",
@@ -1068,7 +1068,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQZkxQODJSb3ZPSVVIWGFqdTBFVUJfVDU5YUw4MTdOLTBiZzBPX0FPSVRWNXRrV1pfSE1YSlRKNjdiYU12Y0QzM0dmNGt5bWdKWjNTbVFsU0ZRTUhLbmEycUVrRFItQ1pRWTZ4Y1ZtN3R0NXBReVNNYmRuU0hjc0sybDJqS3YxOFNHd3o5NzRSQTk?oc=5\" target=\"_blank\">Brasil teve uma morte por hantavírus confirmada em 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Jovem Pan</font>",
-      "scanned_at": "2026-09-21T04:50:06.149682+00:00"
+      "scanned_at": "2026-09-21T10:15:06.299362+00:00"
     },
     {
       "id": "cs_f61ebade30d1",
@@ -1095,7 +1095,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUGdVWC1FSWRHNVFfeUdhM1o2cVVxRGd1S2VrQVZwRnE5Q2Z0ckZZVFdQbjc4WkE3Qy1OaTAxNmdBRWM4TkhjR1FlMXV3UnFOUnprWlMzZDR1RzdaTVRJX3J4a3pUb0U3YThYVmpoS3BnUV9tWDNQMl9EZDB2MDVqLTlMQXFyTG02TVhaTTlpWG91TXBfWTFreGZZSFdqNWtMb3Riak94Qk1PX1BWMWc2SVpiOUw?oc=5\" target=\"_blank\">Erster Verdachtsfall auf Hantavirus in Portugal bestätigt sich nicht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "scanned_at": "2026-09-21T04:50:03.641506+00:00"
+      "scanned_at": "2026-09-21T10:15:03.524287+00:00"
     },
     {
       "id": "cs_8fdcc8ed44e3",
@@ -1122,7 +1122,61 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPanNkckt0a010ZVBScmkzejZfdFo3aXQ1aFRjNmJEalphT2htZWlCcjYyel8za3FfbGFsZ3M2RVFzNzd2cU0xbEJUcTNwX2pPTmE5b212QUhyOW1JWERUenJjOVpVLXZiWDEyd3M5anBaWFdGaGxoRXFFaWp6OFFDeXRmVkwxaVBjM09JYkpta3VOWm4xQUh4alhjZlBnWXFDSVdWOTlKNG9VSTY4TU1xT2JCRkxEcS1XR2pqTUR4RWdYZ0Q5YS1ndHBMdV9nVzRud0E5aHBnWklIeUg2S2xINWp6Tmc4Qkx2ZVZN?oc=5\" target=\"_blank\">Hantavirus : un nouveau cas confirmé au Canada chez une passagère du navire MV Hondius</a>&nbsp;&nbsp;<font col",
-      "scanned_at": "2026-09-21T04:50:06.806695+00:00"
+      "scanned_at": "2026-09-21T10:15:06.982556+00:00"
+    },
+    {
+      "id": "cs_804a25922135",
+      "count": 1,
+      "status": "confirmed",
+      "location": {
+        "country": "Ascension Island",
+        "city": "Ascension",
+        "lat": -7.96,
+        "lng": -14.37
+      },
+      "date": "Sun, 17 May 2026 07:00:00 GMT",
+      "age": null,
+      "nationality": null,
+      "sex": null,
+      "flights": [],
+      "sources": [
+        {
+          "source": "Google News (FR)",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQV1BydVhVdjNwOWxsSF9CRTUwaklEZVA3UFYtUXVHTi1WYmxKZUNtS05TaDFrak1meDMydlVoWjV2ZjlTbG91Q3hFZmU0dnFPM05ieTFnT1ItUHNoOVlpNjZWYkZvOW1LU1RzbnRWU2xPLVVPU1drQjllNjlNY0NZY0FudlkzZFNGNjNBR3RHem5uRklYMjBqREE2dV9wd1JZdXJDMTVCeTdFVkNHMTd2VS1ERzBGQVJBcGp4ZWZxdzN4WkV2a245UWtQeHNvRHNmUkZWSzdINWxiTTh2ZzJpeV8tVi1rNmM2ZHdySkdFRVBDX0pLdjJiZklIRmtWWDJVV1IwZDdzY3cxY1Fhb0pRT2JXSmtRODBMeTZNYmoyc1d1aDBoaWhJZjBR?oc=5",
+          "title": "Hantavirus : un cas confirmé au Canada, neuf personnes transférées de Sainte-Hélène et l’Ascension vers le Royaume-Uni - Ouest-France",
+          "weight": 4
+        }
+      ],
+      "confidence": 0.4633333333333333,
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiqgJBVV95cUxQV1BydVhVdjNwOWxsSF9CRTUwaklEZVA3UFYtUXVHTi1WYmxKZUNtS05TaDFrak1meDMydlVoWjV2ZjlTbG91Q3hFZmU0dnFPM05ieTFnT1ItUHNoOVlpNjZWYkZvOW1LU1RzbnRWU2xPLVVPU1drQjllNjlNY0NZY0FudlkzZFNGNjNBR3RHem5uRklYMjBqREE2dV9wd1JZdXJDMTVCeTdFVkNHMTd2VS1ERzBGQVJBcGp4ZWZxdzN4WkV2a245UWtQeHNvRHNmUkZWSzdINWxiTTh2ZzJpeV8tVi1rNmM2ZHdySkdFRVBDX0pLdjJiZklIRmtWWDJVV1IwZDdzY3cxY1Fhb0pRT2JXSmtRODBMeTZNYmoyc1d1aDBoaWhJZjBR?oc=5\" target=\"_blank\">Hantavirus : un cas confirm",
+      "scanned_at": "2026-09-21T10:15:06.986906+00:00"
+    },
+    {
+      "id": "cs_26a026df670e",
+      "count": 1,
+      "status": "deceased",
+      "location": {
+        "country": "Brazil",
+        "city": "Brazil",
+        "lat": -14.24,
+        "lng": -51.93
+      },
+      "date": "Tue, 12 May 2026 07:00:00 GMT",
+      "age": null,
+      "nationality": null,
+      "sex": null,
+      "flights": [],
+      "sources": [
+        {
+          "source": "Google News (PT)",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0l3WW8zeWtlS2ZRTkw3YkZnak1ERHRYMWZDT1laSXB6azNwQ0ozNGxRTEJZMDVRV080VVp6MmYwejFReWpxOFB6NnF6OUFoSDlyUW55OWRiT21rZUh0WGpVcVBQdl81YndxV2paWllzckU2UnZlaUM1ZlZYaFV0a2hyd0FJRDFrUk85Q3gwRm1oVUNhZXJfUHdlcjRYSkNGRW1hdW5ORktJSzJLUkZZN2hEcHJzOHEteXfSAb8BQVVfeXFMTS1paXJNYXFSdGdKSTRfVks2V3RXZlJUSzB2UWh0ZXAwWFFuY1lTVjNSUkxJOUlBN3N0d1NKS3Fpb1Yza0JkVGNaTGJiRXh1UU1oX09sQ2czcERsQ3NfZkVSTTNBVk1mYUs0VVFjbXF5Z3ZCa1VmRXJKUzE2alFfNHRfemFPMzlISjFiNFFRZ1kyUDRWOGJzZThaNmJ2a25PZnNLTkZuY3R4RzlnZGl0UktwZGNwQ19ENkJ4dnVYdnM?oc=5",
+          "title": "RS confirma dois casos de hantavírus; um homem morreu - Correio Braziliense",
+          "weight": 4
+        }
+      ],
+      "confidence": 0.4633333333333333,
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0l3WW8zeWtlS2ZRTkw3YkZnak1ERHRYMWZDT1laSXB6azNwQ0ozNGxRTEJZMDVRV080VVp6MmYwejFReWpxOFB6NnF6OUFoSDlyUW55OWRiT21rZUh0WGpVcVBQdl81YndxV2paWllzckU2UnZlaUM1ZlZYaFV0a2hyd0FJRDFrUk85Q3gwRm1oVUNhZXJfUHdlcjRYSkNGRW1hdW5ORktJSzJLUkZZN2hEcHJzOHEteXfSAb8BQVVfeXFMTS1paXJNYXFSdGdKSTRfVks2V3RXZlJUSzB2UWh0ZXAwWFFuY1lTVjNSUkxJOUlBN3N0d1NKS3Fpb1Yza0JkVGNaTGJiRXh1UU1oX09sQ2czcERsQ3NfZkVSTTNBVk1mYUs0VVFjbXF5Z3ZCa1VmRXJKUzE2alFfNHRfemFPMzlISjFiNFFRZ1kyUD",
+      "scanned_at": "2026-09-21T10:15:06.342797+00:00"
     },
     {
       "id": "cs_2d43915f71f4",
@@ -1149,7 +1203,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkxaUkdQa2pnZS02aU5jbmNOaUpaRE50LTFKcVktR2tTWUtJZWpYc2lua1kyX3I2WjIwdnlQTDhPM3VkMnUzZllvYXhFUi1MeDA3NHNOMDZIY3BHMGliTW1JaGduNzN6T0FfRkNGUDd3d091QW52a1VpSE9ZOUhzbVNEYll3QUp6MDJ3OGlqVGtpTHNnMVJpd0ltWDRITFpYdExKWHd3NDBSRElHMi0yWUlIb3pSWDZIZVRneFFSaXBzUUJJMG9mbXdxdG91QQ?oc=5\" target=\"_blank\">Ausbruch auf Kreuzfahrtschiff - WHO bestätigt 6 Hantavirus-Fälle – neuer Verdachtsfall in Spanien</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SRF</font>",
-      "scanned_at": "2026-09-21T04:50:04.010895+00:00"
+      "scanned_at": "2026-09-21T10:15:04.008424+00:00"
     }
   ]
 }
