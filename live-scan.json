@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-10-20T21:53:42.992535+00:00",
-  "total": 968,
+  "scanned_at": "2026-10-21T00:25:44.847942+00:00",
+  "total": 913,
   "items": [
     {
       "id": "scan_1f1aa3217f99",
@@ -15,7 +15,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.725258+00:00"
+      "scanned_at": "2026-10-21T00:25:29.821300+00:00"
     },
     {
       "id": "scan_fd32fa890b51",
@@ -45,12 +45,12 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.723837+00:00"
+      "scanned_at": "2026-10-21T00:25:29.819095+00:00"
     },
     {
       "id": "scan_2aa1f53cd96d",
       "title": "Hantavirus en Argentina: se confirmaron 112 casos y hay dos regiones bajo la lupa - Los Andes",
-      "title_de": "Hantavirus in Argentinien: se confirmaron 112 casos y hay dos regiones bajo la lupa - Los Andes",
+      "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFAzTjhWOGJ0QWdHX0h4NFdnN3BoRWltanNBYnlRNlM2NHhoZWRkVm51VkV0RWRvMU9qdHhfM0l1U0NRbjFZYUhIS3dKU0liQlFBV1gyb3NuTXpDOTU5a3NWMHRrZklMQlJQQWszWXczYkRXa2EwempzbzlJaGozekR0d080Mkg4RlN1OHA4NTJOVWdDWUxlTGtPLTJudmpEUUdyQ0dUTEEwXzA2MnJ0emxNTHcxdHRsQ1E?oc=5",
       "published": "Tue, 20 Oct 2026 17:49:00 GMT",
       "source": "Google News (ES)",
@@ -65,7 +65,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.722938+00:00"
+      "scanned_at": "2026-10-21T00:25:29.815908+00:00"
     },
     {
       "id": "scan_35746bd77c6e",
@@ -100,7 +100,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.726556+00:00"
+      "scanned_at": "2026-10-21T00:25:29.823253+00:00"
     },
     {
       "id": "scan_f684e952c7a4",
@@ -123,6 +123,21 @@
       },
       "safe_signal": false,
       "scanned_at": "2026-10-20T21:53:09.446814+00:00"
+    },
+    {
+      "id": "scan_f3712d684280",
+      "title": "Hantavirus: se notificaron 112 casos confirmados - Agencia Noticias Argentinas",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUl5ZnA4WXRoSzBUMmpxOVk5MW9MclU3YnVQeHUyQm96Tk1UWkRQdkVjWkQtZnFDcldGTTZ6anJvSTBmcWRPV2NxVGU2MWRmTUswWXM5QzlELXRvSkpCSDZCWkdMZEEycEVDZFlkczhKaXZJQ1RjLUp4dXBud3NiZHZ0RGFfVzdJeGV0X1k4aW5qZDB2eTVNMXFuSll5X2NSWUdwSldrd2FYMmVmZVU5WU5YWUPSAcMBQVVfeXFMTXQ4SEZCMzlGdk5VV2ZZM3Byd1lEYzdpcEk4dnRrRk9ocERKS1dvYmNvRGhDeXVJWmFGSTFLX1Y4SjdiMjQtREkwZ2k1ZFA1ZU5jYkVmUXZFT3NzMEk5Wktja0I3Y2FfTk9mRml5cTU1RE9tMVpfZnhvaUh5eFNUSnp4a1FCRkd0aUthOHFfckxDbXRtemhTc3hrQUdBWTVIdWIyTkpVVzlkaE5OeHR4VkYySUk3ZHlycXNMQlM1SExTWmw4?oc=5",
+      "published": "Tue, 20 Oct 2026 16:37:58 GMT",
+      "source": "Google News (ES)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUl5ZnA4WXRoSzBUMmpxOVk5MW9MclU3YnVQeHUyQm96Tk1UWkRQdkVjWkQtZnFDcldGTTZ6anJvSTBmcWRPV2NxVGU2MWRmTUswWXM5QzlELXRvSkpCSDZCWkdMZEEycEVDZFlkczhKaXZJQ1RjLUp4dXBud3NiZHZ0RGFfVzdJeGV0X1k4aW5qZDB2eTVNMXFuSll5X2NSWUdwSldrd2FYMmVmZVU5WU5YWUPSAcMBQVVfeXFMTXQ4SEZCMzlGdk5VV2ZZM3Byd1lEYzdpcEk4dnRrRk9ocERKS1dvYmNvRGhDeXVJWmFGSTFLX1Y4SjdiMjQtREkwZ2k1ZFA1ZU5jYkVmUXZFT3NzMEk5Wktja0I3Y2FfTk9mRml5cTU1RE9tMVpfZnhvaUh5eFNUSnp4a1FCRkd0aUthOHFfckxDbXRtemhTc3hrQUdBWTVIdWIyTkpVVzlkaE5OeHR4VkYySUk3ZHlycXNMQlM1SExTWmw4?oc=5\" target=\"_blank\">Hantavirus: se noti",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-10-21T00:25:29.817726+00:00"
     },
     {
       "id": "scan_6493b422faa3",
@@ -302,7 +317,7 @@
         "match": "Santa Catarina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:09.968875+00:00"
+      "scanned_at": "2026-10-21T00:25:31.278430+00:00"
     },
     {
       "id": "scan_4392d5d8e83c",
@@ -332,7 +347,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:09.933410+00:00"
+      "scanned_at": "2026-10-21T00:25:31.220106+00:00"
     },
     {
       "id": "scan_f21229987eeb",
@@ -519,7 +534,7 @@
         "match": "Neuquén"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.742876+00:00"
+      "scanned_at": "2026-10-21T00:25:29.848208+00:00"
     },
     {
       "id": "scan_ee560e7460ea",
@@ -679,7 +694,7 @@
     {
       "id": "scan_f7814814eb1c",
       "title": "Hantavirus in Chile with 49 cases and 19 deaths in 2026 - Atlas Global de Riesgo",
-      "title_de": "Hantavirus in Chile mit 49 Fällen und 19 Todesfällen im Jahr 2026 - Atlas Global de Riesgo",
+      "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYzRZeVQ3RlFMbUtQU2JQYWFhbFp0VTlqS3JORG9lZjdWZ1R2S0VhcGE2dmJjSl8wUlJwNG1SbG13SDg1X0dKcVZ6Zk04Y0FsWVhhSzlUWHpGcU5LcFMxR21aenpBMGZvODhVNS1tRWlncXQyU2E0cWZxOXFsakx5QWZzV05GcHU4Y3BfTGJaTHE?oc=5",
       "published": "Tue, 25 Aug 2026 07:00:00 GMT",
       "source": "Google News (EN)",
@@ -694,7 +709,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:06.149296+00:00"
+      "scanned_at": "2026-10-21T00:25:27.154047+00:00"
     },
     {
       "id": "scan_71ac9025c6ca",
@@ -834,7 +849,7 @@
     {
       "id": "scan_0a5c81fef6ed",
       "title": "International Response to 2026 Andes Virus Outbreak on Cruise Ship Highlights the Value of Cross-Border Scientific Networks, According to Newly Published Article - Mount Sinai",
-      "title_de": "Die internationale Reaktion auf den Ausbruch des Andenvirus auf Kreuzfahrtschiffen im Jahr 2026 unterstreicht den Wert grenzüberschreitender wissenschaftlicher Netzwerke, so der neu veröffentlichte Artikel - Mount Sinai",
+      "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNN1d4ZDhCQlJSbWJxejljS1VrSFk4dUtNTTFKODR5a2pFcGdVZFgwWnpmLWlQUmVrVGVNVzVZN1M4VkUxSkJZWXFhSy1pS2VZZTRPZm50ZXNoSVdjWGMxY21Pb3F5VDVYc3NwcERzbVRRM2preDZBSzVyRUhpQUpVWnVidkVWVDVvNUNiRElmLXFPWXVmSnRhRnJGeWJGeFIzeUZ2ZEd5c1JoUUhvQkQtMFk2TkI0ZWktdUhrX2hnNF9idnYyLVlmbVpQSXlYQkJQRkVLdEVSdmgyZ1JzcUxHeElWcUd0TTZaNklPY2ZaaFB5NWwyMEQtdlNBS0VqN01Sb09JdUE5MHlFdHQyZ3VKaktMUXFrUWVaX3FSNkU5UWczNGg0QlVJSE5KUEpaYXNO?oc=5",
       "published": "Sat, 22 Aug 2026 07:00:00 GMT",
       "source": "Google News (EN)",
@@ -844,7 +859,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T09:15:39.187891+00:00"
+      "scanned_at": "2026-10-21T00:25:26.434339+00:00"
     },
     {
       "id": "scan_8d7ef8563941",
@@ -864,7 +879,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.733777+00:00"
+      "scanned_at": "2026-10-21T00:25:29.832435+00:00"
     },
     {
       "id": "scan_221d161dc6d5",
@@ -929,7 +944,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:06.136365+00:00"
+      "scanned_at": "2026-10-21T00:25:27.135722+00:00"
     },
     {
       "id": "scan_993d1e62b09f",
@@ -944,7 +959,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:04.749582+00:00"
+      "scanned_at": "2026-10-21T00:25:25.875804+00:00"
     },
     {
       "id": "scan_be13cefa99c5",
@@ -1124,7 +1139,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.729812+00:00"
+      "scanned_at": "2026-10-21T00:25:29.828215+00:00"
     },
     {
       "id": "scan_7f4ba07c7255",
@@ -1144,7 +1159,7 @@
         "match": "Neuquén"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.745493+00:00"
+      "scanned_at": "2026-10-21T00:25:29.852196+00:00"
     },
     {
       "id": "scan_100410968a2c",
@@ -1581,7 +1596,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:06.157262+00:00"
+      "scanned_at": "2026-10-21T00:25:27.168996+00:00"
     },
     {
       "id": "scan_581679e01360",
@@ -1596,7 +1611,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:09.964510+00:00"
+      "scanned_at": "2026-10-21T00:25:31.271211+00:00"
     },
     {
       "id": "scan_3636f81f3131",
@@ -1616,7 +1631,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:10.419614+00:00"
+      "scanned_at": "2026-10-21T00:25:31.647883+00:00"
     },
     {
       "id": "scan_1a4ca98d74e3",
@@ -1786,7 +1801,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:04.744691+00:00"
+      "scanned_at": "2026-10-21T00:25:25.867250+00:00"
     },
     {
       "id": "scan_d365e8c5e08c",
@@ -1806,7 +1821,7 @@
         "match": "Frankreich"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:07.613087+00:00"
+      "scanned_at": "2026-10-21T00:25:28.762745+00:00"
     },
     {
       "id": "scan_a8e8db032141",
@@ -1821,7 +1836,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.730848+00:00"
+      "scanned_at": "2026-10-21T00:25:29.829817+00:00"
     },
     {
       "id": "scan_113ce9cdc081",
@@ -1836,7 +1851,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.750194+00:00"
+      "scanned_at": "2026-10-21T00:25:29.859806+00:00"
     },
     {
       "id": "scan_aacc489f1075",
@@ -1851,22 +1866,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:09.980688+00:00"
-    },
-    {
-      "id": "scan_42206c839c94",
-      "title": "Turista franco-argentino testa positivo para hantavírus, anuncia governo francês - Folha de S.Paulo",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYjdHamlxZUJuTldHWWtycVR3NFQ3VWplbTlLYW0tUG03QTRWbm1jc3RBMXJ5aHdzLWsxUENTZU5YRkYyNF9sXzFZYzJpTi1RZ2ZJZVlfRlB5LWlsWXBaZFdva2pGYlNYSGVaazF2bFR5dDJNaFRjbWdOV0x2Q1VrNlBwZFVxYU55Q2xIc1ZieXdqeHFUeVVMZFRUczhHYU5yQlNleEhJM2lzb0tvelJmOUJkZXZFYVE3RF9TVHNiQWtwZnhvRFRKR0x0UVBZN0xPZW9nRmZ1cw?oc=5",
-      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "source": "Google News (PT)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYjdHamlxZUJuTldHWWtycVR3NFQ3VWplbTlLYW0tUG03QTRWbm1jc3RBMXJ5aHdzLWsxUENTZU5YRkYyNF9sXzFZYzJpTi1RZ2ZJZVlfRlB5LWlsWXBaZFdva2pGYlNYSGVaazF2bFR5dDJNaFRjbWdOV0x2Q1VrNlBwZFVxYU55Q2xIc1ZieXdqeHFUeVVMZFRUczhHYU5yQlNleEhJM2lzb0tvelJmOUJkZXZFYVE3RF9TVHNiQWtwZnhvRFRKR0x0UVBZN0xPZW9nRmZ1cw?oc=5\" target=\"_blank\">Turista franco-argentino testa positivo para hantavírus, anuncia governo francês</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Folha de S.Paulo</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:09.983804+00:00"
+      "scanned_at": "2026-10-21T00:25:31.300501+00:00"
     },
     {
       "id": "scan_5b07e37ccf32",
@@ -1886,7 +1886,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:10.414725+00:00"
+      "scanned_at": "2026-10-21T00:25:31.635564+00:00"
     },
     {
       "id": "scan_b30e4fa93617",
@@ -1906,7 +1906,22 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:10.420491+00:00"
+      "scanned_at": "2026-10-21T00:25:31.652127+00:00"
+    },
+    {
+      "id": "scan_42206c839c94",
+      "title": "Turista franco-argentino testa positivo para hantavírus, anuncia governo francês - Folha de S.Paulo",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYjdHamlxZUJuTldHWWtycVR3NFQ3VWplbTlLYW0tUG03QTRWbm1jc3RBMXJ5aHdzLWsxUENTZU5YRkYyNF9sXzFZYzJpTi1RZ2ZJZVlfRlB5LWlsWXBaZFdva2pGYlNYSGVaazF2bFR5dDJNaFRjbWdOV0x2Q1VrNlBwZFVxYU55Q2xIc1ZieXdqeHFUeVVMZFRUczhHYU5yQlNleEhJM2lzb0tvelJmOUJkZXZFYVE3RF9TVHNiQWtwZnhvRFRKR0x0UVBZN0xPZW9nRmZ1cw?oc=5",
+      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "source": "Google News (PT)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYjdHamlxZUJuTldHWWtycVR3NFQ3VWplbTlLYW0tUG03QTRWbm1jc3RBMXJ5aHdzLWsxUENTZU5YRkYyNF9sXzFZYzJpTi1RZ2ZJZVlfRlB5LWlsWXBaZFdva2pGYlNYSGVaazF2bFR5dDJNaFRjbWdOV0x2Q1VrNlBwZFVxYU55Q2xIc1ZieXdqeHFUeVVMZFRUczhHYU5yQlNleEhJM2lzb0tvelJmOUJkZXZFYVE3RF9TVHNiQWtwZnhvRFRKR0x0UVBZN0xPZW9nRmZ1cw?oc=5\" target=\"_blank\">Turista franco-argentino testa positivo para hantavírus, anuncia governo francês</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Folha de S.Paulo</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-10-20T21:53:09.983804+00:00"
     },
     {
       "id": "scan_4d5622aa660d",
@@ -2266,7 +2281,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.744195+00:00"
+      "scanned_at": "2026-10-21T00:25:29.850220+00:00"
     },
     {
       "id": "scan_6bca3515c4a8",
@@ -2396,7 +2411,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:09.444342+00:00"
+      "scanned_at": "2026-10-21T00:25:30.588016+00:00"
     },
     {
       "id": "scan_1be723843941",
@@ -2416,7 +2431,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:09.971004+00:00"
+      "scanned_at": "2026-10-21T00:25:31.282073+00:00"
     },
     {
       "id": "scan_ca0a347029f9",
@@ -2516,7 +2531,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.732878+00:00"
+      "scanned_at": "2026-10-21T00:25:29.834265+00:00"
     },
     {
       "id": "scan_8bf23058dbf2",
@@ -2531,7 +2546,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:09.452867+00:00"
+      "scanned_at": "2026-10-21T00:25:30.600979+00:00"
     },
     {
       "id": "scan_dc7b0d2853eb",
@@ -2671,7 +2686,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:09.453962+00:00"
+      "scanned_at": "2026-10-21T00:25:30.602693+00:00"
     },
     {
       "id": "scan_c0c8e07f30d9",
@@ -2686,7 +2701,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:09.465856+00:00"
+      "scanned_at": "2026-10-21T00:25:30.621338+00:00"
     },
     {
       "id": "scan_75dba0211860",
@@ -2861,7 +2876,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.758390+00:00"
+      "scanned_at": "2026-10-21T00:25:29.872496+00:00"
     },
     {
       "id": "scan_a600f36e8112",
@@ -3101,7 +3116,7 @@
         "match": "Buenos Aires"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.736021+00:00"
+      "scanned_at": "2026-10-21T00:25:29.837721+00:00"
     },
     {
       "id": "scan_8fd5ceb47619",
@@ -3116,7 +3131,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.755850+00:00"
+      "scanned_at": "2026-10-21T00:25:29.868596+00:00"
     },
     {
       "id": "scan_c5bfd78e7585",
@@ -3216,7 +3231,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:05.446999+00:00"
+      "scanned_at": "2026-10-21T00:25:26.427884+00:00"
     },
     {
       "id": "scan_60fd41192008",
@@ -3266,7 +3281,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T09:15:39.216674+00:00"
+      "scanned_at": "2026-10-21T00:25:26.464560+00:00"
     },
     {
       "id": "scan_d352c2a30249",
@@ -3296,7 +3311,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:04.737773+00:00"
+      "scanned_at": "2026-10-21T00:25:25.855451+00:00"
     },
     {
       "id": "scan_c2d79b4d3319",
@@ -3996,7 +4011,7 @@
         "match": "GENEVA"
       },
       "safe_signal": true,
-      "scanned_at": "2026-10-20T21:52:35.696684+00:00"
+      "scanned_at": "2026-10-21T00:24:59.192847+00:00"
     },
     {
       "id": "scan_cbd125f38638",
@@ -4841,7 +4856,37 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:05.467569+00:00"
+      "scanned_at": "2026-10-21T00:25:26.437015+00:00"
+    },
+    {
+      "id": "scan_cd4ca50824ac",
+      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5\" target=\"_blank\">Hantavirus outbreak linked to cruise ship over after",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-10-21T00:25:26.454826+00:00"
+    },
+    {
+      "id": "scan_108c6f10cc93",
+      "title": "WHO declares hantavirus outbreak linked to cruise ship over - Reuters",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmlpUnk1RThnMkplcEJPajZhbGJDTXBoT01XMjR4aWxFNXBjaWNXaVVfVzhpTUIxMVRRNk51R3lEQUFnQW1VV1FQV1JBR01SbzljVWswUTZURHowOGVzR2VveVBzY1J6ZTUwZV82TE9CcXJMbDh5ZTd2Q2hrMERIMjRZempoV2JhYng4ZXU2clhuX0gzM2MtcEF0V1Fqd2ZUZXVwWkgzWndwNDJ1NkpvZmhfNXdPd09sNkxKT19Jbll3bTBobjgw?oc=5",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmlpUnk1RThnMkplcEJPajZhbGJDTXBoT01XMjR4aWxFNXBjaWNXaVVfVzhpTUIxMVRRNk51R3lEQUFnQW1VV1FQV1JBR01SbzljVWswUTZURHowOGVzR2VveVBzY1J6ZTUwZV82TE9CcXJMbDh5ZTd2Q2hrMERIMjRZempoV2JhYng4ZXU2clhuX0gzM2MtcEF0V1Fqd2ZUZXVwWkgzWndwNDJ1NkpvZmhfNXdPd09sNkxKT19Jbll3bTBobjgw?oc=5\" target=\"_blank\">WHO declares hantavirus outbreak linked to cruise ship over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-10-21T00:25:26.461613+00:00"
     },
     {
       "id": "scan_1c4bbc016813",
@@ -4856,7 +4901,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:06.141070+00:00"
+      "scanned_at": "2026-10-21T00:25:27.143172+00:00"
     },
     {
       "id": "scan_eac4181ef439",
@@ -4876,7 +4921,7 @@
         "match": "New York"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:06.824807+00:00"
+      "scanned_at": "2026-10-21T00:25:27.886932+00:00"
     },
     {
       "id": "scan_2e642a4ef6f6",
@@ -4891,7 +4936,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:07.225341+00:00"
+      "scanned_at": "2026-10-21T00:25:28.225246+00:00"
     },
     {
       "id": "scan_ae25fe5eaaed",
@@ -4906,7 +4951,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.746558+00:00"
+      "scanned_at": "2026-10-21T00:25:29.853922+00:00"
     },
     {
       "id": "scan_41bf1ed28976",
@@ -4921,7 +4966,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.757411+00:00"
+      "scanned_at": "2026-10-21T00:25:29.870985+00:00"
     },
     {
       "id": "scan_13fbd30427cc",
@@ -4936,7 +4981,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:09.460931+00:00"
+      "scanned_at": "2026-10-21T00:25:30.613595+00:00"
     },
     {
       "id": "scan_28069279d337",
@@ -4956,7 +5001,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:09.944725+00:00"
+      "scanned_at": "2026-10-21T00:25:31.238801+00:00"
     },
     {
       "id": "scan_720566e22b2d",
@@ -5002,36 +5047,6 @@
       "geo": null,
       "safe_signal": false,
       "scanned_at": "2026-10-20T18:37:45.627119+00:00"
-    },
-    {
-      "id": "scan_cd4ca50824ac",
-      "title": "Hantavirus outbreak linked to cruise ship over after last contact completes quarantine: WHO - ABC News - Breaking News, Latest News and Videos",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPZTN1RTFnU01oRUVVQVltcVlBWlF0aWZPVkg5LWotRUFNT2NzNmdNVDFCdEJXZXNLZ01YV25oZl94OXMzdnlIS0FNT2NhRnkzVzB5N2dpQ0FZZkJDQWc0eU5HVS1Bc09EMlZCOTRhc0lwel9DZ0dlNlhSY0J4ZkRjV3RuMER5MEowckg4RERRMFBETzdYX3pFTnhDNWRHTDQzX1dCM2FxcVZlSklq0gGyAUFVX3lxTE9MVml0cFJHQlB5UHNJYXFLekhmVUFES0lzdVZVSnJndUNRWkpKSC1DU2NXX1hpU2kyRnlLcXZsNkpZV1A5OGEzV1UxdlBJdnlVWHRGRTVFVnR4cGZSN3cwWi0tcjJFVnp1UlIwNzczMmhqMjZrbkdZVkdXMFktbnAwRFZvUkFJUnpzcmQ4WU95N1EzODBxdGoxY2xiZGlYNDA4bGpfWUVWaUFVMnVYa2xFQXc?oc=5\" target=\"_blank\">Hantavirus outbreak linked to cruise ship over after",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-10-20T09:15:39.204012+00:00"
-    },
-    {
-      "id": "scan_108c6f10cc93",
-      "title": "WHO declares hantavirus outbreak linked to cruise ship over - Reuters",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmlpUnk1RThnMkplcEJPajZhbGJDTXBoT01XMjR4aWxFNXBjaWNXaVVfVzhpTUIxMVRRNk51R3lEQUFnQW1VV1FQV1JBR01SbzljVWswUTZURHowOGVzR2VveVBzY1J6ZTUwZV82TE9CcXJMbDh5ZTd2Q2hrMERIMjRZempoV2JhYng4ZXU2clhuX0gzM2MtcEF0V1Fqd2ZUZXVwWkgzWndwNDJ1NkpvZmhfNXdPd09sNkxKT19Jbll3bTBobjgw?oc=5",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQbmlpUnk1RThnMkplcEJPajZhbGJDTXBoT01XMjR4aWxFNXBjaWNXaVVfVzhpTUIxMVRRNk51R3lEQUFnQW1VV1FQV1JBR01SbzljVWswUTZURHowOGVzR2VveVBzY1J6ZTUwZV82TE9CcXJMbDh5ZTd2Q2hrMERIMjRZempoV2JhYng4ZXU2clhuX0gzM2MtcEF0V1Fqd2ZUZXVwWkgzWndwNDJ1NkpvZmhfNXdPd09sNkxKT19Jbll3bTBobjgw?oc=5\" target=\"_blank\">WHO declares hantavirus outbreak linked to cruise ship over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-10-20T09:15:39.215178+00:00"
     },
     {
       "id": "scan_4e3a0a956a9d",
@@ -5693,7 +5708,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.741406+00:00"
+      "scanned_at": "2026-10-21T00:25:29.845970+00:00"
     },
     {
       "id": "scan_f2dbd6701297",
@@ -6958,7 +6973,7 @@
         "match": "American"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:04.714338+00:00"
+      "scanned_at": "2026-10-21T00:25:25.816449+00:00"
     },
     {
       "id": "scan_c4d8474e9697",
@@ -6973,7 +6988,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:04.731449+00:00"
+      "scanned_at": "2026-10-21T00:25:25.845608+00:00"
     },
     {
       "id": "scan_a0f4f19d1aeb",
@@ -6993,7 +7008,22 @@
         "match": "Dutch"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:05.449050+00:00"
+      "scanned_at": "2026-10-21T00:25:26.442406+00:00"
+    },
+    {
+      "id": "scan_5cb7476ea514",
+      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews.com",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3dJblZjOU91Ym9uOS1WSkQ3TEtGd19YQnJsVkh0YTI1eDlOMEQyLWlFU09VdzAwVThMWlhXTWpzSjJUdlFXQktKa0FxWlNvdE5GZ3lrQ0RyVHpieFFEcWpUWHd4QU4wSWE2eXdOcWtUWEZCal9vMVpwa2lLaFEzQ2xQcDNMblBVWFREVmZMRFZ5RGlObFFV?oc=5",
+      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3dJblZjOU91Ym9uOS1WSkQ3TEtGd19YQnJsVkh0YTI1eDlOMEQyLWlFU09VdzAwVThMWlhXTWpzSjJUdlFXQktKa0FxWlNvdE5GZ3lrQ0RyVHpieFFEcWpUWHd4QU4wSWE2eXdOcWtUWEZCal9vMVpwa2lLaFEzQ2xQcDNMblBVWFREVmZMRFZ5RGlObFFV?oc=5\" target=\"_blank\">Deadly Hantavirus outbreak should end on 2 July, WHO says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-10-21T00:25:26.481895+00:00"
     },
     {
       "id": "scan_956c5e8c1fca",
@@ -7013,7 +7043,7 @@
         "match": "US"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:06.168009+00:00"
+      "scanned_at": "2026-10-21T00:25:27.187337+00:00"
     },
     {
       "id": "scan_0a61cc4fc651",
@@ -7028,7 +7058,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:06.855768+00:00"
+      "scanned_at": "2026-10-21T00:25:27.933417+00:00"
     },
     {
       "id": "scan_9e09ed347e8b",
@@ -7059,21 +7089,6 @@
       "geo": null,
       "safe_signal": false,
       "scanned_at": "2026-10-20T18:37:45.640744+00:00"
-    },
-    {
-      "id": "scan_5cb7476ea514",
-      "title": "Deadly Hantavirus outbreak should end on 2 July, WHO says - Euronews.com",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3dJblZjOU91Ym9uOS1WSkQ3TEtGd19YQnJsVkh0YTI1eDlOMEQyLWlFU09VdzAwVThMWlhXTWpzSjJUdlFXQktKa0FxWlNvdE5GZ3lrQ0RyVHpieFFEcWpUWHd4QU4wSWE2eXdOcWtUWEZCal9vMVpwa2lLaFEzQ2xQcDNMblBVWFREVmZMRFZ5RGlObFFV?oc=5",
-      "published": "Wed, 24 Jun 2026 07:00:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3dJblZjOU91Ym9uOS1WSkQ3TEtGd19YQnJsVkh0YTI1eDlOMEQyLWlFU09VdzAwVThMWlhXTWpzSjJUdlFXQktKa0FxWlNvdE5GZ3lrQ0RyVHpieFFEcWpUWHd4QU4wSWE2eXdOcWtUWEZCal9vMVpwa2lLaFEzQ2xQcDNMblBVWFREVmZMRFZ5RGlObFFV?oc=5\" target=\"_blank\">Deadly Hantavirus outbreak should end on 2 July, WHO says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-10-20T09:15:39.235977+00:00"
     },
     {
       "id": "scan_352453ec1be7",
@@ -7513,7 +7528,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:06.843195+00:00"
+      "scanned_at": "2026-10-21T00:25:27.919442+00:00"
     },
     {
       "id": "scan_8b6139332ebe",
@@ -8301,6 +8316,21 @@
       "scanned_at": "2026-07-11T09:52:05.572626+00:00"
     },
     {
+      "id": "scan_2c95c7a5d2ca",
+      "title": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny - The Santa Barbara Independent",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2lIeTlJaFROZ2g0dVRsUldjMWptQzkwVXdUaWtyd2VxR3YxS2pRN1NaOHNOZHRzTlRsX3E0REplR0FDei04R1NUNG01XzlueUZBRkRrOHBLam04Z2pMUkYtLUJBTHJRUEJ0Um5LVEFhMWRlN3ZwNmFoQlhVZXFVei1abmxYR0R6VFF6bUkzNXdFeVViVHRHSXBzbDBfZw?oc=5",
+      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQS2lIeTlJaFROZ2g0dVRsUldjMWptQzkwVXdUaWtyd2VxR3YxS2pRN1NaOHNOZHRzTlRsX3E0REplR0FDei04R1NUNG01XzlueUZBRkRrOHBLam04Z2pMUkYtLUJBTHJRUEJ0Um5LVEFhMWRlN3ZwNmFoQlhVZXFVei1abmxYR0R6VFF6bUkzNXdFeVViVHRHSXBzbDBfZw?oc=5\" target=\"_blank\">Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Santa Barbara Independent</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-10-21T00:25:26.465921+00:00"
+    },
+    {
       "id": "scan_5f1002b0c8c7",
       "title": "Aargauer Crewmitglied nach Hantavirus-Fall aus Quarantäne entlassen - Aargauer Zeitung",
       "title_de": "",
@@ -8313,7 +8343,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:07.624525+00:00"
+      "scanned_at": "2026-10-21T00:25:28.784849+00:00"
     },
     {
       "id": "scan_32a086441394",
@@ -8328,7 +8358,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.727532+00:00"
+      "scanned_at": "2026-10-21T00:25:29.824763+00:00"
     },
     {
       "id": "scan_07dd3dbfb67f",
@@ -8348,7 +8378,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.756154+00:00"
+      "scanned_at": "2026-10-21T00:25:29.869047+00:00"
     },
     {
       "id": "scan_8e94d771d50c",
@@ -8369,21 +8399,6 @@
       },
       "safe_signal": false,
       "scanned_at": "2026-10-20T18:37:44.773511+00:00"
-    },
-    {
-      "id": "scan_2c95c7a5d2ca",
-      "title": "Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny - The Santa Barbara Independent",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2lIeTlJaFROZ2g0dVRsUldjMWptQzkwVXdUaWtyd2VxR3YxS2pRN1NaOHNOZHRzTlRsX3E0REplR0FDei04R1NUNG01XzlueUZBRkRrOHBLam04Z2pMUkYtLUJBTHJRUEJ0Um5LVEFhMWRlN3ZwNmFoQlhVZXFVei1abmxYR0R6VFF6bUkzNXdFeVViVHRHSXBzbDBfZw?oc=5",
-      "published": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQS2lIeTlJaFROZ2g0dVRsUldjMWptQzkwVXdUaWtyd2VxR3YxS2pRN1NaOHNOZHRzTlRsX3E0REplR0FDei04R1NUNG01XzlueUZBRkRrOHBLam04Z2pMUkYtLUJBTHJRUEJ0Um5LVEFhMWRlN3ZwNmFoQlhVZXFVei1abmxYR0R6VFF6bUkzNXdFeVViVHRHSXBzbDBfZw?oc=5\" target=\"_blank\">Origins of Cruise-Ship Hantavirus Outbreak Under Scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Santa Barbara Independent</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-10-20T09:15:39.219515+00:00"
     },
     {
       "id": "scan_f11208a1cbe2",
@@ -8688,7 +8703,7 @@
         "match": "New York"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:04.730284+00:00"
+      "scanned_at": "2026-10-21T00:25:25.843709+00:00"
     },
     {
       "id": "scan_862bf02ac002",
@@ -8708,7 +8723,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.748213+00:00"
+      "scanned_at": "2026-10-21T00:25:29.856518+00:00"
     },
     {
       "id": "scan_74b6028f9704",
@@ -8723,7 +8738,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:10.418503+00:00"
+      "scanned_at": "2026-10-21T00:25:31.644273+00:00"
     },
     {
       "id": "scan_420aa0f9fb82",
@@ -8883,7 +8898,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:06.155090+00:00"
+      "scanned_at": "2026-10-21T00:25:27.165536+00:00"
     },
     {
       "id": "scan_8f658809728d",
@@ -9386,26 +9401,6 @@
       "scanned_at": "2026-06-18T14:12:56.114972+00:00"
     },
     {
-      "id": "scan_82f6e68ba8b7",
-      "title": "Two more former MV Hondius passengers released after five weeks - Central Nebraska Today",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ09ld2NtRzdWbTI4V2xrLXc3Xy1fOVk3LUVGR1hfM0JoZFN3THNhdHpPS01JWWpTcWRyT0JwOTIyaVNGNlZuV0ZLNUdzRllCd0d4VFU3bnJJWHh4UElDX2c0anUwR25xc2RLbUNNeWpnMWVkVy1fY3RqOWQwa0U3dHl5S1FVRi1UUk55Z2FUQTd2b1B3LVp1SVVlYmhFbTlUeDlQRUQ5U2xScDR2Zmo2SFJ3?oc=5",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 5,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ09ld2NtRzdWbTI4V2xrLXc3Xy1fOVk3LUVGR1hfM0JoZFN3THNhdHpPS01JWWpTcWRyT0JwOTIyaVNGNlZuV0ZLNUdzRllCd0d4VFU3bnJJWHh4UElDX2c0anUwR25xc2RLbUNNeWpnMWVkVy1fY3RqOWQwa0U3dHl5S1FVRi1UUk55Z2FUQTd2b1B3LVp1SVVlYmhFbTlUeDlQRUQ5U2xScDR2Zmo2SFJ3?oc=5\" target=\"_blank\">Two more former MV Hondius passengers released after five weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Central Nebraska Today</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": {
-        "country": "USA",
-        "lat": 41.49,
-        "lng": -99.9,
-        "match": "Nebraska"
-      },
-      "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:06.827786+00:00"
-    },
-    {
       "id": "scan_f7196e8430a1",
       "title": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak - Nebraska Examiner",
       "title_de": "",
@@ -9423,7 +9418,27 @@
         "match": "Nebraska"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T09:15:39.230530+00:00"
+      "scanned_at": "2026-10-21T00:25:26.474037+00:00"
+    },
+    {
+      "id": "scan_82f6e68ba8b7",
+      "title": "Two more former MV Hondius passengers released after five weeks - Central Nebraska Today",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ09ld2NtRzdWbTI4V2xrLXc3Xy1fOVk3LUVGR1hfM0JoZFN3THNhdHpPS01JWWpTcWRyT0JwOTIyaVNGNlZuV0ZLNUdzRllCd0d4VFU3bnJJWHh4UElDX2c0anUwR25xc2RLbUNNeWpnMWVkVy1fY3RqOWQwa0U3dHl5S1FVRi1UUk55Z2FUQTd2b1B3LVp1SVVlYmhFbTlUeDlQRUQ5U2xScDR2Zmo2SFJ3?oc=5",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 5,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ09ld2NtRzdWbTI4V2xrLXc3Xy1fOVk3LUVGR1hfM0JoZFN3THNhdHpPS01JWWpTcWRyT0JwOTIyaVNGNlZuV0ZLNUdzRllCd0d4VFU3bnJJWHh4UElDX2c0anUwR25xc2RLbUNNeWpnMWVkVy1fY3RqOWQwa0U3dHl5S1FVRi1UUk55Z2FUQTd2b1B3LVp1SVVlYmhFbTlUeDlQRUQ5U2xScDR2Zmo2SFJ3?oc=5\" target=\"_blank\">Two more former MV Hondius passengers released after five weeks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Central Nebraska Today</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": {
+        "country": "USA",
+        "lat": 41.49,
+        "lng": -99.9,
+        "match": "Nebraska"
+      },
+      "safe_signal": false,
+      "scanned_at": "2026-10-21T00:25:27.891740+00:00"
     },
     {
       "id": "scan_75f8b7dc269f",
@@ -9768,7 +9783,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:08.734993+00:00"
+      "scanned_at": "2026-10-21T00:25:29.836216+00:00"
     },
     {
       "id": "scan_bca6e6dcae2d",
@@ -10048,27 +10063,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-10-20T21:53:06.148595+00:00"
-    },
-    {
-      "id": "scan_2ac4d8338b81",
-      "title": "RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation - CNN",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmxxYmNmV0RSdWdkSWQtdmJ3bHdRUjNZRFIwU21QZDREUkVFSFhyUFBIZ3doRF9oSG9EMlhXM3ZlRFZUNVAzd2RLd3Z5MHFoNlp6Rk5qNlVic1IyOGFuakEycVhJYzJUUzNldXVCMXJVN1QzR0o1OTl4dExIX0FwZlY0UHN6QQ?oc=5",
-      "published": "Tue, 16 Jun 2026 07:00:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmxxYmNmV0RSdWdkSWQtdmJ3bHdRUjNZRFIwU21QZDREUkVFSFhyUFBIZ3doRF9oSG9EMlhXM3ZlRFZUNVAzd2RLd3Z5MHFoNlp6Rk5qNlVic1IyOGFuakEycVhJYzJUUzNldXVCMXJVN1QzR0o1OTl4dExIX0FwZlY0UHN6QQ?oc=5\" target=\"_blank\">RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNN</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": {
-        "country": "USA",
-        "lat": 41.49,
-        "lng": -99.9,
-        "match": "Nebraska"
-      },
-      "safe_signal": false,
-      "scanned_at": "2026-09-03T09:44:41.337680+00:00"
+      "scanned_at": "2026-10-21T00:25:27.157799+00:00"
     }
   ]
 }
