@@ -1,6 +1,6 @@
 {
-  "scanned_at": "2026-11-04T16:17:49.170082+00:00",
-  "total": 876,
+  "scanned_at": "2026-11-04T21:59:30.299067+00:00",
+  "total": 875,
   "items": [
     {
       "id": "scan_e96698e4a6d9",
@@ -15,7 +15,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:24.648112+00:00"
+      "scanned_at": "2026-11-04T21:59:02.318294+00:00"
     },
     {
       "id": "scan_9dc1440ee16a",
@@ -55,7 +55,7 @@
         "match": "São Paulo"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-04T08:08:45.659447+00:00"
+      "scanned_at": "2026-11-04T21:59:00.095281+00:00"
     },
     {
       "id": "scan_6f440e6d9de0",
@@ -100,7 +100,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:20.387282+00:00"
+      "scanned_at": "2026-11-04T21:58:58.745423+00:00"
     },
     {
       "id": "scan_2d2a374cdbbf",
@@ -215,7 +215,7 @@
         "match": "Brasil"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:25.936358+00:00"
+      "scanned_at": "2026-11-04T21:59:03.196533+00:00"
     },
     {
       "id": "scan_091e1bf138c9",
@@ -231,26 +231,6 @@
       "geo": null,
       "safe_signal": false,
       "scanned_at": "2026-10-30T18:46:39.019233+00:00"
-    },
-    {
-      "id": "scan_c5e0230c0015",
-      "title": "São Paulo registra quatro casos de hantavirose em 2026: conheça o quadro - Assine Abril",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMExCTVBGdVRJd185RGRoWVJhU21kbjFTLWhpSFU5ZUtJdFFaSW9mVkV2TmNXZFp1N0Z5TEdDU3IxRlRwQTdxa2ZieGREbXpfcmhqS3V4YW0yazJlaGx3WGNnQ2FNLXVweUFXaVVva2Q2TF9remtyNms4WDhLbHJkNEE1R1pNRHNfRGxKSU0tY1R2OTl6YmV2R0lyMEx4NjkxVVMyTkx6LS1Ybzd4?oc=5",
-      "published": "Tue, 27 Oct 2026 15:02:00 GMT",
-      "source": "Google News (PT)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMExCTVBGdVRJd185RGRoWVJhU21kbjFTLWhpSFU5ZUtJdFFaSW9mVkV2TmNXZFp1N0Z5TEdDU3IxRlRwQTdxa2ZieGREbXpfcmhqS3V4YW0yazJlaGx3WGNnQ2FNLXVweUFXaVVva2Q2TF9remtyNms4WDhLbHJkNEE1R1pNRHNfRGxKSU0tY1R2OTl6YmV2R0lyMEx4NjkxVVMyTkx6LS1Ybzd4?oc=5\" target=\"_blank\">São Paulo registra quatro casos de hantavirose em 2026: conheça o quadro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Assine Abril</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": {
-        "country": "Brazil",
-        "lat": -23.55,
-        "lng": -46.63,
-        "match": "São Paulo"
-      },
-      "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:25.939891+00:00"
     },
     {
       "id": "scan_e66f3cc8a329",
@@ -271,6 +251,26 @@
       },
       "safe_signal": false,
       "scanned_at": "2026-11-04T08:08:49.623997+00:00"
+    },
+    {
+      "id": "scan_c5e0230c0015",
+      "title": "São Paulo registra quatro casos de hantavirose em 2026: conheça o quadro - Assine Abril",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMExCTVBGdVRJd185RGRoWVJhU21kbjFTLWhpSFU5ZUtJdFFaSW9mVkV2TmNXZFp1N0Z5TEdDU3IxRlRwQTdxa2ZieGREbXpfcmhqS3V4YW0yazJlaGx3WGNnQ2FNLXVweUFXaVVva2Q2TF9remtyNms4WDhLbHJkNEE1R1pNRHNfRGxKSU0tY1R2OTl6YmV2R0lyMEx4NjkxVVMyTkx6LS1Ybzd4?oc=5",
+      "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+      "source": "Google News (PT)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQMExCTVBGdVRJd185RGRoWVJhU21kbjFTLWhpSFU5ZUtJdFFaSW9mVkV2TmNXZFp1N0Z5TEdDU3IxRlRwQTdxa2ZieGREbXpfcmhqS3V4YW0yazJlaGx3WGNnQ2FNLXVweUFXaVVva2Q2TF9remtyNms4WDhLbHJkNEE1R1pNRHNfRGxKSU0tY1R2OTl6YmV2R0lyMEx4NjkxVVMyTkx6LS1Ybzd4?oc=5\" target=\"_blank\">São Paulo registra quatro casos de hantavirose em 2026: conheça o quadro</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Assine Abril</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": {
+        "country": "Brazil",
+        "lat": -23.55,
+        "lng": -46.63,
+        "match": "São Paulo"
+      },
+      "safe_signal": false,
+      "scanned_at": "2026-11-04T21:59:03.199207+00:00"
     },
     {
       "id": "scan_4469afe032c3",
@@ -782,7 +782,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:25.950524+00:00"
+      "scanned_at": "2026-11-04T21:59:03.206920+00:00"
     },
     {
       "id": "scan_f21229987eeb",
@@ -2131,7 +2131,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:26.427888+00:00"
+      "scanned_at": "2026-11-04T21:59:03.611359+00:00"
     },
     {
       "id": "scan_72eda0b6cfdf",
@@ -2371,7 +2371,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:26.426039+00:00"
+      "scanned_at": "2026-11-04T21:59:03.599497+00:00"
     },
     {
       "id": "scan_7e30c6834a7f",
@@ -2981,7 +2981,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:25.251345+00:00"
+      "scanned_at": "2026-11-04T21:59:02.745944+00:00"
     },
     {
       "id": "scan_1be723843941",
@@ -3256,7 +3256,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:24.659518+00:00"
+      "scanned_at": "2026-11-04T21:59:02.319422+00:00"
     },
     {
       "id": "scan_f2bac4d42ee4",
@@ -3276,7 +3276,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:25.265920+00:00"
+      "scanned_at": "2026-11-04T21:59:02.757722+00:00"
     },
     {
       "id": "scan_c0c8e07f30d9",
@@ -3901,7 +3901,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:20.969171+00:00"
+      "scanned_at": "2026-11-04T21:58:59.441874+00:00"
     },
     {
       "id": "scan_c2d79b4d3319",
@@ -4601,7 +4601,7 @@
         "match": "GENEVA"
       },
       "safe_signal": true,
-      "scanned_at": "2026-11-04T16:16:54.648339+00:00"
+      "scanned_at": "2026-11-04T21:58:33.349472+00:00"
     },
     {
       "id": "scan_cbd125f38638",
@@ -5431,7 +5431,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:20.970233+00:00"
+      "scanned_at": "2026-11-04T21:58:59.442745+00:00"
     },
     {
       "id": "scan_732a3809e9a7",
@@ -5446,7 +5446,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:21.566256+00:00"
+      "scanned_at": "2026-11-04T21:59:00.098181+00:00"
     },
     {
       "id": "scan_eac4181ef439",
@@ -5466,7 +5466,7 @@
         "match": "New York"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:22.330790+00:00"
+      "scanned_at": "2026-11-04T21:59:00.853913+00:00"
     },
     {
       "id": "scan_2e642a4ef6f6",
@@ -5481,7 +5481,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:22.863112+00:00"
+      "scanned_at": "2026-11-04T21:59:01.196147+00:00"
     },
     {
       "id": "scan_ae25fe5eaaed",
@@ -5496,7 +5496,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:25.264178+00:00"
+      "scanned_at": "2026-11-04T21:59:02.756305+00:00"
     },
     {
       "id": "scan_41bf1ed28976",
@@ -7593,7 +7593,7 @@
         "match": "American"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:20.388668+00:00"
+      "scanned_at": "2026-11-04T21:58:58.746484+00:00"
     },
     {
       "id": "scan_a0f4f19d1aeb",
@@ -9318,7 +9318,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-04T16:17:26.429755+00:00"
+      "scanned_at": "2026-11-04T21:59:03.603558+00:00"
     },
     {
       "id": "scan_03105236a8ee",
