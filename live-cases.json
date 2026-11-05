@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-05T09:38:13.643806+00:00",
+  "scanned_at": "2026-11-05T17:39:18.722788+00:00",
   "total": 25,
   "cases": [
     {
@@ -725,24 +725,30 @@
       ],
       "confidence": 0.4966666666666667,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmFoRG91LXZtQ3FPdlZwaTBqT1JoZ05ZU3pMbDF5UzJKcHZ3LTBsQmdDd2hRRTV2dWZwcldad1VLNjVpOXlLZUdjMElmc2JTSFphRlBCckE1SHd4NHJ0VnJIODdRLVZ0UnVVbXZtUGdoLVJXal9rYmJNSUZqYUVNcg?oc=5\" target=\"_blank\">Tristan da Cunha Government News: Suspected Hantavirus on the Cruise Ship MV Hondius</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tristandc.com</font>",
-      "scanned_at": "2026-11-05T09:37:44.070389+00:00"
+      "scanned_at": "2026-11-05T17:38:48.567665+00:00"
     },
     {
-      "id": "cs_8cc25611681b",
+      "id": "cs_9a9be1bea25e",
       "count": 8,
       "status": "suspected",
       "location": {
         "country": "Brazil",
-        "city": "São Paulo",
-        "lat": -23.55,
-        "lng": -46.63
+        "city": "Brasil",
+        "lat": -14.24,
+        "lng": -51.93
       },
-      "date": "Mon, 02 Nov 2026 16:48:37 GMT",
+      "date": "Thu, 05 Nov 2026 11:16:21 GMT",
       "age": null,
       "nationality": null,
       "sex": null,
       "flights": [],
       "sources": [
+        {
+          "source": "Google News (PT)",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGNlSU53NWM3czRmUm9BeHp6R01uOXFfaVJRNE94S25qc2ZaZWltNXgzeHZlVWdBTmthTTBYU3gtLWVmVnNqV29vY09yVzV2VHpDUGdUWnlaR1llLVU3VFpjamt4MEs5amtySXhSTC1UemdscmFEd2RCSkVEVTFLYWxZamVuQ0JEMEMyT09wdWhtYWJ5MGx2TXBpLUFBSVYwNWZ1a0pnMG5BWFh5VFBr?oc=5",
+          "title": "Hantavírus no Brasil: dados apontam tendência de redução de casos - CNN Brasil",
+          "weight": 4
+        },
         {
           "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSEtVSVpkSlk0UHZYVU43VHpvSl9COEdXR3dXYlJSVVM3YXFFS3lBQ3pmZ1EtS1F0U3paM29TNU5uczNoSldRN0hDdXk3OUxnWV9lek0tTjlYVG11TFFKV1I1Ri1SMDZMSUt4V19FTzJwV1hKaGRmcUQ4Ui1jNXVTeml3?oc=5",
@@ -784,17 +790,11 @@
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMExCTVBGdVRJd185RGRoWVJhU21kbjFTLWhpSFU5ZUtJdFFaSW9mVkV2TmNXZFp1N0Z5TEdDU3IxRlRwQTdxa2ZieGREbXpfcmhqS3V4YW0yazJlaGx3WGNnQ2FNLXVweUFXaVVva2Q2TF9remtyNms4WDhLbHJkNEE1R1pNRHNfRGxKSU0tY1R2OTl6YmV2R0lyMEx4NjkxVVMyTkx6LS1Ybzd4?oc=5",
           "title": "São Paulo registra quatro casos de hantavirose em 2026: conheça o quadro - Assine Abril",
           "weight": 4
-        },
-        {
-          "source": "Google News (PT)",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON013clRTaWZSTEpzbW5CVF9LOGx0MjBFMlh3dVlkWWZJa1hROWM4eFhfVXBNM3F1YmFYRkd6bHpLTTg0cTVIZ0t0Z1VuVzBfckFsVGk2ZVQ1aVRXT1NUMHpNV2ZQMEY4eE54TUVxTk1LRDBWNXppQzV4SnkzUHlub2xQd0V5SC1iMUQtcjVoTFpRUkdKQXRwaVlXb2NNdUpVWEhXM1pHNlk1NklZWWNaTTZMUdIBqgFBVV95cUxQT0tPN2hOQ0NSRGx6QTluR25aWlJGY2RYeERnRmlDWUZaV1d1YVFmMFd3eHNOdVdpMU1GTnVhN09KaFJNNDZMLXVyalRDeFRyWEVLNW1IUUtZLWFFc0RoTXZta2FnWWtueGFweFNreDhCcHhkbDlFVnBMLURUOGhhRzFYeEJfUnZRR042bGYyTkRFcDlKQ3lsbjJOUGpSOVVUWGNLNGtBa1FCZw?oc=5",
-          "title": "MG confirma caso de hantavírus. Passageiros retirados de cruzeiro - - Misto Brasil",
-          "weight": 4
         }
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2NFdFBmQTJJcDZwWXRibjVHbFdGRTZtWlNtd0tybWlrVEZwcWlLSXdqQ19uWWVtVXJrWURpQ2xBd2Vha1VoSjlfM2lFUkRFT3V2djFZd2FGUlpyOW1iZU5DaFYtaHdTcDhXSUQwVmxCUXdhNEVRSVlpdkFvNGoyUjdSNE14bG53NVY3OXIxR3U3Yjg3MUpfazRHMWFvbEXSAaQBQVVfeXFMTk1XX3ZDWFctdFQzRlJuMUdpbE5KX3FsVXpEQkpVbkZPbE5wU0R0MWZzazM4TnM0eHhhZzRWaldzOG5HMEVfckh5ZUJiaUlrWnFvUm9WNVVyYVY3OHVDTjVYUUJIUFNta3Q1d04zb29rNElMNXF1RkNZNlBoN2xKaVJEcVhOSG0yYkdlck90R1gwYkttQlRXT0JycEhOQ09ibnJ5dzg?oc=5\" targ",
-      "scanned_at": "2026-11-05T09:37:43.553349+00:00"
+      "scanned_at": "2026-11-05T17:38:51.130473+00:00"
     },
     {
       "id": "cs_2d475f59f7fc",
@@ -1064,7 +1064,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnR4ZkJ0emJZQ21xNlJsWG9LeUpJV1F5RURtNnRua191WFV6WWN1Wm54aS1YWHJHQ2tfM1QyRFhoVG9pSmx5V1k1SHMyRW1EUi15Uk5Uc2VjNnhYTW1BMXFkSzdwMEtJUS1JQ193TmR1TEl0eWxhYnU5emxvc1lyUmswbTNLMmNqRi1qZVJpbllmM0tLM2MzNFNsQ3cwRHpHcTl3c0Vn?oc=5\" target=\"_blank\">Erster Verdachtsfall auf Hantavirus in Portugal bestätigt sich nicht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "scanned_at": "2026-11-05T09:37:44.739832+00:00"
+      "scanned_at": "2026-11-05T17:38:49.236013+00:00"
     },
     {
       "id": "cs_72420b519318",
@@ -1091,7 +1091,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNEZuSVV5UjdRVlNzY1lYT1B3MnM2RTVPM09XdGRHRFV6MXRDWDdvWEtVUzM4R29nVURtdmt6UzVKZlI2Smw4c0ZEaW5HVjNRMlJ0elkzWmhFMHgtTTdMS0VtbU1PZXZNdXAtV2RfSWwzTGhfWFZKZGNvcFhkMlhWcXdQNXpZVGczLUstSkhkdnlKOXlQZnkwNTlJVGhtU0tnYWhFNGxRaVdNYXM0NlZMMC00ZTNOV1Izb01MTmZBOFZoV3ZiUzBTVjFGNVMtamx2RFB4U3FoeXJKVG5NYi1lUFZSSWV1Ql9Pd0hDZ3JTNk1DM3pVTkHSAYQCQVVfeXFMUDczY3dVM2l1OE96d1VfR2hiM3JyZldHYkJ3Q0d1bG94S1FlZzNFcnBlbUl0eEtfdTh2TUpQUnVkbFFfMDh0N2M2em9mNzZsZHdDZk1FcE",
-      "scanned_at": "2026-11-05T09:37:46.259429+00:00"
+      "scanned_at": "2026-11-05T17:38:51.141835+00:00"
     },
     {
       "id": "cs_2d43915f71f4",
@@ -1118,7 +1118,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkxaUkdQa2pnZS02aU5jbmNOaUpaRE50LTFKcVktR2tTWUtJZWpYc2lua1kyX3I2WjIwdnlQTDhPM3VkMnUzZllvYXhFUi1MeDA3NHNOMDZIY3BHMGliTW1JaGduNzN6T0FfRkNGUDd3d091QW52a1VpSE9ZOUhzbVNEYll3QUp6MDJ3OGlqVGtpTHNnMVJpd0ltWDRITFpYdExKWHd3NDBSRElHMi0yWUlIb3pSWDZIZVRneFFSaXBzUUJJMG9mbXdxdG91QQ?oc=5\" target=\"_blank\">Ausbruch auf Kreuzfahrtschiff - WHO bestätigt 6 Hantavirus-Fälle – neuer Verdachtsfall in Spanien</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SRF</font>",
-      "scanned_at": "2026-11-05T09:37:44.976739+00:00"
+      "scanned_at": "2026-11-05T17:38:49.694966+00:00"
     },
     {
       "id": "cs_d992418092e6",
@@ -1145,7 +1145,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSHJRNlZPb29GWDlyZkM1TVJxcXh2clB3ZVVQM1E4MFNJOWtsRkZPdTFGZ3FHdFNBQy1ocXV1ZV96V3BaM0xXeHZ4ekluRDhVTzNxNnBHNnEtY1o3LVlUSlVzcmktam9iM081QXd5cUg5djJRX0ZVMV9LVkU4aDF3XzFYdGhFaWwySTkzNGpKemppckEzMHA4Y3dTbjZTYXRMZGIwQU9LV1JBX25CYVF5LWtn?oc=5\" target=\"_blank\">Schweiz berichtet: Nun auch Hantavirus-Fall an Land bestätigt – Urlauber war zuvor auf Kreuzfahrtschiff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frankfurter Rundschau</font>",
-      "scanned_at": "2026-11-05T09:37:44.731282+00:00"
+      "scanned_at": "2026-11-05T17:38:49.230557+00:00"
     }
   ]
 }
