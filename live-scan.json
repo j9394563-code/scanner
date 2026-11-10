@@ -1,7 +1,27 @@
 {
-  "scanned_at": "2026-11-10T15:45:23.020569+00:00",
-  "total": 876,
+  "scanned_at": "2026-11-10T21:28:20.291700+00:00",
+  "total": 878,
   "items": [
+    {
+      "id": "scan_48732dfccfaa",
+      "title": "Alerta sanitaria en Villa Montes por casos de hantavirus - La Razón Digital Bolivia",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXNSVlc1TnFVYTlBRmY0YUNJdkJWRG9sWXNaQ19lUTlXT2ZFWUhYdjVySWJlcXhiRmZncUd1TXdIWHREUW9MTzZhQUkwT2VxQ0dRZ3VSZmZncHB0NnVlSGR3REk1bkVhMjJacHBWN2R5bURXN2VEQmcycmUyVm9Wc1JtZ2dnbzhGV21uZEl4UktqN2NyYXpzQWItcTY?oc=5",
+      "published": "Tue, 10 Nov 2026 19:22:44 GMT",
+      "source": "Google News (ES)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXNSVlc1TnFVYTlBRmY0YUNJdkJWRG9sWXNaQ19lUTlXT2ZFWUhYdjVySWJlcXhiRmZncUd1TXdIWHREUW9MTzZhQUkwT2VxQ0dRZ3VSZmZncHB0NnVlSGR3REk1bkVhMjJacHBWN2R5bURXN2VEQmcycmUyVm9Wc1JtZ2dnbzhGV21uZEl4UktqN2NyYXpzQWItcTY?oc=5\" target=\"_blank\">Alerta sanitaria en Villa Montes por casos de hantavirus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">La Razón Digital Bolivia</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": {
+        "country": "Bolivia",
+        "lat": -16.29,
+        "lng": -63.59,
+        "match": "Bolivia"
+      },
+      "safe_signal": false,
+      "scanned_at": "2026-11-10T21:27:53.360142+00:00"
+    },
     {
       "id": "scan_d21df16d7b51",
       "title": "Villa Montes registra tres casos positivos de hantavirus a la fecha y uno de ellos falleció - Yacuiba Noticias",
@@ -15,7 +35,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:51.557264+00:00"
+      "scanned_at": "2026-11-10T21:27:53.390424+00:00"
     },
     {
       "id": "scan_193b06f81969",
@@ -260,7 +280,7 @@
         "match": "Brasil"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:52.688089+00:00"
+      "scanned_at": "2026-11-10T21:27:54.560982+00:00"
     },
     {
       "id": "scan_091e1bf138c9",
@@ -315,7 +335,7 @@
         "match": "São Paulo"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:52.691581+00:00"
+      "scanned_at": "2026-11-10T21:27:54.563703+00:00"
     },
     {
       "id": "scan_4469afe032c3",
@@ -827,7 +847,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:52.703545+00:00"
+      "scanned_at": "2026-11-10T21:27:54.574923+00:00"
     },
     {
       "id": "scan_f21229987eeb",
@@ -2176,7 +2196,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:53.167878+00:00"
+      "scanned_at": "2026-11-10T21:27:54.972299+00:00"
     },
     {
       "id": "scan_72eda0b6cfdf",
@@ -2416,7 +2436,7 @@
         "match": "France"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:53.165909+00:00"
+      "scanned_at": "2026-11-10T21:27:54.969283+00:00"
     },
     {
       "id": "scan_7e30c6834a7f",
@@ -3026,7 +3046,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:52.247771+00:00"
+      "scanned_at": "2026-11-10T21:27:53.877064+00:00"
     },
     {
       "id": "scan_1be723843941",
@@ -3301,7 +3321,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:51.575230+00:00"
+      "scanned_at": "2026-11-10T21:27:53.399423+00:00"
     },
     {
       "id": "scan_f2bac4d42ee4",
@@ -3321,7 +3341,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-10T07:29:18.365199+00:00"
+      "scanned_at": "2026-11-10T21:27:53.888140+00:00"
     },
     {
       "id": "scan_c0c8e07f30d9",
@@ -3946,7 +3966,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:48.568480+00:00"
+      "scanned_at": "2026-11-10T21:27:50.696191+00:00"
     },
     {
       "id": "scan_c2d79b4d3319",
@@ -4646,7 +4666,7 @@
         "match": "GENEVA"
       },
       "safe_signal": true,
-      "scanned_at": "2026-11-10T15:44:25.023282+00:00"
+      "scanned_at": "2026-11-10T21:27:29.797962+00:00"
     },
     {
       "id": "scan_cbd125f38638",
@@ -5476,7 +5496,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:48.571146+00:00"
+      "scanned_at": "2026-11-10T21:27:50.698129+00:00"
     },
     {
       "id": "scan_eac4181ef439",
@@ -5496,7 +5516,7 @@
         "match": "New York"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:49.898103+00:00"
+      "scanned_at": "2026-11-10T21:27:51.831182+00:00"
     },
     {
       "id": "scan_2e642a4ef6f6",
@@ -5511,22 +5531,22 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:50.402758+00:00"
+      "scanned_at": "2026-11-10T21:27:52.209800+00:00"
     },
     {
       "id": "scan_ae25fe5eaaed",
-      "title": "OMS declara fin del brote de hantavirus vinculado a crucero - DW.com",
+      "title": "OMS declara fin del brote de hantavirus vinculado a crucero - Deutsche Welle",
       "title_de": "",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMW9FRDRNSFVrSU9HZzBDdTFYLVpuSVYxMjNyQmFzV2trVnJSbGQ4SU9TSmcxbUQwN0dhQUxWemptMlN2UUNab2hrbDBHQWh5cV9QcWZtSWo0UmJSdzQ4cGdkb1hURXF2eEg3MTRESDduemJjVFI4ZlpPX195T0pFbVdQUU9ON1lVY0U0M1JSdDB1d1VLQlEwek9OTdIBmwFBVV95cUxONURYOURnb1lMQWN5VDRLdjdVU3ZhRWNlRk0zVjc5RW13cUVnMk5mWG5RdlpkSXZseDZnMmt6WjdLdzUwd2RlMmtQczdvbGxmSG5zZ0xrbmh5UDJoTFBZQXIwQ0M0Y1pUMk5feG1JZFRSQ0tmVzRyMjFGWllIU3A3NktrM182Vm8zOXBucU9kNHZEdVJhTXpSdXZCTQ?oc=5",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "source": "Google News (ES)",
       "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNMW9FRDRNSFVrSU9HZzBDdTFYLVpuSVYxMjNyQmFzV2trVnJSbGQ4SU9TSmcxbUQwN0dhQUxWemptMlN2UUNab2hrbDBHQWh5cV9QcWZtSWo0UmJSdzQ4cGdkb1hURXF2eEg3MTRESDduemJjVFI4ZlpPX195T0pFbVdQUU9ON1lVY0U0M1JSdDB1d1VLQlEwek9OTdIBmwFBVV95cUxONURYOURnb1lMQWN5VDRLdjdVU3ZhRWNlRk0zVjc5RW13cUVnMk5mWG5RdlpkSXZseDZnMmt6WjdLdzUwd2RlMmtQczdvbGxmSG5zZ0xrbmh5UDJoTFBZQXIwQ0M0Y1pUMk5feG1JZFRSQ0tmVzRyMjFGWllIU3A3NktrM182Vm8zOXBucU9kNHZEdVJhTXpSdXZCTQ?oc=5\" target=\"_blank\">OMS declara fin del brote de hantavirus vinculado a crucero</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">DW.com</",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNMW9FRDRNSFVrSU9HZzBDdTFYLVpuSVYxMjNyQmFzV2trVnJSbGQ4SU9TSmcxbUQwN0dhQUxWemptMlN2UUNab2hrbDBHQWh5cV9QcWZtSWo0UmJSdzQ4cGdkb1hURXF2eEg3MTRESDduemJjVFI4ZlpPX195T0pFbVdQUU9ON1lVY0U0M1JSdDB1d1VLQlEwek9OTdIBmwFBVV95cUxONURYOURnb1lMQWN5VDRLdjdVU3ZhRWNlRk0zVjc5RW13cUVnMk5mWG5RdlpkSXZseDZnMmt6WjdLdzUwd2RlMmtQczdvbGxmSG5zZ0xrbmh5UDJoTFBZQXIwQ0M0Y1pUMk5feG1JZFRSQ0tmVzRyMjFGWllIU3A3NktrM182Vm8zOXBucU9kNHZEdVJhTXpSdXZCTQ?oc=5\" target=\"_blank\">OMS declara fin del brote de hantavirus vinculado a crucero</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deutsche",
       "status": "suspected",
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:51.549322+00:00"
+      "scanned_at": "2026-11-10T21:27:53.886826+00:00"
     },
     {
       "id": "scan_732a3809e9a7",
@@ -7638,7 +7658,7 @@
         "match": "American"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:48.028322+00:00"
+      "scanned_at": "2026-11-10T21:27:50.116070+00:00"
     },
     {
       "id": "scan_a0f4f19d1aeb",
@@ -9363,7 +9383,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-10T15:44:53.169876+00:00"
+      "scanned_at": "2026-11-10T21:27:54.970807+00:00"
     },
     {
       "id": "scan_03105236a8ee",
@@ -10084,26 +10104,6 @@
       },
       "safe_signal": false,
       "scanned_at": "2026-11-04T08:08:46.383996+00:00"
-    },
-    {
-      "id": "scan_f7196e8430a1",
-      "title": "2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak - Nebraska Examiner",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORFc3QVRodnppM053M1ExY25tTVBjWUh1YklleVZqTzJsRnZ5aDQ3ZEZyV0k5QUMyU2p5SUpXMmEtM1pVNXJCVVZfMHlxS3drQTZOQVB2TFpEaWtmNzhXTFhpQkkwcS10YVFuZ1FiNF9FZDFsY3phY2JYblU4TUk1amJPVnptT1JFOUcxTmZJc1VVTW91dVN6TlNxNVhoV1dsNHNJX29vOG41LXJhQ0J1dFNKWHN3ZGtRR3RpWnpxUkp2ZHVC?oc=5",
-      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxORFc3QVRodnppM053M1ExY25tTVBjWUh1YklleVZqTzJsRnZ5aDQ3ZEZyV0k5QUMyU2p5SUpXMmEtM1pVNXJCVVZfMHlxS3drQTZOQVB2TFpEaWtmNzhXTFhpQkkwcS10YVFuZ1FiNF9FZDFsY3phY2JYblU4TUk1amJPVnptT1JFOUcxTmZJc1VVTW91dVN6TlNxNVhoV1dsNHNJX29vOG41LXJhQ0J1dFNKWHN3ZGtRR3RpWnpxUkp2ZHVC?oc=5\" target=\"_blank\">2 more cruise ship passengers leave Omaha quarantine after deadly hantavirus outbreak</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Nebraska Examiner</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": {
-        "country": "USA",
-        "lat": 41.49,
-        "lng": -99.9,
-        "match": "Nebraska"
-      },
-      "safe_signal": false,
-      "scanned_at": "2026-11-01T14:06:30.743075+00:00"
     }
   ]
 }
