@@ -1,5 +1,5 @@
 {
-  "scanned_at": "2026-11-19T08:39:31.991617+00:00",
+  "scanned_at": "2026-11-19T17:39:55.662088+00:00",
   "total": 25,
   "cases": [
     {
@@ -237,7 +237,7 @@
       ],
       "confidence": 0.6633333333333333,
       "clinical_notes": "<div class=\"tag country\">Countries: World, Burundi, Central African Republic, Ethiopia, Nigeria, Papua New Guinea, Somalia, South Sudan, Sudan</div>\n                                      <div class=\"tag source\">Source: International Rescue Committee</div>\n                                                                                              <p>Geneva, Switzerland, May 18, 2026 — As the world faces the largest Ebola outbreak in more than a decade in a region with chronic violence and insta",
-      "scanned_at": "2026-11-19T08:38:27.213018+00:00"
+      "scanned_at": "2026-11-19T17:38:47.255503+00:00"
     },
     {
       "id": "cs_48dc43382c60",
@@ -450,16 +450,16 @@
       "scanned_at": "2026-10-22T05:50:03.490286+00:00"
     },
     {
-      "id": "cs_b05591ae8dcc",
+      "id": "cs_53d4dbb33524",
       "count": 112,
       "status": "suspected",
       "location": {
         "country": "Argentina",
-        "city": "Argentina",
-        "lat": -38.42,
-        "lng": -63.62
+        "city": "Bariloche",
+        "lat": -41.13,
+        "lng": -71.31
       },
-      "date": "Wed, 18 Nov 2026 20:28:39 GMT",
+      "date": "Thu, 19 Nov 2026 14:37:30 GMT",
       "age": null,
       "nationality": null,
       "sex": null,
@@ -467,6 +467,12 @@
         "LA17"
       ],
       "sources": [
+        {
+          "source": "Google News (ES)",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSHpET3VjVWFzaVNCSEJ1ckVjakZiVzdUX0tDYnRiTDA0VFNLV00tZloyY0hXMkRHbjcwVjEteFR5dHpkU0xTTmh5ejgzZU9fbTVvWlVUUzJxamVuM2d0bGp1Z0gwWlZFbFVhRThicUZnWkpTUnpKaVNIM09uanBqRm1YOFJGUXFRRWh0VzJwM0k5U3ktVUx0Y2FHazI2eUVrR0JJOW9TWHlwMFHSAbABQVVfeXFMT0pVU1pBbWExQmMzcUwxRVZ6VXFDelp4WWUtZFR2d1F2Wk9rVDVua0hFYlRMLVRfbTEtVG14Q2hwY0NZbUl4MUlCMGpGU08zbnh2TEo1a3pLRDNiY2pNRGFhcjhmN1VMdHN0Z2psZTB5R3l5NlIwMTNUT3A3eUVma3R2aWpPVlNRWU4yNDBnS3c5aEhzZHp5dDR4VHNCMDNaaEtxckt4Y3RYMnNRclB2TjE?oc=5",
+          "title": "Se confirmó un caso de hantavirus en Bariloche - Diario El Cordillerano",
+          "weight": 4
+        },
         {
           "source": "Google News (EN)",
           "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUC12X1hQMnNsV1hGY0l2TW9tQ2JlWnNIZFVVaFVNR3RDeHFVRWFjMEdmclAyb2VOaW5KQWYzS3NTNjBVWVVMQmEzT2NJSDdONEJVQ3FZYlMySDRoeGFEMk1rX3U0bVRlaGFSbUFVTGZxZVlTcDVOTGhIc3Eyd2FhUDFGemo5cUE3WXYzVTI1TzdUT2tCRWdtcWdrcWxqNDA3eDBNNlFfajM2cDNuTXFpWFRGMXN3ZjVjSm84NHg5MA?oc=5",
@@ -508,17 +514,11 @@
           "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQU2d2LWIzSFExdHFpc3gwN1V0Tk1RTnBWZm5HUENLeGI3Nm5ad19vV0dIM2RQbUU1ZUdyNXJ1andaampxN21Wc0lxVXdudU1Kczh6bTRpMFpYeS16ejJ5a0JwcnJaZlo3VmlCOHNFX2dOMXEtV0c1NjVYeHJ3VFFWd3JvNnlwVlZ6aWo5VG9rMmhXY0UyamVxY3laOFAyS2tpNGRmZnc3QXduY3ZHWkxqeWdlMFA2RzdsYnhZbV9idWFIVXZmUlY2b2ZoTGJGajjSAdQBQVVfeXFMUFRrWkllSnF6dDN2QWNKU1BIOHUtLVduZDZYTENROEtOTWJsYm8zRHBqYWpHYkYyV0daRW54YnEtV1VGOFIzQ2kxblFJU0NKUUo0Q0ZGNWFNdnlkX0ZhRTRfcFcxSlRVM1ZhbllRSTJ5Z3c4UU51NExHYWFLdU52VUlpdVV5R2NEeFN0Y2UwV1c0SVBTOHoySE04ekpKeGtmdVViRV93dGIzOG1wVXlNMExVR1I5cnI1WUt2QkhOTmgyV1hkdWFUMXFrbl9LNzRMcVlwb0I?oc=5",
           "title": "Confirman tres casos de hantavirus en una misma familia de la Patagonia, con contagio por contacto estrecho - Lmneuquen.com",
           "weight": 4
-        },
-        {
-          "source": "Google News (ES)",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcV96RUI4U2c5V19aT2JncWh6VmcwaUxvUnhtbWdjMnV6dzhsdWdrS1RQMWRBUUNCMjd2T25oUE9HbWw0Mk91WXpKbk9MYjF5SUgzZ0xJZGhXQVJHRUxTdGZOSEN5YUdMdi15UFY2SVltMUJ1Y1F3S29TVi13MkhoaFlBM3VudWxEaEtfbDNJekp4Q2M?oc=5",
-          "title": "Informe Final de Hantavirus Temporada 2025-2026 en Argentina - Atlas Global de Riesgo",
-          "weight": 4
         }
       ],
       "confidence": 0.4966666666666667,
-      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPUC12X1hQMnNsV1hGY0l2TW9tQ2JlWnNIZFVVaFVNR3RDeHFVRWFjMEdmclAyb2VOaW5KQWYzS3NTNjBVWVVMQmEzT2NJSDdONEJVQ3FZYlMySDRoeGFEMk1rX3U0bVRlaGFSbUFVTGZxZVlTcDVOTGhIc3Eyd2FhUDFGemo5cUE3WXYzVTI1TzdUT2tCRWdtcWdrcWxqNDA3eDBNNlFfajM2cDNuTXFpWFRGMXN3ZjVjSm84NHg5MA?oc=5\" target=\"_blank\">Analysis finds no definitive link between hantavirus that caused cruise ship outbreak and outbreak strain in Argentina</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CIDRAP</font>",
-      "scanned_at": "2026-11-19T08:38:49.865937+00:00"
+      "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSHpET3VjVWFzaVNCSEJ1ckVjakZiVzdUX0tDYnRiTDA0VFNLV00tZloyY0hXMkRHbjcwVjEteFR5dHpkU0xTTmh5ejgzZU9fbTVvWlVUUzJxamVuM2d0bGp1Z0gwWlZFbFVhRThicUZnWkpTUnpKaVNIM09uanBqRm1YOFJGUXFRRWh0VzJwM0k5U3ktVUx0Y2FHazI2eUVrR0JJOW9TWHlwMFHSAbABQVVfeXFMT0pVU1pBbWExQmMzcUwxRVZ6VXFDelp4WWUtZFR2d1F2Wk9rVDVua0hFYlRMLVRfbTEtVG14Q2hwY0NZbUl4MUlCMGpGU08zbnh2TEo1a3pLRDNiY2pNRGFhcjhmN1VMdHN0Z2psZTB5R3l5NlIwMTNUT3A3eUVma3R2aWpPVlNRWU4yNDBnS3c5aEhzZHp5dDR4VHNCMDNaaE",
+      "scanned_at": "2026-11-19T17:39:17.438251+00:00"
     },
     {
       "id": "cs_8d2d50433a1f",
@@ -749,7 +749,7 @@
       ],
       "confidence": 0.4966666666666667,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOUmFoRG91LXZtQ3FPdlZwaTBqT1JoZ05ZU3pMbDF5UzJKcHZ3LTBsQmdDd2hRRTV2dWZwcldad1VLNjVpOXlLZUdjMElmc2JTSFphRlBCckE1SHd4NHJ0VnJIODdRLVZ0UnVVbXZtUGdoLVJXal9rYmJNSUZqYUVNcg?oc=5\" target=\"_blank\">Tristan da Cunha Government News: Suspected Hantavirus on the Cruise Ship MV Hondius</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">tristandc.com</font>",
-      "scanned_at": "2026-11-19T08:38:51.186083+00:00"
+      "scanned_at": "2026-11-19T17:39:16.234064+00:00"
     },
     {
       "id": "cs_5d8ea1ca7f56",
@@ -1088,7 +1088,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNQnR4ZkJ0emJZQ21xNlJsWG9LeUpJV1F5RURtNnRua191WFV6WWN1Wm54aS1YWHJHQ2tfM1QyRFhoVG9pSmx5V1k1SHMyRW1EUi15Uk5Uc2VjNnhYTW1BMXFkSzdwMEtJUS1JQ193TmR1TEl0eWxhYnU5emxvc1lyUmswbTNLMmNqRi1qZVJpbllmM0tLM2MzNFNsQ3cwRHpHcTl3c0Vn?oc=5\" target=\"_blank\">Erster Verdachtsfall auf Hantavirus in Portugal bestätigt sich nicht</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Euronews.com</font>",
-      "scanned_at": "2026-11-19T08:38:51.750413+00:00"
+      "scanned_at": "2026-11-19T17:39:16.789235+00:00"
     },
     {
       "id": "cs_72420b519318",
@@ -1115,7 +1115,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNEZuSVV5UjdRVlNzY1lYT1B3MnM2RTVPM09XdGRHRFV6MXRDWDdvWEtVUzM4R29nVURtdmt6UzVKZlI2Smw4c0ZEaW5HVjNRMlJ0elkzWmhFMHgtTTdMS0VtbU1PZXZNdXAtV2RfSWwzTGhfWFZKZGNvcFhkMlhWcXdQNXpZVGczLUstSkhkdnlKOXlQZnkwNTlJVGhtU0tnYWhFNGxRaVdNYXM0NlZMMC00ZTNOV1Izb01MTmZBOFZoV3ZiUzBTVjFGNVMtamx2RFB4U3FoeXJKVG5NYi1lUFZSSWV1Ql9Pd0hDZ3JTNk1DM3pVTkHSAYQCQVVfeXFMUDczY3dVM2l1OE96d1VfR2hiM3JyZldHYkJ3Q0d1bG94S1FlZzNFcnBlbUl0eEtfdTh2TUpQUnVkbFFfMDh0N2M2em9mNzZsZHdDZk1FcE",
-      "scanned_at": "2026-11-19T08:38:53.583833+00:00"
+      "scanned_at": "2026-11-19T17:39:18.313593+00:00"
     },
     {
       "id": "cs_2d43915f71f4",
@@ -1142,7 +1142,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSkxaUkdQa2pnZS02aU5jbmNOaUpaRE50LTFKcVktR2tTWUtJZWpYc2lua1kyX3I2WjIwdnlQTDhPM3VkMnUzZllvYXhFUi1MeDA3NHNOMDZIY3BHMGliTW1JaGduNzN6T0FfRkNGUDd3d091QW52a1VpSE9ZOUhzbVNEYll3QUp6MDJ3OGlqVGtpTHNnMVJpd0ltWDRITFpYdExKWHd3NDBSRElHMi0yWUlIb3pSWDZIZVRneFFSaXBzUUJJMG9mbXdxdG91QQ?oc=5\" target=\"_blank\">Ausbruch auf Kreuzfahrtschiff - WHO bestätigt 6 Hantavirus-Fälle – neuer Verdachtsfall in Spanien</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SRF</font>",
-      "scanned_at": "2026-11-19T08:38:52.056865+00:00"
+      "scanned_at": "2026-11-19T17:39:17.030781+00:00"
     },
     {
       "id": "cs_d992418092e6",
@@ -1169,7 +1169,7 @@
       ],
       "confidence": 0.4633333333333333,
       "clinical_notes": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPSHJRNlZPb29GWDlyZkM1TVJxcXh2clB3ZVVQM1E4MFNJOWtsRkZPdTFGZ3FHdFNBQy1ocXV1ZV96V3BaM0xXeHZ4ekluRDhVTzNxNnBHNnEtY1o3LVlUSlVzcmktam9iM081QXd5cUg5djJRX0ZVMV9LVkU4aDF3XzFYdGhFaWwySTkzNGpKemppckEzMHA4Y3dTbjZTYXRMZGIwQU9LV1JBX25CYVF5LWtn?oc=5\" target=\"_blank\">Schweiz berichtet: Nun auch Hantavirus-Fall an Land bestätigt – Urlauber war zuvor auf Kreuzfahrtschiff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Frankfurter Rundschau</font>",
-      "scanned_at": "2026-11-19T08:38:51.744170+00:00"
+      "scanned_at": "2026-11-19T17:39:16.784083+00:00"
     }
   ]
 }
