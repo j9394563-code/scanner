@@ -1,7 +1,27 @@
 {
-  "scanned_at": "2026-11-21T03:18:26.537853+00:00",
-  "total": 896,
+  "scanned_at": "2026-11-21T11:26:53.525787+00:00",
+  "total": 858,
   "items": [
+    {
+      "id": "scan_012e1a9fe341",
+      "title": "NICD helps trace deadly virus on MV Hondius back to Patagonia - https://novanews.co.za/",
+      "title_de": "Das NICD hilft bei der Rückverfolgung des tödlichen Virus auf der MV Hondius bis nach Patagonien – https://novanews.co.za/",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQWFYUXdUTjRubXFtZnRsV0RUS0dqRnQyeFNaMjZkWDVvMmw1OHFQMGlvRVczSlczNmN3Um95NERveXRmVzdKVUlGNnJQcC03Z24zMFRVbEZzMk45VWthQ3U0WGxjQ2g3UHp1OHlEVjJ4SjJrVXpxbTk5VVhsTUcxRkxSWllXR1J4Q1g4dnJ3?oc=5",
+      "published": "Sat, 21 Nov 2026 04:15:00 GMT",
+      "source": "Google News (EN)",
+      "source_weight": 5,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNQWFYUXdUTjRubXFtZnRsV0RUS0dqRnQyeFNaMjZkWDVvMmw1OHFQMGlvRVczSlczNmN3Um95NERveXRmVzdKVUlGNnJQcC03Z24zMFRVbEZzMk45VWthQ3U0WGxjQ2g3UHp1OHlEVjJ4SjJrVXpxbTk5VVhsTUcxRkxSWllXR1J4Q1g4dnJ3?oc=5\" target=\"_blank\">NICD helps trace deadly virus on MV Hondius back to Patagonia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">https://novanews.co.za/</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": {
+        "country": "Argentina",
+        "lat": -45.0,
+        "lng": -68.0,
+        "match": "Patagoni"
+      },
+      "safe_signal": false,
+      "scanned_at": "2026-11-21T11:26:15.577931+00:00"
+    },
     {
       "id": "scan_8f26ad0695fb",
       "title": "Hantavirus Briefing Highlights Surveillance and Diagnostic Gaps Across Somalia Health Systems - Bioengineer.org",
@@ -20,7 +40,7 @@
     {
       "id": "scan_536259889e1f",
       "title": "Death on the high seas: scientists unravel how hantavirus spread aboard the MV Hondius - Gavi, the Vaccine Alliance",
-      "title_de": "Tod auf hoher See: Wissenschaftler entschlüsseln, wie sich das Hantavirus an Bord der MV Hondius ausbreitete – Gavi, die Impfallianz",
+      "title_de": "Tod auf hoher See: Wissenschaftler entschlüsseln die Verbreitung des Hantavirus an Bord der MV Hondius – Gavi, die Impfallianz",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblZTM00wSDI1V281Z2tDOHA2OGxuaC1OX254WjZ5WU00RDVnalRpa0VUd1ZtNWxvdEQyeldWV1JQYVRENlVGeF9PaWZWNWwwVHVIU19VXzRfYXNrdjBjRkFDeWF6d0dOZHlScHNyT2dlY2QxV2ZFVWhPa3BRSnljQ1RnMXJYV1NpcElNektwLTZTTmQzQXVUNXNXclR0ZmctbWJOYlljd3FLSHRR?oc=5",
       "published": "Fri, 20 Nov 2026 15:42:02 GMT",
       "source": "Google News (EN)",
@@ -30,7 +50,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:44.788809+00:00"
+      "scanned_at": "2026-11-21T11:26:15.576552+00:00"
     },
     {
       "id": "scan_71d7d2ddc6c9",
@@ -45,7 +65,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-20T22:19:11.074434+00:00"
+      "scanned_at": "2026-11-21T11:26:14.824704+00:00"
     },
     {
       "id": "scan_a3f7f150132f",
@@ -65,12 +85,12 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:47.090478+00:00"
+      "scanned_at": "2026-11-21T11:26:16.676991+00:00"
     },
     {
       "id": "scan_b67d4d0b86f0",
       "title": "Confirmaron un nuevo caso de hantavirus en Bariloche y hay cuatro personas aisladas - MinutoYA",
-      "title_de": "Ein neuer Fall von Hantavirus in Bariloche bestätigt und vier Personen isoliert – MinutoYA",
+      "title_de": "Ein neuer Fall von Hantavirus in Bariloche wurde bestätigt und vier Personen wurden isoliert – MinutoYA",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM2FHMmdrVG5WR0licGhrSHVyTE5FcENqMGdMbUF4SGN3SEVVWGVwRG1KUGI1LVJScWxDeXE1S2Jydkw0QmpiVldET0lZc21GeFF3b3g0TC1uZ1cyMy0yVjkxdzlISEE4Q3hkQVdFRDV3VUFjOVZtODdDSktMamZ2Q2tKdlIzYjIzWUpYX0JYbi1rOGwtNExEcW4yZE5Bam44RldmVmptSi11RFVWYkFxNUdXZjJqWXBuSlpjcXZCTQ?oc=5",
       "published": "Thu, 19 Nov 2026 20:52:11 GMT",
       "source": "Google News (ES)",
@@ -85,7 +105,7 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-20T22:19:13.533445+00:00"
+      "scanned_at": "2026-11-21T11:26:16.716310+00:00"
     },
     {
       "id": "scan_36bef23cb586",
@@ -105,12 +125,12 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:47.089807+00:00"
+      "scanned_at": "2026-11-21T11:26:16.676144+00:00"
     },
     {
       "id": "scan_7e0293c10171",
       "title": "Nat Geo Explores The Unabomber’s Brother, Somali Pirates & Hantavirus In New Doc Slate - Deadline",
-      "title_de": "Nat Geo erkundet in neuen Dokumentationen den Bruder des Unabombers, somalische Piraten und das Hantavirus – Deadline",
+      "title_de": "Nat Geo erkundet in neuen Dokumentationen den Bruder des Unabombers, somalische Piraten und das Hantavirus – Deadline",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHpsT0dBMDQ2b1laeG9mSjFienVVZGJzLU1wRWx2Z0h3N2Q3S0NDOXp0OHdHSllEck5ZNWd5b3Fra2JvTEFNVXlKZF8wVmx4bkhwV0hfaDFhWHhldmV4WGZvRW9Ydm9HWkdWS1BqMW9mdFF3Z05yMDNXZm5CRG1XNUpaNlpyc1ZtNGJUcUNVQkFBTlhnLVllTGZuZVFPQVQy?oc=5",
       "published": "Thu, 19 Nov 2026 19:30:00 GMT",
       "source": "Google News (EN)",
@@ -120,7 +140,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:42.177342+00:00"
+      "scanned_at": "2026-11-21T11:26:14.420737+00:00"
     },
     {
       "id": "scan_53d4dbb33524",
@@ -140,12 +160,12 @@
         "match": "Bariloche"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:47.090123+00:00"
+      "scanned_at": "2026-11-21T11:26:16.676544+00:00"
     },
     {
       "id": "scan_b05591ae8dcc",
       "title": "Analysis finds no definitive link between hantavirus that caused cruise ship outbreak and outbreak strain in Argentina - CIDRAP",
-      "title_de": "Analyse findet keinen eindeutigen Zusammenhang zwischen dem Hantavirus, das den Ausbruch auf dem Kreuzfahrtschiff verursacht hat, und dem Stamm des Ausbruchs in Argentinien – CIDRAP",
+      "title_de": "Analyse findet keinen eindeutigen Zusammenhang zwischen dem Hantavirus, das den Ausbruch auf dem Kreuzfahrtschiff verursacht hat, und dem Stamm, der den Ausbruch in Argentinien verursacht hat – CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUC12X1hQMnNsV1hGY0l2TW9tQ2JlWnNIZFVVaFVNR3RDeHFVRWFjMEdmclAyb2VOaW5KQWYzS3NTNjBVWVVMQmEzT2NJSDdONEJVQ3FZYlMySDRoeGFEMk1rX3U0bVRlaGFSbUFVTGZxZVlTcDVOTGhIc3Eyd2FhUDFGemo5cUE3WXYzVTI1TzdUT2tCRWdtcWdrcWxqNDA3eDBNNlFfajM2cDNuTXFpWFRGMXN3ZjVjSm84NHg5MA?oc=5",
       "published": "Wed, 18 Nov 2026 20:28:39 GMT",
       "source": "Google News (EN)",
@@ -160,7 +180,7 @@
         "match": "Argentina"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:42.155796+00:00"
+      "scanned_at": "2026-11-21T11:26:14.394165+00:00"
     },
     {
       "id": "scan_230ab5f54692",
@@ -405,7 +425,7 @@
         "match": "Patagoni"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:44.805843+00:00"
+      "scanned_at": "2026-11-21T11:26:15.581665+00:00"
     },
     {
       "id": "scan_0b1a5fb07495",
@@ -425,7 +445,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:47.741377+00:00"
+      "scanned_at": "2026-11-21T11:26:17.070751+00:00"
     },
     {
       "id": "scan_48732dfccfaa",
@@ -685,7 +705,7 @@
     {
       "id": "scan_12375f6e7c03",
       "title": "SP registra quatro casos de hantavirose em 2026; letalidade é de 51% - CNN Brasil",
-      "title_de": "SP registra quatro casos de hantavirose em 2026; letalidade é de 51 % - CNN Brasil",
+      "title_de": "SP registriert vier Fälle von Hantavirose im Jahr 2026; Letalität beträgt 51 % – CNN Brasil",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMW1rZ21pang5bnc5WUk1SG5ZenYzSWtrNXMyeU1uMG9WZ25rX01qMlA1cGVYRFFLYjNObTdkUFVhcExFMldFRF9YY3NBUUdIUVdGV2NTMXk4SzNBOVVXWWxDU1p2Sm9XYV9YWDdHWWszNTBGME1DNkIxQWMzN1pLcjB0VC1wVUx1S1RIZ2VKMVpaMzFHSGlMYlJjTlMzNXZqaW1CSA?oc=5",
       "published": "Wed, 28 Oct 2026 07:00:00 GMT",
       "source": "Google News (PT)",
@@ -700,7 +720,7 @@
         "match": "Brasil"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:48.210785+00:00"
+      "scanned_at": "2026-11-21T11:26:17.379946+00:00"
     },
     {
       "id": "scan_24b652ac22e9",
@@ -715,7 +735,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:48.216409+00:00"
+      "scanned_at": "2026-11-21T11:26:17.386759+00:00"
     },
     {
       "id": "scan_11a1639819f6",
@@ -785,7 +805,7 @@
         "match": "São Paulo"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:48.212013+00:00"
+      "scanned_at": "2026-11-21T11:26:17.381194+00:00"
     },
     {
       "id": "scan_e66f3cc8a329",
@@ -2934,6 +2954,46 @@
       "scanned_at": "2026-08-11T21:29:36.877120+00:00"
     },
     {
+      "id": "scan_5b07e37ccf32",
+      "title": "Hantavirus : un touriste ayant transité en France en juillet a été déclaré positif et isolé en Espagne, annonce le ministère de la santé - Le Monde.fr",
+      "title_de": "Hantavirus: Ein Tourist, der im Juli durch Frankreich gereist ist, wurde positiv getestet und in Spanien isoliert, teilt das Gesundheitsministerium mit – Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVzB1X09SVTN2dUVCMXphTkNQUWtnWnNZdGdFV1NXbS1iS1VsOWw3STB4ZlN3MHc3c0dSUDBSQngtWUYxdE5qdVBKR1VDZWExc3dJd1dGdS1uai1ZcFlnTDRGRGxFUGRUNTJaNmxHTWtpOWg0d2gyM2ttM01ZblhpYzdSaVBENnNlLUJ5Q180UHQwc1lzMGFOaFFnTnotTkNBSXBub1ZZRjF3N1JDSjlpa3lWaF9tTTUzOVlTbTRXUmJhSFJvcnZSY1NUay10b3doenlGLTVGVFRKUlhrcUhrcndjN0xkdTU1WDZZZzA5ZHFLRHdzVWluS0hDUXFhamNMdC1mOEgtYmlWU3VNZV9NT0NLYlJSZGhtZHRiX3BnYkVKcFhpOGhTdA?oc=5",
+      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "source": "Google News (FR)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVzB1X09SVTN2dUVCMXphTkNQUWtnWnNZdGdFV1NXbS1iS1VsOWw3STB4ZlN3MHc3c0dSUDBSQngtWUYxdE5qdVBKR1VDZWExc3dJd1dGdS1uai1ZcFlnTDRGRGxFUGRUNTJaNmxHTWtpOWg0d2gyM2ttM01ZblhpYzdSaVBENnNlLUJ5Q180UHQwc1lzMGFOaFFnTnotTkNBSXBub1ZZRjF3N1JDSjlpa3lWaF9tTTUzOVlTbTRXUmJhSFJvcnZSY1NUay10b3doenlGLTVGVFRKUlhrcUhrcndjN0xkdTU1WDZZZzA5ZHFLRHdzVWluS0hDUXFhamNMdC1mOEgtYmlWU3VNZV9NT0NLYlJSZGhtZHRiX3BnYkVKcFhpOGhTdA?oc=5\" target=\"_blank\">Hantavirus : un touriste ayant transité en France en juillet a été déclaré positif et isolé en Espagne, annonce le ministère de l",
+      "status": "suspected",
+      "flights": [],
+      "geo": {
+        "country": "France",
+        "lat": 46.23,
+        "lng": 2.21,
+        "match": "France"
+      },
+      "safe_signal": false,
+      "scanned_at": "2026-11-21T11:26:17.694173+00:00"
+    },
+    {
+      "id": "scan_b30e4fa93617",
+      "title": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé - franceinfo",
+      "title_de": "Das Gesundheitsministerium gibt bekannt, dass bei einem Touristen, der im Juli in Frankreich gewesen ist, ein Fall von Hantavirus festgestellt wurde – franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbVlTdElUNVRtYWJCdUF2TG93Si1PLTNhTHIwLTJSelpsNWM2SEFRa01yQkRuMEE3ZUJyVW9OeUlsYkdoWkdJckxCWkJfNl81Y08zbFVhWkNRalpVUUpnRE8xa2V5YUhMUy0ta1Utdl8zV3k3TFQ0U0tOTmdBTkVFN0wwdjAtTzRadndOcV8tVTJwVy04LWpZTjY0WEVQdG91akZoZnhKTFQ0TXdSUXNxaE8ya01nMGZDUUVhR1NIWkVmMngxSnlGeVVwcnZsRDcyOFZwejhKRDNKa2lYY3Jib0hFTDVuWDA2aW85dk1mZmtUUUEybjViN25zMXJmb1Z0aW1GMXEtUnc?oc=5",
+      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "source": "Google News (FR)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbVlTdElUNVRtYWJCdUF2TG93Si1PLTNhTHIwLTJSelpsNWM2SEFRa01yQkRuMEE3ZUJyVW9OeUlsYkdoWkdJckxCWkJfNl81Y08zbFVhWkNRalpVUUpnRE8xa2V5YUhMUy0ta1Utdl8zV3k3TFQ0U0tOTmdBTkVFN0wwdjAtTzRadndOcV8tVTJwVy04LWpZTjY0WEVQdG91akZoZnhKTFQ0TXdSUXNxaE8ya01nMGZDUUVhR1NIWkVmMngxSnlGeVVwcnZsRDcyOFZwejhKRDNKa2lYY3Jib0hFTDVuWDA2aW85dk1mZmtUUUEybjViN25zMXJmb1Z0aW1GMXEtUnc?oc=5\" target=\"_blank\">Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">franceinfo</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": {
+        "country": "France",
+        "lat": 46.23,
+        "lng": 2.21,
+        "match": "France"
+      },
+      "safe_signal": false,
+      "scanned_at": "2026-11-21T11:26:17.695146+00:00"
+    },
+    {
       "id": "scan_d365e8c5e08c",
       "title": "Hantavirus: Tourist nach Aufenthalt in Frankreich positiv auf Hantavirus getestet - DIE ZEIT",
       "title_de": "Hantavirus: Tourist nach Aufenthalt in Frankreich positiv auf Hantavirus getestet – DIE ZEIT",
@@ -2982,46 +3042,6 @@
       "geo": null,
       "safe_signal": false,
       "scanned_at": "2026-11-21T03:17:47.114188+00:00"
-    },
-    {
-      "id": "scan_5b07e37ccf32",
-      "title": "Hantavirus : un touriste ayant transité en France en juillet a été déclaré positif et isolé en Espagne, annonce le ministère de la santé - Le Monde.fr",
-      "title_de": "Hantavirus: Ein Tourist, der im Juli durch Frankreich gereist ist, wurde positiv getestet und in Spanien isoliert, teilt das Gesundheitsministerium mit – Le Monde.fr",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVzB1X09SVTN2dUVCMXphTkNQUWtnWnNZdGdFV1NXbS1iS1VsOWw3STB4ZlN3MHc3c0dSUDBSQngtWUYxdE5qdVBKR1VDZWExc3dJd1dGdS1uai1ZcFlnTDRGRGxFUGRUNTJaNmxHTWtpOWg0d2gyM2ttM01ZblhpYzdSaVBENnNlLUJ5Q180UHQwc1lzMGFOaFFnTnotTkNBSXBub1ZZRjF3N1JDSjlpa3lWaF9tTTUzOVlTbTRXUmJhSFJvcnZSY1NUay10b3doenlGLTVGVFRKUlhrcUhrcndjN0xkdTU1WDZZZzA5ZHFLRHdzVWluS0hDUXFhamNMdC1mOEgtYmlWU3VNZV9NT0NLYlJSZGhtZHRiX3BnYkVKcFhpOGhTdA?oc=5",
-      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "source": "Google News (FR)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVzB1X09SVTN2dUVCMXphTkNQUWtnWnNZdGdFV1NXbS1iS1VsOWw3STB4ZlN3MHc3c0dSUDBSQngtWUYxdE5qdVBKR1VDZWExc3dJd1dGdS1uai1ZcFlnTDRGRGxFUGRUNTJaNmxHTWtpOWg0d2gyM2ttM01ZblhpYzdSaVBENnNlLUJ5Q180UHQwc1lzMGFOaFFnTnotTkNBSXBub1ZZRjF3N1JDSjlpa3lWaF9tTTUzOVlTbTRXUmJhSFJvcnZSY1NUay10b3doenlGLTVGVFRKUlhrcUhrcndjN0xkdTU1WDZZZzA5ZHFLRHdzVWluS0hDUXFhamNMdC1mOEgtYmlWU3VNZV9NT0NLYlJSZGhtZHRiX3BnYkVKcFhpOGhTdA?oc=5\" target=\"_blank\">Hantavirus : un touriste ayant transité en France en juillet a été déclaré positif et isolé en Espagne, annonce le ministère de l",
-      "status": "suspected",
-      "flights": [],
-      "geo": {
-        "country": "France",
-        "lat": 46.23,
-        "lng": 2.21,
-        "match": "France"
-      },
-      "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:48.591314+00:00"
-    },
-    {
-      "id": "scan_b30e4fa93617",
-      "title": "Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé - franceinfo",
-      "title_de": "Das Gesundheitsministerium gibt bekannt, dass bei einem Touristen, der im Juli in Frankreich verweilte, ein Fall von Hantavirus festgestellt wurde – franceinfo",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbVlTdElUNVRtYWJCdUF2TG93Si1PLTNhTHIwLTJSelpsNWM2SEFRa01yQkRuMEE3ZUJyVW9OeUlsYkdoWkdJckxCWkJfNl81Y08zbFVhWkNRalpVUUpnRE8xa2V5YUhMUy0ta1Utdl8zV3k3TFQ0U0tOTmdBTkVFN0wwdjAtTzRadndOcV8tVTJwVy04LWpZTjY0WEVQdG91akZoZnhKTFQ0TXdSUXNxaE8ya01nMGZDUUVhR1NIWkVmMngxSnlGeVVwcnZsRDcyOFZwejhKRDNKa2lYY3Jib0hFTDVuWDA2aW85dk1mZmtUUUEybjViN25zMXJmb1Z0aW1GMXEtUnc?oc=5",
-      "published": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "source": "Google News (FR)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbVlTdElUNVRtYWJCdUF2TG93Si1PLTNhTHIwLTJSelpsNWM2SEFRa01yQkRuMEE3ZUJyVW9OeUlsYkdoWkdJckxCWkJfNl81Y08zbFVhWkNRalpVUUpnRE8xa2V5YUhMUy0ta1Utdl8zV3k3TFQ0U0tOTmdBTkVFN0wwdjAtTzRadndOcV8tVTJwVy04LWpZTjY0WEVQdG91akZoZnhKTFQ0TXdSUXNxaE8ya01nMGZDUUVhR1NIWkVmMngxSnlGeVVwcnZsRDcyOFZwejhKRDNKa2lYY3Jib0hFTDVuWDA2aW85dk1mZmtUUUEybjViN25zMXJmb1Z0aW1GMXEtUnc?oc=5\" target=\"_blank\">Un cas d'hantavirus détecté chez un touriste ayant séjourné en France en juillet, annonce le ministère de la Santé</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">franceinfo</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": {
-        "country": "France",
-        "lat": 46.23,
-        "lng": 2.21,
-        "match": "France"
-      },
-      "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:48.592111+00:00"
     },
     {
       "id": "scan_4d5622aa660d",
@@ -3561,7 +3581,7 @@
     {
       "id": "scan_2f73a2551dec",
       "title": "Alerta sanitaria por hantavirus en Chile: qué significa, cuáles son los síntomas y cómo prevenir la enfermedad - EL PAÍS",
-      "title_de": "",
+      "title_de": "Gesundheitsalarm wegen Hantavirus in Chile: Was bedeutet das, was sind die Symptome und wie kann man der Krankheit vorbeugen? – EL PAÍS",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc0RPOG1CU09Eam9CelhKTGxmQ08zanJ6M3ZxckI4aENpR3dSQWVlcXRpSEZjX3dfbnpXeHEweVY2a0NhSWhEclhOSC1SblE3QmU5V0xsbHRIM09ZZTJPVDAwM3p4M0NXSUdxR010TVQ2VTFDWFR1VjdEMmhSV3MwanVIWnMwRVpHNGRHR3NINC1PUFhpZTZPNXFVOVBRRkxOQWNNeXdQMF9GaDdrckpya21UdTNxWTFCWHJsMTN3SWFBQ2Y2WmlXRUNjbWd0anBtY3lRUlpIWjQ1QlN5NVFzYmFXNNIB9wFBVV95cUxNbXE3NDhsVHJRR0NXNmUwUGRjeFNGSE9GTXBjajRCWERUNjk0Zng1dFZBdWRJM1NfSl9FYXcycG5NT0FvbFFOT25MMWxyLXNzMXdLMHRmQUxJdmxQNG9sU1VINW9LVWtPdFc5ME9IV2FXUFlyWUN0Z2NRcF8xU2l3V3pHcDlfcXl1WGh6U3p1cE5QWVNkSGdFNWFJaGllU0tRR2ZsSW9JaEdaRkVkMHhFbTM3UkNNd3dydXhYMkhTd1lRWHI1SDNyYmxwYTlLRFZKV3Vpb0l0TGV1T1JDMC1HQ0FNWnZMVnVfNFgtTzVJU1EydVhUTGQw?oc=5",
       "published": "Thu, 30 Jul 2026 07:00:00 GMT",
       "source": "Google News (ES)",
@@ -3576,7 +3596,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:47.742619+00:00"
+      "scanned_at": "2026-11-21T11:26:17.072255+00:00"
     },
     {
       "id": "scan_1be723843941",
@@ -3681,7 +3701,7 @@
     {
       "id": "scan_9b94b7bc8ae3",
       "title": "Alerta sanitaria en Chile por hantavirus: cuáles son las nuevas medidas del Ministerio de Salud - Infobae",
-      "title_de": "",
+      "title_de": "Gesundheitsalarm in Chile wegen Hantavirus: Was sind die neuen Maßnahmen des Gesundheitsministeriums – Infobae",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlZ2ZERlN3VPT0dCal9vU3pROElwcEpNekxRNksxdDY3c0w5X3ZGdVpITmxxMURhSlVyTXprUlVTUHRxNDIycEtScFRLa3hqeHVEb3hFUnRNeEo1VS15UlVlZFptNmVuTEJnSW9mb01tbmhNWWRldl9JVGo2dUxGczllMkFjRWhKMnpFY1JDTmJybHpzQUtPaXZUbTRwb2M3MTdtTmIxRDJjSzZOU3ZCY1EtRHRCcjZDX3lmWGJHWQ?oc=5",
       "published": "Wed, 29 Jul 2026 07:00:00 GMT",
       "source": "Google News (ES)",
@@ -3856,7 +3876,7 @@
     {
       "id": "scan_88ad6d376ccb",
       "title": "Ministerio de Salud declara Alerta Sanitaria por hantavirus desde Atacama a Magallanes - Ministerio de Salud de Chile",
-      "title_de": "Das Gesundheitsministerium erklärt eine Gesundheitswarnung wegen Hantavirus von Atacama bis Magallanes – Gesundheitsministerium von Chile",
+      "title_de": "Ministerio de Salud declara Alerta Sanitaria por hantavirus desde Atacama a Magallanes – Ministerio de Salud de Chile",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc1NvTmQwekk2WFhTUE5CZV9QRXJ5N2R6S3VuMkpySjRxVXlLd2x5Qkd5YjhjaG1YdkRRMmh6dkowa1pSbXFyQld6eVVSYUpFRF9OZ3p0anJ2N3NwY2VtVDJEY2FWLUFmTWlxRC1QNFZtb3F4ZXdmdmxJUHRUTUE2a0t2aWxKeVR1MDZ5RndBY1dKSFZPTEJiNXJXbEpzMXpQN0xKZjFDLUY0MUxhOUE?oc=5",
       "published": "Tue, 28 Jul 2026 07:00:00 GMT",
       "source": "Google News (ES)",
@@ -3871,7 +3891,7 @@
         "match": "Chile"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-20T22:19:13.531757+00:00"
+      "scanned_at": "2026-11-21T11:26:16.714920+00:00"
     },
     {
       "id": "scan_f2bac4d42ee4",
@@ -4306,7 +4326,7 @@
     {
       "id": "scan_e2893ce630c9",
       "title": "Confirmaron un nuevo caso de hantavirus en Buenos Aires y se activó el protocolo sanitario - Infobae",
-      "title_de": "",
+      "title_de": "In Buenos Aires wurde ein neuer Fall von Hantavirus bestätigt und das Gesundheitsprotokoll aktiviert – Infobae",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSXI1NG9nRmp3VU85cDN6azFqSHplRTlXb2xxSmc2QTEtY0hmbHVNbE9oMGdGendKeTVZRFNjX2dpMEtSamxNRUJLdDBmeGxfMmlEQzIteUJWSFBkNll1WXJlQXl2MWQta1pDVlhDcVN6N3had2FqYkw2Ym0zTUxZbFhwVHRrcTR0WmFwWnp0VG4tVkhFRmVUOWdRUlVPN2llRkpqblp1TUNzeEhlLVpMclY0OWJEZGd0dFBaYXlacENWNU9iamtMd0w4X05IVm5G0gHrAUFVX3lxTFB4cDFmRWlYLVc0NGZfbjIyWnJyQWZZVHdZLXlReFRhdE5DVnhKNEZkUWlqQXRWSThLTWZEd3V2c0hBQVVmR29CWE1EczdVeGZKanVCN0x5cUxqaGZtbzI3THVUR2xlbjQtTDZPZ08tcGpSeGpLSnFQTjNhVEYxZW10dU1xLVVZbnBfMG5zYjNoSWM0M1Zid0hYdG41dTk3U0tFUWZzYXVlRUEwTi1TeXU4V1NLeHFzMUJYQnQxRGlGVkVNT3dVcERlQVFpeDh6dG1lN2VqLW5XcXpBOHFURmxsVzdnaFZkbFE2NUU?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "source": "Google News (ES)",
@@ -4326,7 +4346,7 @@
     {
       "id": "scan_8fd5ceb47619",
       "title": "Venezuela confirmó tres muertes por hantavirus: el comunicado del Ministerio de Salud - Infobae",
-      "title_de": "",
+      "title_de": "Venezuela bestätigt drei Todesfälle durch Hantavirus: Die Mitteilung des Gesundheitsministeriums – Infobae",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVHFUaTRCVHFoa01BWTBVZ2trdjMyZnJNaEI5aW9NMVN4T05zcHVFN0g0b0NuT19FV2VHWlp6Q19WOFpIYkE5YVI3dnpLdGFuRDNieWpHanBHUXpEbllXX1ZjRTdMLTYwampqdXRDVXZZMWVMTFpuSGtlZFZ0SWhWLXlLbjRFTThERGFKZzk1Z0hKeTRnUmZaRVJsalp5NlF2dVl6dlpGLTlRTmtIbXUxbnJLMU1KX1ltYUFyQVpkc3ZGR3Ix0gHfAUFVX3lxTE1fcU5hZC01TkFpSFFyN2ZldFpxeDdHQ2hzS19wS3JnTi1OaFZYczRMVFNNREVMT085a0p0cVg2anAwSldCcWZIbE93cGJ6T2dIdVNFWFdOYkM1dk9UVUE2cm9LX3NVZ2FVMDJWTjNaR3JfaDgwejBTUjBfN0xzMDR2VkZRbnJvcm1rU0xYQ2plSmlNSXVaS3czWDRmNk05WnN1ZUNxUXBURmtZaHdoYll5eEluMy1oUTc4alpfWTZrcDBjUFBBV3ZTSkp4V2xkaldFR3JueUhpRkt3dWl3Z2c?oc=5",
       "published": "Tue, 21 Jul 2026 07:00:00 GMT",
       "source": "Google News (ES)",
@@ -4426,7 +4446,7 @@
     {
       "id": "scan_3b195c0b5000",
       "title": "After cruise ship outbreak, review examines how hantavirus affects the brain - CIDRAP",
-      "title_de": "",
+      "title_de": "Nach dem Ausbruch auf einem Kreuzfahrtschiff untersucht eine Studie, wie sich das Hantavirus auf das Gehirn auswirkt – CIDRAP",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
       "published": "Mon, 20 Jul 2026 07:00:00 GMT",
       "source": "Google News (EN)",
@@ -4506,7 +4526,7 @@
     {
       "id": "scan_56dcdad74ec3",
       "title": "Postscript to the Hantavirus Outbreak - tristandc.com",
-      "title_de": "",
+      "title_de": "Nachtrag zum Hantavirus-Ausbruch – tristandc.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcnNXUjBSSHRyVGw4TlhhX2prZXNhT0hGV0stM3BkOW5ncXBENDBobzJ1aWJMMW8wNDk3VVFMaG9SUC0yRzJJV3hRYWxxZEJJaXp3ZDNlQ3BQbHg3clBZWUJwMU9NUUg1ZGVSS2E1bnUzMnBmU1E?oc=5",
       "published": "Wed, 15 Jul 2026 12:46:33 GMT",
       "source": "Google News (EN)",
@@ -4516,7 +4536,7 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:43.231460+00:00"
+      "scanned_at": "2026-11-21T11:26:14.803261+00:00"
     },
     {
       "id": "scan_c2d79b4d3319",
@@ -4581,7 +4601,7 @@
     {
       "id": "scan_5848e10afa8c",
       "title": "South Sudan: WHO South Africa 2026 2nd Quarter Newsletter (April-June)",
-      "title_de": "",
+      "title_de": "Südsudan: WHO Südafrika 2026 Newsletter für das 2. Quartal (April–Juni)",
       "link": "https://reliefweb.int/report/south-sudan/who-south-africa-2026-2nd-quarter-newsletter-april-june",
       "published": "Fri, 10 Jul 2026 18:33:08 +0000",
       "source": "ReliefWeb",
@@ -5186,7 +5206,7 @@
     {
       "id": "scan_4f4a285e0c3f",
       "title": "WHO Declares Hantavirus Outbreak Over, Thanks Spain for ‘Incredible Solidarity’",
-      "title_de": "",
+      "title_de": "WHO erklärt Hantavirus-Ausbruch für beendet und dankt Spanien für „unglaubliche Solidarität“",
       "link": "https://outbreaknewstoday.com/who-declares-hantavirus-outbreak-over-thanks-spain-for-incredible-solidarity-720/?utm_source=rss&utm_medium=rss&utm_campaign=who-declares-hantavirus-outbreak-over-thanks-spain-for-incredible-solidarity",
       "published": "Thu, 02 Jul 2026 22:47:40 +0000",
       "source": "Outbreak News Today",
@@ -5201,7 +5221,7 @@
         "match": "GENEVA"
       },
       "safe_signal": true,
-      "scanned_at": "2026-11-21T03:17:17.818699+00:00"
+      "scanned_at": "2026-11-21T11:25:52.307721+00:00"
     },
     {
       "id": "scan_cbd125f38638",
@@ -6021,7 +6041,7 @@
     {
       "id": "scan_1c4bbc016813",
       "title": "WHO declares Hantavirus outbreak linked to cruise ship is over - BBC",
-      "title_de": "",
+      "title_de": "WHO erklärt Hantavirus-Ausbruch im Zusammenhang mit Kreuzfahrtschiff für beendet – BBC",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ScXFfYUkzZnY3ZkhkNWM1ZklPTDBPUFg3R3RqVmNFMU9VRHlmSC11SEZnb0VwWmZxelViUmctUERXeEktZGFIOUhMZU8wdkJ6QTdUMXBfSXI1Zw?oc=5",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "source": "Google News (EN)",
@@ -6031,12 +6051,12 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:43.239646+00:00"
+      "scanned_at": "2026-11-21T11:26:14.814650+00:00"
     },
     {
       "id": "scan_eac4181ef439",
       "title": "Deadly Hantavirus Cruise Ship Outbreak Is Over 3 Months Later, W.H.O. Says - The New York Times",
-      "title_de": "",
+      "title_de": "Laut WHO ist der Ausbruch des tödlichen Hantavirus auf einem Kreuzfahrtschiff nach mehr als 3 Monaten vorbei – The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYmVrTGtjYlRSMFlxWkVfUjBqRUxxU09RXzhzUEtoXzdGSlRwMXI0bUJxaGpBM3FJTGxjWkR4cXhGUjV3TngxcVU1NkpWMmVTcTlHN1dwekZ3T0NnaURUMnV2SG9BM19sdG1raTdPWnZQanpKTkdqV1BBRFVzT0ZJTzZrVGZwWV9RSGJob1JrWWpqUQ?oc=5",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "source": "Google News (EN)",
@@ -6051,7 +6071,7 @@
         "match": "New York"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:44.790651+00:00"
+      "scanned_at": "2026-11-21T11:26:15.579161+00:00"
     },
     {
       "id": "scan_2e642a4ef6f6",
@@ -6066,12 +6086,12 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:45.335925+00:00"
+      "scanned_at": "2026-11-21T11:26:15.849642+00:00"
     },
     {
       "id": "scan_ae25fe5eaaed",
       "title": "OMS declara fin del brote de hantavirus vinculado a crucero - DW.com",
-      "title_de": "",
+      "title_de": "WHO erklärt Ende des Hantavirus-Ausbruchs im Zusammenhang mit Kreuzfahrtschiff – DW.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMW9FRDRNSFVrSU9HZzBDdTFYLVpuSVYxMjNyQmFzV2trVnJSbGQ4SU9TSmcxbUQwN0dhQUxWemptMlN2UUNab2hrbDBHQWh5cV9QcWZtSWo0UmJSdzQ4cGdkb1hURXF2eEg3MTRESDduemJjVFI4ZlpPX195T0pFbVdQUU9ON1lVY0U0M1JSdDB1d1VLQlEwek9OTdIBmwFBVV95cUxONURYOURnb1lMQWN5VDRLdjdVU3ZhRWNlRk0zVjc5RW13cUVnMk5mWG5RdlpkSXZseDZnMmt6WjdLdzUwd2RlMmtQczdvbGxmSG5zZ0xrbmh5UDJoTFBZQXIwQ0M0Y1pUMk5feG1JZFRSQ0tmVzRyMjFGWllIU3A3NktrM182Vm8zOXBucU9kNHZEdVJhTXpSdXZCTQ?oc=5",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "source": "Google News (ES)",
@@ -6081,12 +6101,27 @@
       "flights": [],
       "geo": null,
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:47.102660+00:00"
+      "scanned_at": "2026-11-21T11:26:16.697788+00:00"
+    },
+    {
+      "id": "scan_eb3f19f57d08",
+      "title": "La OMS da por concluido el brote de hantavirus declarado en el crucero MV Hondius - RTVE.es",
+      "title_de": "Die WHO erklärt den Hantavirus-Ausbruch auf dem Kreuzfahrtschiff MV Hondius für beendet – RTVE.es",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWhESFF5cFNGV2cxaU9ibkg3V25LT2llOVd2YmNPUk5OUHY0OC1rMTJmclhFWWVJMHpUNmo5SEI2OFMtWThieGVlT3IyWjhYYzJLaXRPWGNmNV9uZi1JVEZMVVVibVNINFhsWURfbW9NYVFETnl6WkRKcUVKdTIzT3BGQW1qd0FWV2dzTlQtM2p5NVgxUVFpT0NVUWFwZTh4aTA1aVA2NjhDbG9TY091cXlSLTlwS19xbGVR?oc=5",
+      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+      "source": "Google News (ES)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWhESFF5cFNGV2cxaU9ibkg3V25LT2llOVd2YmNPUk5OUHY0OC1rMTJmclhFWWVJMHpUNmo5SEI2OFMtWThieGVlT3IyWjhYYzJLaXRPWGNmNV9uZi1JVEZMVVVibVNINFhsWURfbW9NYVFETnl6WkRKcUVKdTIzT3BGQW1qd0FWV2dzTlQtM2p5NVgxUVFpT0NVUWFwZTh4aTA1aVA2NjhDbG9TY091cXlSLTlwS19xbGVR?oc=5\" target=\"_blank\">La OMS da por concluido el brote de hantavirus declarado en el crucero MV Hondius</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTVE.es</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-11-21T11:26:17.074507+00:00"
     },
     {
       "id": "scan_41bf1ed28976",
       "title": "Confirman el primer caso de hantavirus en Santa Fe en lo que va de 2026 - La Capital",
-      "title_de": "",
+      "title_de": "Erster Fall von Hantavirus in Santa Fe seit Beginn des Jahres 2026 bestätigt – La Capital",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3RlVllyR0RBc3QzYXFuV2tKV1A4WElWWFAtaW5JajB5UnpxNGVzeTFGQUxOUlhSampsMUR5b21BRG51YTRtckRHRGV4ckF6WDc2cVBMeFh5cDhIeFlRR1Y5ZFhYTm5mU3g4NlY1V2pFcnpoMUJKM1NiRFpTTjBETU9hTlVEMEtoMzF2ZlhxNUVQcEk3QmtKWjZYODFOcXVqWm9TSlpDX3c3aVNJNURzclFlZ9IBuAFBVV95cUxOS2NXNXJjV3hZbGk3V2pvRE50NFFDVDhZT0xLdHgzR24tVldLdGFIQktEdjhnR09wUjJrR2s5MzRNeXVPeTludTlmY0tmVi11aGFDNERVVjFFQVdad2pRTkRKNWpvSkhvaDRNdWxHRHY5Q1lTTVljTUxqR0NMclBPdXR3emRzY0JxOW5pNnhsTTg4OGdUZm5PVUEwS1MxRW9QTHZyVFRDLVo5MzJGdV9pV0EwTzA0Ml94?oc=5",
       "published": "Thu, 02 Jul 2026 07:00:00 GMT",
       "source": "Google News (ES)",
@@ -6097,21 +6132,6 @@
       "geo": null,
       "safe_signal": false,
       "scanned_at": "2026-11-21T03:17:47.121753+00:00"
-    },
-    {
-      "id": "scan_eb3f19f57d08",
-      "title": "La OMS da por concluido el brote de hantavirus declarado en el crucero MV Hondius - RTVE.es",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWhESFF5cFNGV2cxaU9ibkg3V25LT2llOVd2YmNPUk5OUHY0OC1rMTJmclhFWWVJMHpUNmo5SEI2OFMtWThieGVlT3IyWjhYYzJLaXRPWGNmNV9uZi1JVEZMVVVibVNINFhsWURfbW9NYVFETnl6WkRKcUVKdTIzT3BGQW1qd0FWV2dzTlQtM2p5NVgxUVFpT0NVUWFwZTh4aTA1aVA2NjhDbG9TY091cXlSLTlwS19xbGVR?oc=5",
-      "published": "Thu, 02 Jul 2026 07:00:00 GMT",
-      "source": "Google News (ES)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcWhESFF5cFNGV2cxaU9ibkg3V25LT2llOVd2YmNPUk5OUHY0OC1rMTJmclhFWWVJMHpUNmo5SEI2OFMtWThieGVlT3IyWjhYYzJLaXRPWGNmNV9uZi1JVEZMVVVibVNINFhsWURfbW9NYVFETnl6WkRKcUVKdTIzT3BGQW1qd0FWV2dzTlQtM2p5NVgxUVFpT0NVUWFwZTh4aTA1aVA2NjhDbG9TY091cXlSLTlwS19xbGVR?oc=5\" target=\"_blank\">La OMS da por concluido el brote de hantavirus declarado en el crucero MV Hondius</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RTVE.es</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:47.770874+00:00"
     },
     {
       "id": "scan_720566e22b2d",
@@ -8193,7 +8213,7 @@
         "match": "American"
       },
       "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:42.156539+00:00"
+      "scanned_at": "2026-11-21T11:26:14.395101+00:00"
     },
     {
       "id": "scan_a0f4f19d1aeb",
@@ -9906,6 +9926,21 @@
       "scanned_at": "2026-06-24T17:17:23.434071+00:00"
     },
     {
+      "id": "scan_74b6028f9704",
+      "title": "Hantavirus : les confinés rentrent chez eux, «l’épisode est probablement terminé» - Libération",
+      "title_de": "",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWjZ1TWU1aV9oQThoc3lzRUxBbUM2SGxUaGs0YzNGV0FoaS1qMElDQ0dVR2I5a3ZRNkNuZHR0VUwxLTlERW9rRVp3TndHd2RxblpEdEpRZDhjZ3J6VmRkdHZYNmo2aUMwcjh2UmpmUG1oTWRqYjNMSDFnaUI2STA5dDNDVUJWSjVwcXhwOTc5UFlIenRqYmE2WVJsa2UtVmhsNGJyQ0o4UkdNQzJoMm5xWHBXdFlOWVprWkx4Z2JrV2FOcEJKbUhwTDh0bk9Ka2pUQUlIYlFzeGdvRkFSaWthZnRadm1FOTg?oc=5",
+      "published": "Sun, 21 Jun 2026 07:00:00 GMT",
+      "source": "Google News (FR)",
+      "source_weight": 4,
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWjZ1TWU1aV9oQThoc3lzRUxBbUM2SGxUaGs0YzNGV0FoaS1qMElDQ0dVR2I5a3ZRNkNuZHR0VUwxLTlERW9rRVp3TndHd2RxblpEdEpRZDhjZ3J6VmRkdHZYNmo2aUMwcjh2UmpmUG1oTWRqYjNMSDFnaUI2STA5dDNDVUJWSjVwcXhwOTc5UFlIenRqYmE2WVJsa2UtVmhsNGJyQ0o4UkdNQzJoMm5xWHBXdFlOWVprWkx4Z2JrV2FOcEJKbUhwTDh0bk9Ka2pUQUlIYlFzeGdvRkFSaWthZnRadm1FOTg?oc=5\" target=\"_blank\">Hantavirus : les confinés rentrent chez eux, «l’épisode est probablement terminé»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Libération</font>",
+      "status": "suspected",
+      "flights": [],
+      "geo": null,
+      "safe_signal": false,
+      "scanned_at": "2026-11-21T11:26:17.696478+00:00"
+    },
+    {
       "id": "scan_862bf02ac002",
       "title": "Confirmaron un nuevo caso de hantavirus en Bariloche - Infobae",
       "title_de": "",
@@ -9924,21 +9959,6 @@
       },
       "safe_signal": false,
       "scanned_at": "2026-11-21T03:17:47.111257+00:00"
-    },
-    {
-      "id": "scan_74b6028f9704",
-      "title": "Hantavirus : les confinés rentrent chez eux, «l’épisode est probablement terminé» - Libération",
-      "title_de": "",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWjZ1TWU1aV9oQThoc3lzRUxBbUM2SGxUaGs0YzNGV0FoaS1qMElDQ0dVR2I5a3ZRNkNuZHR0VUwxLTlERW9rRVp3TndHd2RxblpEdEpRZDhjZ3J6VmRkdHZYNmo2aUMwcjh2UmpmUG1oTWRqYjNMSDFnaUI2STA5dDNDVUJWSjVwcXhwOTc5UFlIenRqYmE2WVJsa2UtVmhsNGJyQ0o4UkdNQzJoMm5xWHBXdFlOWVprWkx4Z2JrV2FOcEJKbUhwTDh0bk9Ka2pUQUlIYlFzeGdvRkFSaWthZnRadm1FOTg?oc=5",
-      "published": "Sun, 21 Jun 2026 07:00:00 GMT",
-      "source": "Google News (FR)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWjZ1TWU1aV9oQThoc3lzRUxBbUM2SGxUaGs0YzNGV0FoaS1qMElDQ0dVR2I5a3ZRNkNuZHR0VUwxLTlERW9rRVp3TndHd2RxblpEdEpRZDhjZ3J6VmRkdHZYNmo2aUMwcjh2UmpmUG1oTWRqYjNMSDFnaUI2STA5dDNDVUJWSjVwcXhwOTc5UFlIenRqYmE2WVJsa2UtVmhsNGJyQ0o4UkdNQzJoMm5xWHBXdFlOWVprWkx4Z2JrV2FOcEJKbUhwTDh0bk9Ka2pUQUlIYlFzeGdvRkFSaWthZnRadm1FOTg?oc=5\" target=\"_blank\">Hantavirus : les confinés rentrent chez eux, «l’épisode est probablement terminé»</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Libération</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-11-21T03:17:48.593134+00:00"
     },
     {
       "id": "scan_03105236a8ee",
@@ -10104,21 +10124,6 @@
       },
       "safe_signal": false,
       "scanned_at": "2026-06-20T23:53:48.221533+00:00"
-    },
-    {
-      "id": "scan_e0a870d65f51",
-      "title": "‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine - The Guardian",
-      "title_de": "„Das ist keine Wissenschaft, das ist Zwang“: Gesundheitsexperten kritisieren die Anordnung von RFK Jr. zur Hantavirus-Quarantäne – The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5",
-      "published": "Sat, 20 Jun 2026 07:00:00 GMT",
-      "source": "Google News (EN)",
-      "source_weight": 4,
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1SUExITnlzdUhDeGJvZ0xyUjQxZjdfc1ZQaTRFVDNjai1ya1kxcjc4ZGFlWUxJT1NtWVo1UmdFeXo5akxKczY2Z1p2OXE4LVl3NkpkZnZHNXRCQ25oSTJ6eWRJOG1wSFpXbFlONmZVQUE4TzZJU283eEpodFdsZms?oc=5\" target=\"_blank\">‘It’s not science, it’s coercion’: health experts decry RFK Jr order on hantavirus quarantine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Guardian</font>",
-      "status": "suspected",
-      "flights": [],
-      "geo": null,
-      "safe_signal": false,
-      "scanned_at": "2026-11-04T08:08:45.674440+00:00"
     }
   ]
 }
